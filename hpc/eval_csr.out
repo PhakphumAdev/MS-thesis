@@ -1,0 +1,41 @@
+usage: huggingface-cli <command> [<args>]
+huggingface-cli: error: unrecognized arguments: --add-to-git-credentials
+pakphum
+[1morgs: [0m sailor2,nyu-dice-lab,sailor2-eval,ds3001
+/scratch/pa2497/hf_temp
+Traceback (most recent call last):
+  File "/ext3/miniconda3/bin/lm_eval", line 5, in <module>
+    from lm_eval.__main__ import cli_evaluate
+  File "/scratch/pa2497/MS-thesis/lm-evaluation-harness/lm_eval/__init__.py", line 4, in <module>
+    from .evaluator import evaluate, simple_evaluate
+  File "/scratch/pa2497/MS-thesis/lm-evaluation-harness/lm_eval/evaluator.py", line 59
+    >>>>>>> 0bf683b4e6a9df359b3156ba9ba8d62bdd47e0c0
+             ^
+SyntaxError: invalid binary literal
+Traceback (most recent call last):
+  File "/ext3/miniconda3/bin/lm_eval", line 5, in <module>
+    from lm_eval.__main__ import cli_evaluate
+  File "/scratch/pa2497/MS-thesis/lm-evaluation-harness/lm_eval/__init__.py", line 4, in <module>
+    from .evaluator import evaluate, simple_evaluate
+  File "/scratch/pa2497/MS-thesis/lm-evaluation-harness/lm_eval/evaluator.py", line 59
+    >>>>>>> 0bf683b4e6a9df359b3156ba9ba8d62bdd47e0c0
+             ^
+SyntaxError: invalid binary literal
+Traceback (most recent call last):
+  File "/ext3/miniconda3/bin/lm_eval", line 5, in <module>
+    from lm_eval.__main__ import cli_evaluate
+  File "/scratch/pa2497/MS-thesis/lm-evaluation-harness/lm_eval/__init__.py", line 4, in <module>
+    from .evaluator import evaluate, simple_evaluate
+  File "/scratch/pa2497/MS-thesis/lm-evaluation-harness/lm_eval/evaluator.py", line 59
+    >>>>>>> 0bf683b4e6a9df359b3156ba9ba8d62bdd47e0c0
+             ^
+SyntaxError: invalid binary literal
+Traceback (most recent call last):
+  File "/ext3/miniconda3/bin/lm_eval", line 5, in <module>
+    from lm_eval.__main__ import cli_evaluate
+  File "/scratch/pa2497/MS-thesis/lm-evaluation-harness/lm_eval/__init__.py", line 4, in <module>
+    from .evaluator import evaluate, simple_evaluate
+  File "/scratch/pa2497/MS-thesis/lm-evaluation-harness/lm_eval/evaluator.py", line 59
+    >>>>>>> 0bf683b4e6a9df359b3156ba9ba8d62bdd47e0c0
+             ^
+SyntaxError: invalid binary literal
