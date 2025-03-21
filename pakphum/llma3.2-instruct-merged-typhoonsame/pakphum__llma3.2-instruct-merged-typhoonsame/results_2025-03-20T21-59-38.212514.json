@@ -1,0 +1,497 @@
+{
+  "results": {
+    "physical_en": {
+      "alias": "physical_en",
+      "acc,none": 0.2866666666666667,
+      "acc_stderr,none": 0.02615166012679861
+    },
+    "physical_th": {
+      "alias": "physical_th",
+      "acc,none": 0.3433333333333333,
+      "acc_stderr,none": 0.027459642357098978
+    },
+    "psychological_en": {
+      "alias": "psychological_en",
+      "acc,none": 0.92,
+      "acc_stderr,none": 0.01568929081105472
+    },
+    "psychological_th": {
+      "alias": "psychological_th",
+      "acc,none": 0.6833333333333333,
+      "acc_stderr,none": 0.026901833738451123
+    },
+    "social_en": {
+      "alias": "social_en",
+      "acc,none": 0.7766666666666666,
+      "acc_stderr,none": 0.02408565786731854
+    },
+    "social_th": {
+      "alias": "social_th",
+      "acc,none": 0.61,
+      "acc_stderr,none": 0.02820730710140625
+    },
+    "spatial_en": {
+      "alias": "spatial_en",
+      "acc,none": 0.5366666666666666,
+      "acc_stderr,none": 0.028837890554337213
+    },
+    "spatial_th": {
+      "alias": "spatial_th",
+      "acc,none": 0.55,
+      "acc_stderr,none": 0.028770804599878932
+    },
+    "temporal_en": {
+      "alias": "temporal_en",
+      "acc,none": 0.5266666666666666,
+      "acc_stderr,none": 0.02887459269508958
+    },
+    "temporal_th": {
+      "alias": "temporal_th",
+      "acc,none": 0.5333333333333333,
+      "acc_stderr,none": 0.028851417827642025
+    }
+  },
+  "group_subtasks": {
+    "social_en": [],
+    "spatial_en": [],
+    "social_th": [],
+    "spatial_th": [],
+    "physical_en": [],
+    "temporal_en": [],
+    "psychological_en": [],
+    "physical_th": [],
+    "temporal_th": [],
+    "psychological_th": []
+  },
+  "configs": {
+    "physical_en": {
+      "task": "physical_en",
+      "tag": "fivecommonsense",
+      "dataset_path": "pakphum/5csr",
+      "test_split": "test_physical_en",
+      "doc_to_text": "Question",
+      "doc_to_target": "True label Index",
+      "unsafe_code": false,
+      "doc_to_choice": "Choice",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1
+      }
+    },
+    "physical_th": {
+      "task": "physical_th",
+      "tag": "fivecommonsense",
+      "dataset_path": "pakphum/5csr",
+      "test_split": "test_physical_th",
+      "doc_to_text": "Question",
+      "doc_to_target": "True label Index",
+      "unsafe_code": false,
+      "doc_to_choice": "Choice",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1
+      }
+    },
+    "psychological_en": {
+      "task": "psychological_en",
+      "tag": "fivecommonsense",
+      "dataset_path": "pakphum/5csr",
+      "test_split": "test_psychological_en",
+      "doc_to_text": "Question",
+      "doc_to_target": "True label Index",
+      "unsafe_code": false,
+      "doc_to_choice": "Choice",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1
+      }
+    },
+    "psychological_th": {
+      "task": "psychological_th",
+      "tag": "fivecommonsense",
+      "dataset_path": "pakphum/5csr",
+      "test_split": "test_psychological_th",
+      "doc_to_text": "Question",
+      "doc_to_target": "True label Index",
+      "unsafe_code": false,
+      "doc_to_choice": "Choice",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1
+      }
+    },
+    "social_en": {
+      "task": "social_en",
+      "tag": "fivecommonsense",
+      "dataset_path": "pakphum/5csr",
+      "test_split": "test_social_en",
+      "doc_to_text": "Question",
+      "doc_to_target": "True label Index",
+      "unsafe_code": false,
+      "doc_to_choice": "Choice",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1
+      }
+    },
+    "social_th": {
+      "task": "social_th",
+      "tag": "fivecommonsense",
+      "dataset_path": "pakphum/5csr",
+      "test_split": "test_social_th",
+      "doc_to_text": "Question",
+      "doc_to_target": "True label Index",
+      "unsafe_code": false,
+      "doc_to_choice": "Choice",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1
+      }
+    },
+    "spatial_en": {
+      "task": "spatial_en",
+      "tag": "fivecommonsense",
+      "dataset_path": "pakphum/5csr",
+      "test_split": "test_spatial_en",
+      "doc_to_text": "Question",
+      "doc_to_target": "True label Index",
+      "unsafe_code": false,
+      "doc_to_choice": "Choice",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1
+      }
+    },
+    "spatial_th": {
+      "task": "spatial_th",
+      "tag": "fivecommonsense",
+      "dataset_path": "pakphum/5csr",
+      "test_split": "test_spatial_th",
+      "doc_to_text": "Question",
+      "doc_to_target": "True label Index",
+      "unsafe_code": false,
+      "doc_to_choice": "Choice",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1
+      }
+    },
+    "temporal_en": {
+      "task": "temporal_en",
+      "tag": "fivecommonsense",
+      "dataset_path": "pakphum/5csr",
+      "test_split": "test_temporal_en",
+      "doc_to_text": "Question",
+      "doc_to_target": "True label Index",
+      "unsafe_code": false,
+      "doc_to_choice": "Choice",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1
+      }
+    },
+    "temporal_th": {
+      "task": "temporal_th",
+      "tag": "fivecommonsense",
+      "dataset_path": "pakphum/5csr",
+      "test_split": "test_temporal_th",
+      "doc_to_text": "Question",
+      "doc_to_target": "True label Index",
+      "unsafe_code": false,
+      "doc_to_choice": "Choice",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1
+      }
+    }
+  },
+  "versions": {
+    "physical_en": 1,
+    "physical_th": 1,
+    "psychological_en": 1,
+    "psychological_th": 1,
+    "social_en": 1,
+    "social_th": 1,
+    "spatial_en": 1,
+    "spatial_th": 1,
+    "temporal_en": 1,
+    "temporal_th": 1
+  },
+  "n-shot": {
+    "physical_en": 0,
+    "physical_th": 0,
+    "psychological_en": 0,
+    "psychological_th": 0,
+    "social_en": 0,
+    "social_th": 0,
+    "spatial_en": 0,
+    "spatial_th": 0,
+    "temporal_en": 0,
+    "temporal_th": 0
+  },
+  "higher_is_better": {
+    "physical_en": {
+      "acc": true
+    },
+    "physical_th": {
+      "acc": true
+    },
+    "psychological_en": {
+      "acc": true
+    },
+    "psychological_th": {
+      "acc": true
+    },
+    "social_en": {
+      "acc": true
+    },
+    "social_th": {
+      "acc": true
+    },
+    "spatial_en": {
+      "acc": true
+    },
+    "spatial_th": {
+      "acc": true
+    },
+    "temporal_en": {
+      "acc": true
+    },
+    "temporal_th": {
+      "acc": true
+    }
+  },
+  "n-samples": {
+    "psychological_th": {
+      "original": 300,
+      "effective": 300
+    },
+    "temporal_th": {
+      "original": 300,
+      "effective": 300
+    },
+    "physical_th": {
+      "original": 300,
+      "effective": 300
+    },
+    "psychological_en": {
+      "original": 300,
+      "effective": 300
+    },
+    "temporal_en": {
+      "original": 300,
+      "effective": 300
+    },
+    "physical_en": {
+      "original": 300,
+      "effective": 300
+    },
+    "spatial_th": {
+      "original": 300,
+      "effective": 300
+    },
+    "social_th": {
+      "original": 300,
+      "effective": 300
+    },
+    "spatial_en": {
+      "original": 300,
+      "effective": 300
+    },
+    "social_en": {
+      "original": 300,
+      "effective": 300
+    }
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=pakphum/llma3.2-instruct-merged-typhoonsame",
+    "model_num_parameters": 3212749824,
+    "model_dtype": "torch.bfloat16",
+    "model_revision": "main",
+    "model_sha": "80c41d08393844cb503d2b24359e07faf286da7b",
+    "batch_size": 1,
+    "batch_sizes": [],
+    "device": null,
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null,
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234
+  },
+  "git_hash": "6dbdff7",
+  "date": 1742521966.734469,
+  "pretty_env_info": "PyTorch version: 2.5.1+cu124\nIs debug build: False\nCUDA used to build PyTorch: 12.4\nROCM used to build PyTorch: N/A\n\nOS: Ubuntu 20.04.3 LTS (x86_64)\nGCC version: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0\nClang version: Could not collect\nCMake version: version 3.16.3\nLibc version: glibc-2.31\n\nPython version: 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:27:36) [GCC 11.2.0] (64-bit runtime)\nPython platform: Linux-5.14.0-284.86.1.el9_2.x86_64-x86_64-with-glibc2.31\nIs CUDA available: True\nCUDA runtime version: 11.4.120\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: GPU 0: NVIDIA A100-SXM4-80GB\nNvidia driver version: 535.154.05\ncuDNN version: Probably one of the following:\n/usr/lib/x86_64-linux-gnu/libcudnn.so.8.2.4\n/usr/lib/x86_64-linux-gnu/libcudnn_adv_infer.so.8.2.4\n/usr/lib/x86_64-linux-gnu/libcudnn_adv_train.so.8.2.4\n/usr/lib/x86_64-linux-gnu/libcudnn_cnn_infer.so.8.2.4\n/usr/lib/x86_64-linux-gnu/libcudnn_cnn_train.so.8.2.4\n/usr/lib/x86_64-linux-gnu/libcudnn_ops_infer.so.8.2.4\n/usr/lib/x86_64-linux-gnu/libcudnn_ops_train.so.8.2.4\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture:                       x86_64\nCPU op-mode(s):                     32-bit, 64-bit\nByte Order:                         Little Endian\nAddress sizes:                      46 bits physical, 57 bits virtual\nCPU(s):                             160\nOn-line CPU(s) list:                0-159\nThread(s) per core:                 2\nCore(s) per socket:                 40\nSocket(s):                          2\nNUMA node(s):                       2\nVendor ID:                          GenuineIntel\nCPU family:                         6\nModel:                              106\nModel name:                         Intel(R) Xeon(R) Platinum 8380 CPU @ 2.30GHz\nStepping:                           6\nCPU MHz:                            2699.251\nCPU max MHz:                        3400.0000\nCPU min MHz:                        800.0000\nBogoMIPS:                           4600.00\nVirtualization:                     VT-x\nL1d cache:                          3.8 MiB\nL1i cache:                          2.5 MiB\nL2 cache:                           100 MiB\nL3 cache:                           120 MiB\nNUMA node0 CPU(s):                  0-39,80-119\nNUMA node1 CPU(s):                  40-79,120-159\nVulnerability Gather data sampling: Mitigation; Microcode\nVulnerability Itlb multihit:        Not affected\nVulnerability L1tf:                 Not affected\nVulnerability Mds:                  Not affected\nVulnerability Meltdown:             Not affected\nVulnerability Mmio stale data:      Mitigation; Clear CPU buffers; SMT vulnerable\nVulnerability Retbleed:             Not affected\nVulnerability Spec rstack overflow: Not affected\nVulnerability Spec store bypass:    Mitigation; Speculative Store Bypass disabled via prctl\nVulnerability Spectre v1:           Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:           Mitigation; Enhanced IBRS, IBPB conditional, RSB filling, PBRSB-eIBRS SW sequence\nVulnerability Srbds:                Not affected\nVulnerability Tsx async abort:      Not affected\nFlags:                              fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 invpcid_single intel_ppin ssbd mba ibrs ibpb stibp ibrs_enhanced tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm rdt_a avx512f avx512dq rdseed adx smap avx512ifma clflushopt clwb intel_pt avx512cd sha_ni avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local split_lock_detect wbnoinvd dtherm ida arat pln pts avx512vbmi umip pku ospke avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg tme avx512_vpopcntdq la57 rdpid fsrm md_clear pconfig flush_l1d arch_capabilities\n\nVersions of relevant libraries:\n[pip3] flake8==7.1.1\n[pip3] mypy-extensions==1.0.0\n[pip3] numpy==1.26.4\n[pip3] torch==2.5.1\n[pip3] torchaudio==2.5.1\n[pip3] triton==3.1.0\n[conda] numpy                     1.26.4                   pypi_0    pypi\n[conda] torch                     2.5.1                    pypi_0    pypi\n[conda] torchaudio                2.5.1                    pypi_0    pypi\n[conda] triton                    3.1.0                    pypi_0    pypi",
+  "transformers_version": "4.50.0.dev0",
+  "upper_git_hash": "6dbdff7a8579f4b667ffc04139347e98fcd3e957",
+  "tokenizer_pad_token": [
+    "<|eot_id|>",
+    "128009"
+  ],
+  "tokenizer_eos_token": [
+    "<|eot_id|>",
+    "128009"
+  ],
+  "tokenizer_bos_token": [
+    "<|begin_of_text|>",
+    "128000"
+  ],
+  "eot_token_id": 128009,
+  "max_length": 131072,
+  "task_hashes": {
+    "psychological_th": "914446510c0420e884262a961dde1f37887a25b0c8b4e579c867f2f7e87a612b",
+    "temporal_th": "1c535531849741a186337f9edbd8595da7d7fd8df5d8d4fd47a99136508a5ddc",
+    "physical_th": "b1b7f162dd71306f90623c5133298927d818a5367c8ace4b963b33cd712dd777",
+    "psychological_en": "374f213a2764aa70a166d007941a8c3ad81540443d41c2f7b4348ec56b2b484e",
+    "temporal_en": "2277c1ba80a551257824934c6131daccb74aa84663e23093cc8b0ea5d536b61b",
+    "physical_en": "f50703bb695b92c2595f1f7960b32c930b70fbf3f0fba8fff16b14f871cb2004",
+    "spatial_th": "7f35a0cc781ac7940a21689e999de115bb1f74481b4487eb657cfb58f8bb2080",
+    "social_th": "62f283853f2156680d0586b50b7b927d1e5a8fd4706793c9a0bba3b84aa79d41",
+    "spatial_en": "21edfabe0f98141b495ba2054afdda93beb7d074ac468c313220cbe40357a0e4",
+    "social_en": "cf55b72158702f7d75f4383e7ae13c4248b8be3320fdfe9ae81073273b35a20c"
+  },
+  "model_source": "hf",
+  "model_name": "pakphum/llma3.2-instruct-merged-typhoonsame",
+  "model_name_sanitized": "pakphum__llma3.2-instruct-merged-typhoonsame",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": null,
+  "chat_template_sha": null,
+  "start_time": 11098150.807805425,
+  "end_time": 11098575.792614413,
+  "total_evaluation_time_seconds": "424.9848089888692"
+}
