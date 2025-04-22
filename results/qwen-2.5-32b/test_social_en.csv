@@ -1,0 +1,1201 @@
+index,model,split,prompt,true_answer,model_output,is_correct
+0,qwen-2.5-32b,test_social_en,"Ali often laughs.
+Choices:
+Ali is warm.
+Ali is cold.",Ali is warm.,Ali is warm.,True
+1,qwen-2.5-32b,test_social_en,"Ali rarely laughs.
+Choices:
+Ali is warm.
+Ali is cold.",Ali is cold.,Ali is cold.,True
+2,qwen-2.5-32b,test_social_en,"Li enjoys large gatherings.
+Choices:
+Li is extroverted.
+Li is introverted.",Li is extroverted.,Li is extroverted.,True
+3,qwen-2.5-32b,test_social_en,"Li enjoys intimate gatherings.
+Choices:
+Li is extroverted.
+Li is introverted.",Li is introverted.,Li is introverted.,True
+4,qwen-2.5-32b,test_social_en,"Li talks a lot about past accomplishments.
+Choices:
+Li is boastful.
+Li is humble.",Li is boastful.,Li is boastful.,True
+5,qwen-2.5-32b,test_social_en,"Li talks little about past accomplishments.
+Choices:
+Li is boastful.
+Li is humble.",Li is humble.,Li is humble.,True
+6,qwen-2.5-32b,test_social_en,"Mohammed is approachable.
+Choices:
+Mohammed is warm.
+Mohammed is cold.",Mohammed is warm.,Mohammed is warm.,True
+7,qwen-2.5-32b,test_social_en,"Mohammed is distant.
+Choices:
+Mohammed is warm.
+Mohammed is cold.",Mohammed is cold.,Mohammed is cold.,True
+8,qwen-2.5-32b,test_social_en,"Chao often gets into long conversations.
+Choices:
+Chao is warm.
+Chao is cold.",Chao is warm.,Chao is warm.,True
+9,qwen-2.5-32b,test_social_en,"Chao rarely gets into long conversations.
+Choices:
+Chao is warm.
+Chao is cold.",Chao is cold.,Chao is cold.,True
+10,qwen-2.5-32b,test_social_en,"Maria spent the whole conversation talking about her successes.
+Choices:
+Maria is boastful.
+Maria is humble.",Maria is boastful.,Maria is boastful.,True
+11,qwen-2.5-32b,test_social_en,"Maria spent the whole conversation talking about her friend's successes.
+Choices:
+Maria is boastful.
+Maria is humble.",Maria is humble.,Maria is boastful.,False
+12,qwen-2.5-32b,test_social_en,"Ali is respectful towards differences in background and belief.
+Choices:
+Ali is tolerant.
+Ali is bigoted.",Ali is tolerant.,Ali is tolerant.,True
+13,qwen-2.5-32b,test_social_en,"Ali is disrespectful towards differences in background and belief.
+Choices:
+Ali is tolerant.
+Ali is bigoted.",Ali is bigoted.,Ali is bigoted.,True
+14,qwen-2.5-32b,test_social_en,"Speaking up is hard for Li.
+Choices:
+Li is shy.
+Li is confident.",Li is shy.,Li is shy.,True
+15,qwen-2.5-32b,test_social_en,"Speaking up is easy for Li.
+Choices:
+Li is shy.
+Li is confident.",Li is confident.,Li is confident.,True
+16,qwen-2.5-32b,test_social_en,"Chao is approachable.
+Choices:
+Chao is warm.
+Chao is cold.",Chao is warm.,Chao is warm.,True
+17,qwen-2.5-32b,test_social_en,"Chao is distant.
+Choices:
+Chao is warm.
+Chao is cold.",Chao is cold.,Chao is cold.,True
+18,qwen-2.5-32b,test_social_en,"Jesse often tells others what to do.
+Choices:
+Jesse is dominant.
+Jesse is submissive.",Jesse is dominant.,Jesse is dominant.,True
+19,qwen-2.5-32b,test_social_en,"Jesse rarely tells others what to do.
+Choices:
+Jesse is dominant.
+Jesse is submissive.",Jesse is submissive.,Jesse is submissive.,True
+20,qwen-2.5-32b,test_social_en,"Li is approachable.
+Choices:
+Li is warm.
+Li is cold.",Li is warm.,Li is warm.,True
+21,qwen-2.5-32b,test_social_en,"Li is distant.
+Choices:
+Li is warm.
+Li is cold.",Li is cold.,Li is cold.,True
+22,qwen-2.5-32b,test_social_en,"Mohammed went backpacking with a friend. Every day, Mohammed decided where they should camp.
+Choices:
+Mohammed is dominant.
+Mohammed is submissive.",Mohammed is dominant.,Mohammed is dominant.,True
+23,qwen-2.5-32b,test_social_en,"Mohammed went backpacking with a friend. Every day, Mohammed's friend decided where they should camp.
+Choices:
+Mohammed is dominant.
+Mohammed is submissive.",Mohammed is submissive.,Mohammed is submissive.,True
+24,qwen-2.5-32b,test_social_en,"Jesse is hesitant to meet new people.
+Choices:
+Jesse is shy.
+Jesse is confident.",Jesse is shy.,Jesse is shy.,True
+25,qwen-2.5-32b,test_social_en,"Jesse is quick to meet new people.
+Choices:
+Jesse is shy.
+Jesse is confident.",Jesse is confident.,Jesse is confident.,True
+26,qwen-2.5-32b,test_social_en,"Jesse is approachable.
+Choices:
+Jesse is warm.
+Jesse is cold.",Jesse is warm.,Jesse is warm.,True
+27,qwen-2.5-32b,test_social_en,"Jesse is distant.
+Choices:
+Jesse is warm.
+Jesse is cold.",Jesse is cold.,Jesse is cold.,True
+28,qwen-2.5-32b,test_social_en,"Elena spent the whole conversation talking about her successes.
+Choices:
+Elena is boastful.
+Elena is humble.",Elena is boastful.,Elena is boastful.,True
+29,qwen-2.5-32b,test_social_en,"Elena spent the whole conversation talking about her friend's successes.
+Choices:
+Elena is boastful.
+Elena is humble.",Elena is humble.,Elena is boastful.,False
+30,qwen-2.5-32b,test_social_en,"Carmen told Mohammed a secret. Today, no one else knows the secret.
+Choices:
+Mohammed is trustworthy.
+Mohammed is untrustworthy.",Mohammed is trustworthy.,Mohammed is trustworthy.,True
+31,qwen-2.5-32b,test_social_en,"Carmen told Mohammed a secret. Today, everyone knows the secret.
+Choices:
+Mohammed is trustworthy.
+Mohammed is untrustworthy.",Mohammed is untrustworthy.,Mohammed is untrustworthy.,True
+32,qwen-2.5-32b,test_social_en,"Ali is quick to engage in social interactions.
+Choices:
+Ali is extroverted.
+Ali is introverted.",Ali is extroverted.,Ali is extroverted.,True
+33,qwen-2.5-32b,test_social_en,"Ali is hesitant to engage in social interactions.
+Choices:
+Ali is extroverted.
+Ali is introverted.",Ali is introverted.,Ali is introverted.,True
+34,qwen-2.5-32b,test_social_en,"Mohammed is hesitant to meet new people.
+Choices:
+Mohammed is shy.
+Mohammed is confident.",Mohammed is shy.,Mohammed is shy.,True
+35,qwen-2.5-32b,test_social_en,"Mohammed is quick to meet new people.
+Choices:
+Mohammed is shy.
+Mohammed is confident.",Mohammed is confident.,Mohammed is confident.,True
+36,qwen-2.5-32b,test_social_en,"Jesse usually makes decisions.
+Choices:
+Jesse is dominant.
+Jesse is submissive.",Jesse is dominant.,Jesse is dominant.,True
+37,qwen-2.5-32b,test_social_en,"Jesse usually obeys decisions.
+Choices:
+Jesse is dominant.
+Jesse is submissive.",Jesse is submissive.,Jesse is submissive.,True
+38,qwen-2.5-32b,test_social_en,"Ali thinks having neighbors of a different race is pleasant.
+Choices:
+Ali is tolerant.
+Ali is bigoted.",Ali is tolerant.,Ali is tolerant.,True
+39,qwen-2.5-32b,test_social_en,"Ali thinks having neighbors of a different race is unpleasant.
+Choices:
+Ali is tolerant.
+Ali is bigoted.",Ali is bigoted.,Ali is bigoted.,True
+40,qwen-2.5-32b,test_social_en,"Li went backpacking with a friend. Every day, Li decided where they should camp.
+Choices:
+Li is dominant.
+Li is submissive.",Li is dominant.,Li is dominant.,True
+41,qwen-2.5-32b,test_social_en,"Li went backpacking with a friend. Every day, Li's friend decided where they should camp.
+Choices:
+Li is dominant.
+Li is submissive.",Li is submissive.,Li is submissive.,True
+42,qwen-2.5-32b,test_social_en,"Li enjoys spending time with other people.
+Choices:
+Li is extroverted.
+Li is introverted.",Li is extroverted.,Li is extroverted.,True
+43,qwen-2.5-32b,test_social_en,"Li enjoys spending time alone.
+Choices:
+Li is extroverted.
+Li is introverted.",Li is introverted.,Li is introverted.,True
+44,qwen-2.5-32b,test_social_en,"Mohammed talks a lot about past accomplishments.
+Choices:
+Mohammed is boastful.
+Mohammed is humble.",Mohammed is boastful.,Mohammed is boastful.,True
+45,qwen-2.5-32b,test_social_en,"Mohammed talks little about past accomplishments.
+Choices:
+Mohammed is boastful.
+Mohammed is humble.",Mohammed is humble.,Mohammed is humble.,True
+46,qwen-2.5-32b,test_social_en,"Li spent the whole conversation talking about their successes.
+Choices:
+Li is boastful.
+Li is humble.",Li is boastful.,Li is boastful.,True
+47,qwen-2.5-32b,test_social_en,"Li spent the whole conversation talking about their friend's successes.
+Choices:
+Li is boastful.
+Li is humble.",Li is humble.,Li is boastful.,False
+48,qwen-2.5-32b,test_social_en,"Mohammed has a friendly demeanor.
+Choices:
+Mohammed is warm.
+Mohammed is cold.",Mohammed is warm.,Mohammed is warm.,True
+49,qwen-2.5-32b,test_social_en,"Mohammed has a unfriendly demeanor.
+Choices:
+Mohammed is warm.
+Mohammed is cold.",Mohammed is cold.,Mohammed is cold.,True
+50,qwen-2.5-32b,test_social_en,"Ali went backpacking with a friend. Every day, Ali decided where they should camp.
+Choices:
+Ali is dominant.
+Ali is submissive.",Ali is dominant.,Ali is dominant.,True
+51,qwen-2.5-32b,test_social_en,"Ali went backpacking with a friend. Every day, Ali's friend decided where they should camp.
+Choices:
+Ali is dominant.
+Ali is submissive.",Ali is submissive.,Ali is submissive.,True
+52,qwen-2.5-32b,test_social_en,"Ali usually keeps promises.
+Choices:
+Ali is trustworthy.
+Ali is untrustworthy.",Ali is trustworthy.,Ali is trustworthy.,True
+53,qwen-2.5-32b,test_social_en,"Ali usually breaks promises.
+Choices:
+Ali is trustworthy.
+Ali is untrustworthy.",Ali is untrustworthy.,Ali is untrustworthy.,True
+54,qwen-2.5-32b,test_social_en,"Mohammed gave Carmen a gift.
+Choices:
+Mohammed is friendly.
+Mohammed is hostile.",Mohammed is friendly.,Mohammed is friendly.,True
+55,qwen-2.5-32b,test_social_en,"Mohammed gave Carmen a glare.
+Choices:
+Mohammed is friendly.
+Mohammed is hostile.",Mohammed is hostile.,Mohammed is hostile.,True
+56,qwen-2.5-32b,test_social_en,"Chao often gives instructions.
+Choices:
+Chao is dominant.
+Chao is submissive.",Chao is dominant.,Chao is dominant.,True
+57,qwen-2.5-32b,test_social_en,"Chao often follows instructions.
+Choices:
+Chao is dominant.
+Chao is submissive.",Chao is submissive.,Chao is submissive.,True
+58,qwen-2.5-32b,test_social_en,"Chao talks a lot about past accomplishments.
+Choices:
+Chao is boastful.
+Chao is humble.",Chao is boastful.,Chao is boastful.,True
+59,qwen-2.5-32b,test_social_en,"Chao talks little about past accomplishments.
+Choices:
+Chao is boastful.
+Chao is humble.",Chao is humble.,Chao is humble.,True
+60,qwen-2.5-32b,test_social_en,"Ali thinks having neighbors of a different religion is pleasant.
+Choices:
+Ali is tolerant.
+Ali is bigoted.",Ali is tolerant.,Ali is tolerant.,True
+61,qwen-2.5-32b,test_social_en,"Ali thinks having neighbors of a different religion is unpleasant.
+Choices:
+Ali is tolerant.
+Ali is bigoted.",Ali is bigoted.,Ali is bigoted.,True
+62,qwen-2.5-32b,test_social_en,"Mohammed usually keeps promises.
+Choices:
+Mohammed is trustworthy.
+Mohammed is untrustworthy.",Mohammed is trustworthy.,Mohammed is trustworthy.,True
+63,qwen-2.5-32b,test_social_en,"Mohammed usually breaks promises.
+Choices:
+Mohammed is trustworthy.
+Mohammed is untrustworthy.",Mohammed is untrustworthy.,Mohammed is untrustworthy.,True
+64,qwen-2.5-32b,test_social_en,"Jesse went backpacking with a friend. Every day, Jesse decided where they should camp.
+Choices:
+Jesse is dominant.
+Jesse is submissive.",Jesse is dominant.,Jesse is dominant.,True
+65,qwen-2.5-32b,test_social_en,"Jesse went backpacking with a friend. Every day, Jesse's friend decided where they should camp.
+Choices:
+Jesse is dominant.
+Jesse is submissive.",Jesse is submissive.,Jesse is submissive.,True
+66,qwen-2.5-32b,test_social_en,"Chao enjoys meeting new people.
+Choices:
+Chao is friendly.
+Chao is hostile.",Chao is friendly.,Chao is friendly.,True
+67,qwen-2.5-32b,test_social_en,"Chao avoids meeting new people.
+Choices:
+Chao is friendly.
+Chao is hostile.",Chao is hostile.,Chao is hostile.,True
+68,qwen-2.5-32b,test_social_en,"Mohammed brags about about past accomplishments.
+Choices:
+Mohammed is boastful.
+Mohammed is humble.",Mohammed is boastful.,Mohammed is boastful.,True
+69,qwen-2.5-32b,test_social_en,"Mohammed downplays about past accomplishments.
+Choices:
+Mohammed is boastful.
+Mohammed is humble.",Mohammed is humble.,Mohammed is humble.,True
+70,qwen-2.5-32b,test_social_en,"Jesse is good at completing important tasks.
+Choices:
+Jesse is trustworthy.
+Jesse is untrustworthy.",Jesse is trustworthy.,Jesse is trustworthy.,True
+71,qwen-2.5-32b,test_social_en,"Jesse is bad at completing important tasks.
+Choices:
+Jesse is trustworthy.
+Jesse is untrustworthy.",Jesse is untrustworthy.,Jesse is untrustworthy.,True
+72,qwen-2.5-32b,test_social_en,"Jesse thinks having neighbors of a different culture is pleasant.
+Choices:
+Jesse is tolerant.
+Jesse is bigoted.",Jesse is tolerant.,Jesse is tolerant.,True
+73,qwen-2.5-32b,test_social_en,"Jesse thinks having neighbors of a different culture is unpleasant.
+Choices:
+Jesse is tolerant.
+Jesse is bigoted.",Jesse is bigoted.,Jesse is bigoted.,True
+74,qwen-2.5-32b,test_social_en,"Speaking up is hard for Chao.
+Choices:
+Chao is shy.
+Chao is confident.",Chao is shy.,Chao is shy.,True
+75,qwen-2.5-32b,test_social_en,"Speaking up is easy for Chao.
+Choices:
+Chao is shy.
+Chao is confident.",Chao is confident.,Chao is confident.,True
+76,qwen-2.5-32b,test_social_en,"Chao can be depended upon.
+Choices:
+Chao is trustworthy.
+Chao is untrustworthy.",Chao is trustworthy.,Chao is trustworthy.,True
+77,qwen-2.5-32b,test_social_en,"Chao cannot be depended upon.
+Choices:
+Chao is trustworthy.
+Chao is untrustworthy.",Chao is untrustworthy.,Chao is untrustworthy.,True
+78,qwen-2.5-32b,test_social_en,"Mohammed spent the whole conversation talking about his successes.
+Choices:
+Mohammed is boastful.
+Mohammed is humble.",Mohammed is boastful.,Mohammed is boastful.,True
+79,qwen-2.5-32b,test_social_en,"Mohammed spent the whole conversation talking about his friend's successes.
+Choices:
+Mohammed is boastful.
+Mohammed is humble.",Mohammed is humble.,Mohammed is boastful.,False
+80,qwen-2.5-32b,test_social_en,"Ali has a friendly demeanor.
+Choices:
+Ali is warm.
+Ali is cold.",Ali is warm.,Ali is warm.,True
+81,qwen-2.5-32b,test_social_en,"Ali has a unfriendly demeanor.
+Choices:
+Ali is warm.
+Ali is cold.",Ali is cold.,Ali is cold.,True
+82,qwen-2.5-32b,test_social_en,"Li often laughs.
+Choices:
+Li is warm.
+Li is cold.",Li is warm.,Li is warm.,True
+83,qwen-2.5-32b,test_social_en,"Li rarely laughs.
+Choices:
+Li is warm.
+Li is cold.",Li is cold.,Li is cold.,True
+84,qwen-2.5-32b,test_social_en,"Yan told Chao a secret. Today, no one else knows the secret.
+Choices:
+Chao is trustworthy.
+Chao is untrustworthy.",Chao is trustworthy.,Chao is trustworthy.,True
+85,qwen-2.5-32b,test_social_en,"Yan told Chao a secret. Today, everyone knows the secret.
+Choices:
+Chao is trustworthy.
+Chao is untrustworthy.",Chao is untrustworthy.,Chao is untrustworthy.,True
+86,qwen-2.5-32b,test_social_en,"Li has a large family. Each weekend, Li decides what the family should do for fun.
+Choices:
+Li is dominant.
+Li is submissive.",Li is dominant.,Li is dominant.,True
+87,qwen-2.5-32b,test_social_en,"Li has a large family. Each weekend, Li's partner decides what the family should do for fun.
+Choices:
+Li is dominant.
+Li is submissive.",Li is submissive.,Li is submissive.,True
+88,qwen-2.5-32b,test_social_en,"Mohammed enjoys meeting new people.
+Choices:
+Mohammed is friendly.
+Mohammed is hostile.",Mohammed is friendly.,Mohammed is friendly.,True
+89,qwen-2.5-32b,test_social_en,"Mohammed avoids meeting new people.
+Choices:
+Mohammed is friendly.
+Mohammed is hostile.",Mohammed is hostile.,Mohammed is hostile.,True
+90,qwen-2.5-32b,test_social_en,"Ali usually makes decisions.
+Choices:
+Ali is dominant.
+Ali is submissive.",Ali is dominant.,Ali is dominant.,True
+91,qwen-2.5-32b,test_social_en,"Ali usually obeys decisions.
+Choices:
+Ali is dominant.
+Ali is submissive.",Ali is submissive.,Ali is submissive.,True
+92,qwen-2.5-32b,test_social_en,"Jesse brags about about past accomplishments.
+Choices:
+Jesse is boastful.
+Jesse is humble.",Jesse is boastful.,Jesse is boastful.,True
+93,qwen-2.5-32b,test_social_en,"Jesse downplays about past accomplishments.
+Choices:
+Jesse is boastful.
+Jesse is humble.",Jesse is humble.,Jesse is humble.,True
+94,qwen-2.5-32b,test_social_en,"Chao gave Yan a gift.
+Choices:
+Chao is friendly.
+Chao is hostile.",Chao is friendly.,Chao is friendly.,True
+95,qwen-2.5-32b,test_social_en,"Chao gave Yan a glare.
+Choices:
+Chao is friendly.
+Chao is hostile.",Chao is hostile.,Chao is hostile.,True
+96,qwen-2.5-32b,test_social_en,"Jesse enjoys meeting new people.
+Choices:
+Jesse is friendly.
+Jesse is hostile.",Jesse is friendly.,Jesse is friendly.,True
+97,qwen-2.5-32b,test_social_en,"Jesse avoids meeting new people.
+Choices:
+Jesse is friendly.
+Jesse is hostile.",Jesse is hostile.,Jesse is hostile.,True
+98,qwen-2.5-32b,test_social_en,"Mohammed treats people kindly.
+Choices:
+Mohammed is friendly.
+Mohammed is hostile.",Mohammed is friendly.,Mohammed is friendly.,True
+99,qwen-2.5-32b,test_social_en,"Mohammed treats people coldly.
+Choices:
+Mohammed is friendly.
+Mohammed is hostile.",Mohammed is hostile.,Mohammed is hostile.,True
+100,qwen-2.5-32b,test_social_en,"Chao is making Yan feel hurt.
+Choices:
+Chao is teasing Yan.
+Chao is comforting Yan.",Chao is teasing Yan.,Chao is teasing Yan.,True
+101,qwen-2.5-32b,test_social_en,"Chao is making Yan feel loved.
+Choices:
+Chao is teasing Yan.
+Chao is comforting Yan.",Chao is comforting Yan.,Chao is comforting Yan.,True
+102,qwen-2.5-32b,test_social_en,"Mohammed is avoiding Carmen.
+Choices:
+Mohammed is evading Carmen.
+Mohammed is chasing Carmen.",Mohammed is evading Carmen.,Mohammed is evading Carmen.,True
+103,qwen-2.5-32b,test_social_en,"Mohammed is following Carmen.
+Choices:
+Mohammed is evading Carmen.
+Mohammed is chasing Carmen.",Mohammed is chasing Carmen.,Mohammed is chasing Carmen.,True
+104,qwen-2.5-32b,test_social_en,"Chao is disempowering Yan.
+Choices:
+Chao is coercing Yan.
+Chao is helping Yan.",Chao is coercing Yan.,Chao is coercing Yan.,True
+105,qwen-2.5-32b,test_social_en,"Chao is empowering Yan.
+Choices:
+Chao is coercing Yan.
+Chao is helping Yan.",Chao is helping Yan.,Chao is helping Yan.,True
+106,qwen-2.5-32b,test_social_en,"Li will be happy if Maria succeeds.
+Choices:
+Li is cooperating with Maria.
+Li is competing with Maria.",Li is cooperating with Maria.,Li is cooperating with Maria.,True
+107,qwen-2.5-32b,test_social_en,"Li will be happy if Maria fails.
+Choices:
+Li is cooperating with Maria.
+Li is competing with Maria.",Li is competing with Maria.,Li is competing with Maria.,True
+108,qwen-2.5-32b,test_social_en,"Ali can bake better than Wei.
+Choices:
+Ali is teaching Wei.
+Ali is learning from Wei.",Ali is teaching Wei.,Ali is teaching Wei.,True
+109,qwen-2.5-32b,test_social_en,"Ali can bake worse than Wei.
+Choices:
+Ali is teaching Wei.
+Ali is learning from Wei.",Ali is learning from Wei.,Ali is learning from Wei.,True
+110,qwen-2.5-32b,test_social_en,"Jesse and Alex are helping each other.
+Choices:
+Jesse is cooperating with Alex.
+Jesse is competing with Alex.",Jesse is cooperating with Alex.,Jesse is cooperating with Alex.,True
+111,qwen-2.5-32b,test_social_en,"Jesse and Alex are hindering each other.
+Choices:
+Jesse is cooperating with Alex.
+Jesse is competing with Alex.",Jesse is competing with Alex.,Jesse is competing with Alex.,True
+112,qwen-2.5-32b,test_social_en,"Chao will be unsuccessful if Chao and Yan run into each other.
+Choices:
+Chao is evading Yan.
+Chao is chasing Yan.",Chao is evading Yan.,Chao is evading Yan.,True
+113,qwen-2.5-32b,test_social_en,"Chao will be successful if Chao and Yan run into each other.
+Choices:
+Chao is evading Yan.
+Chao is chasing Yan.",Chao is chasing Yan.,Chao is chasing Yan.,True
+114,qwen-2.5-32b,test_social_en,"Ali makes playful comments about Wei.
+Choices:
+Ali is flirting with Wei.
+Ali is insulting Wei.",Ali is flirting with Wei.,Ali is flirting with Wei.,True
+115,qwen-2.5-32b,test_social_en,"Ali makes hurtful comments about Wei.
+Choices:
+Ali is flirting with Wei.
+Ali is insulting Wei.",Ali is insulting Wei.,Ali is insulting Wei.,True
+116,qwen-2.5-32b,test_social_en,"Mohammed is showing Carmen how to knit.
+Choices:
+Carmen is learning from Mohammed.
+Mohammed is learning from Carmen.",Carmen is learning from Mohammed.,Carmen is learning from Mohammed.,True
+117,qwen-2.5-32b,test_social_en,"Carmen is showing Mohammed how to knit.
+Choices:
+Carmen is learning from Mohammed.
+Mohammed is learning from Carmen.",Mohammed is learning from Carmen.,Mohammed is learning from Carmen.,True
+118,qwen-2.5-32b,test_social_en,"Jesse is showing Alex how to paraglide.
+Choices:
+Jesse is teaching Alex.
+Jesse is learning from Alex.",Jesse is teaching Alex.,Jesse is teaching Alex.,True
+119,qwen-2.5-32b,test_social_en,"Alex is showing Jesse how to paraglide.
+Choices:
+Jesse is teaching Alex.
+Jesse is learning from Alex.",Jesse is learning from Alex.,Jesse is learning from Alex.,True
+120,qwen-2.5-32b,test_social_en,"Jesse is hiding from Alex.
+Choices:
+Jesse is evading Alex.
+Jesse is seeking Alex.",Jesse is evading Alex.,Jesse is evading Alex.,True
+121,qwen-2.5-32b,test_social_en,"Jesse is searching for Alex.
+Choices:
+Jesse is evading Alex.
+Jesse is seeking Alex.",Jesse is seeking Alex.,Jesse is seeking Alex.,True
+122,qwen-2.5-32b,test_social_en,"Chao is providing Yan with false information.
+Choices:
+Chao is deceiving Yan.
+Chao is helping Yan.",Chao is deceiving Yan.,Chao is deceiving Yan.,True
+123,qwen-2.5-32b,test_social_en,"Chao is providing Yan with accurate information.
+Choices:
+Chao is deceiving Yan.
+Chao is helping Yan.",Chao is helping Yan.,Chao is helping Yan.,True
+124,qwen-2.5-32b,test_social_en,"Jesse and Alex are working with each other.
+Choices:
+Jesse is cooperating with Alex.
+Jesse is competing with Alex.",Jesse is cooperating with Alex.,Jesse is cooperating with Alex.,True
+125,qwen-2.5-32b,test_social_en,"Jesse and Alex are working against each other.
+Choices:
+Jesse is cooperating with Alex.
+Jesse is competing with Alex.",Jesse is competing with Alex.,Jesse is competing with Alex.,True
+126,qwen-2.5-32b,test_social_en,"Chao can ski better than Yan.
+Choices:
+Chao is teaching Yan.
+Chao is learning from Yan.",Chao is teaching Yan.,Chao is teaching Yan.,True
+127,qwen-2.5-32b,test_social_en,"Chao can ski worse than Yan.
+Choices:
+Chao is teaching Yan.
+Chao is learning from Yan.",Chao is learning from Yan.,Chao is learning from Yan.,True
+128,qwen-2.5-32b,test_social_en,"Ali and Wei are helping each other.
+Choices:
+Ali is cooperating with Wei.
+Ali is competing with Wei.",Ali is cooperating with Wei.,Ali is cooperating with Wei.,True
+129,qwen-2.5-32b,test_social_en,"Ali and Wei are hindering each other.
+Choices:
+Ali is cooperating with Wei.
+Ali is competing with Wei.",Ali is competing with Wei.,Ali is competing with Wei.,True
+130,qwen-2.5-32b,test_social_en,"Chao can ski better than Yan.
+Choices:
+Yan is learning from Chao.
+Chao is learning from Yan.",Yan is learning from Chao.,Yan is learning from Chao.,True
+131,qwen-2.5-32b,test_social_en,"Chao can ski worse than Yan.
+Choices:
+Yan is learning from Chao.
+Chao is learning from Yan.",Chao is learning from Yan.,Chao is learning from Yan.,True
+132,qwen-2.5-32b,test_social_en,"Ali is avoiding Wei.
+Choices:
+Ali is evading Wei.
+Ali is chasing Wei.",Ali is evading Wei.,Ali is evading Wei.,True
+133,qwen-2.5-32b,test_social_en,"Ali is following Wei.
+Choices:
+Ali is evading Wei.
+Ali is chasing Wei.",Ali is chasing Wei.,Ali is chasing Wei.,True
+134,qwen-2.5-32b,test_social_en,"Jesse is showing Alex how to paraglide.
+Choices:
+Jesse is teaching Alex.
+Jesse is learning from Alex.",Jesse is teaching Alex.,Jesse is teaching Alex.,True
+135,qwen-2.5-32b,test_social_en,"Alex is showing Jesse how to paraglide.
+Choices:
+Jesse is teaching Alex.
+Jesse is learning from Alex.",Jesse is learning from Alex.,Jesse is learning from Alex.,True
+136,qwen-2.5-32b,test_social_en,"When interacting with Wei, Ali is being callous.
+Choices:
+Ali is teasing Wei.
+Ali is comforting Wei.",Ali is teasing Wei.,Ali is teasing Wei.,True
+137,qwen-2.5-32b,test_social_en,"When interacting with Wei, Ali is being understanding.
+Choices:
+Ali is teasing Wei.
+Ali is comforting Wei.",Ali is comforting Wei.,Ali is comforting Wei.,True
+138,qwen-2.5-32b,test_social_en,"Mohammed is showing Carmen how to knit.
+Choices:
+Mohammed is teaching Carmen.
+Mohammed is learning from Carmen.",Mohammed is teaching Carmen.,Mohammed is teaching Carmen.,True
+139,qwen-2.5-32b,test_social_en,"Carmen is showing Mohammed how to knit.
+Choices:
+Mohammed is teaching Carmen.
+Mohammed is learning from Carmen.",Mohammed is learning from Carmen.,Mohammed is learning from Carmen.,True
+140,qwen-2.5-32b,test_social_en,"When interacting with Carmen, Mohammed is being annoying.
+Choices:
+Mohammed is teasing Carmen.
+Mohammed is comforting Carmen.",Mohammed is teasing Carmen.,Mohammed is teasing Carmen.,True
+141,qwen-2.5-32b,test_social_en,"When interacting with Carmen, Mohammed is being supportive.
+Choices:
+Mohammed is teasing Carmen.
+Mohammed is comforting Carmen.",Mohammed is comforting Carmen.,Mohammed is comforting Carmen.,True
+142,qwen-2.5-32b,test_social_en,"Jesse is disempowering Alex.
+Choices:
+Jesse is coercing Alex.
+Jesse is helping Alex.",Jesse is coercing Alex.,Jesse is coercing Alex.,True
+143,qwen-2.5-32b,test_social_en,"Jesse is empowering Alex.
+Choices:
+Jesse is coercing Alex.
+Jesse is helping Alex.",Jesse is helping Alex.,Jesse is helping Alex.,True
+144,qwen-2.5-32b,test_social_en,"Mohammed is removing obstacles in the path of Carmen.
+Choices:
+Mohammed is helping Carmen.
+Mohammed is hindering Carmen.",Mohammed is helping Carmen.,Mohammed is helping Carmen.,True
+145,qwen-2.5-32b,test_social_en,"Mohammed is introducing obstacles in the path of Carmen.
+Choices:
+Mohammed is helping Carmen.
+Mohammed is hindering Carmen.",Mohammed is hindering Carmen.,Mohammed is hindering Carmen.,True
+146,qwen-2.5-32b,test_social_en,"Ali remarks that Wei is cute.
+Choices:
+Ali is flirting with Wei.
+Ali is insulting Wei.",Ali is flirting with Wei.,Ali is flirting with Wei.,True
+147,qwen-2.5-32b,test_social_en,"Ali remarks that Wei is ugly.
+Choices:
+Ali is flirting with Wei.
+Ali is insulting Wei.",Ali is insulting Wei.,Ali is insulting Wei.,True
+148,qwen-2.5-32b,test_social_en,"When interacting with Yan, Chao is being callous.
+Choices:
+Chao is teasing Yan.
+Chao is comforting Yan.",Chao is teasing Yan.,Chao is teasing Yan.,True
+149,qwen-2.5-32b,test_social_en,"When interacting with Yan, Chao is being understanding.
+Choices:
+Chao is teasing Yan.
+Chao is comforting Yan.",Chao is comforting Yan.,Chao is comforting Yan.,True
+150,qwen-2.5-32b,test_social_en,"Chao can ski better than Yan.
+Choices:
+Chao is teaching Yan.
+Yan is teaching Chao.",Chao is teaching Yan.,Chao is teaching Yan.,True
+151,qwen-2.5-32b,test_social_en,"Chao can ski worse than Yan.
+Choices:
+Chao is teaching Yan.
+Yan is teaching Chao.",Yan is teaching Chao.,Yan is teaching Chao.,True
+152,qwen-2.5-32b,test_social_en,"Ali is making Wei feel hurt.
+Choices:
+Ali is teasing Wei.
+Ali is comforting Wei.",Ali is teasing Wei.,Ali is teasing Wei.,True
+153,qwen-2.5-32b,test_social_en,"Ali is making Wei feel loved.
+Choices:
+Ali is teasing Wei.
+Ali is comforting Wei.",Ali is comforting Wei.,Ali is comforting Wei.,True
+154,qwen-2.5-32b,test_social_en,"Jesse is joking about Alex.
+Choices:
+Jesse is teasing Alex.
+Jesse is comforting Alex.",Jesse is teasing Alex.,Jesse is teasing Alex.,True
+155,qwen-2.5-32b,test_social_en,"Jesse is consoling Alex.
+Choices:
+Jesse is teasing Alex.
+Jesse is comforting Alex.",Jesse is comforting Alex.,Jesse is comforting Alex.,True
+156,qwen-2.5-32b,test_social_en,"Li is forcing Maria to act in a certain way.
+Choices:
+Li is coercing Maria.
+Li is helping Maria.",Li is coercing Maria.,Li is coercing Maria.,True
+157,qwen-2.5-32b,test_social_en,"Li is advising Maria to act in a certain way.
+Choices:
+Li is coercing Maria.
+Li is helping Maria.",Li is helping Maria.,Li is helping Maria.,True
+158,qwen-2.5-32b,test_social_en,"Mohammed is making Carmen's job easier.
+Choices:
+Mohammed is helping Carmen.
+Mohammed is hindering Carmen.",Mohammed is helping Carmen.,Mohammed is helping Carmen.,True
+159,qwen-2.5-32b,test_social_en,"Mohammed is making Carmen's job harder.
+Choices:
+Mohammed is helping Carmen.
+Mohammed is hindering Carmen.",Mohammed is hindering Carmen.,Mohammed is hindering Carmen.,True
+160,qwen-2.5-32b,test_social_en,"Jesse will be sad if Jesse and Alex run into each other.
+Choices:
+Jesse is evading Alex.
+Jesse is seeking Alex.",Jesse is evading Alex.,Jesse is evading Alex.,True
+161,qwen-2.5-32b,test_social_en,"Jesse will be happy if Jesse and Alex run into each other.
+Choices:
+Jesse is evading Alex.
+Jesse is seeking Alex.",Jesse is seeking Alex.,Jesse is seeking Alex.,True
+162,qwen-2.5-32b,test_social_en,"Ali is assisting Wei.
+Choices:
+Ali is helping Wei.
+Ali is hindering Wei.",Ali is helping Wei.,Ali is helping Wei.,True
+163,qwen-2.5-32b,test_social_en,"Ali is obstructing Wei.
+Choices:
+Ali is helping Wei.
+Ali is hindering Wei.",Ali is hindering Wei.,Ali is hindering Wei.,True
+164,qwen-2.5-32b,test_social_en,"Chao is making Yan feel worse.
+Choices:
+Chao is coercing Yan.
+Chao is helping Yan.",Chao is coercing Yan.,Chao is coercing Yan.,True
+165,qwen-2.5-32b,test_social_en,"Chao is making Yan feel better.
+Choices:
+Chao is coercing Yan.
+Chao is helping Yan.",Chao is helping Yan.,Chao is helping Yan.,True
+166,qwen-2.5-32b,test_social_en,"Chao is providing Yan with misleading information.
+Choices:
+Chao is deceiving Yan.
+Chao is helping Yan.",Chao is deceiving Yan.,Chao is deceiving Yan.,True
+167,qwen-2.5-32b,test_social_en,"Chao is providing Yan with useful information.
+Choices:
+Chao is deceiving Yan.
+Chao is helping Yan.",Chao is helping Yan.,Chao is helping Yan.,True
+168,qwen-2.5-32b,test_social_en,"Li will be sad if Li and Maria run into each other.
+Choices:
+Li is evading Maria.
+Li is seeking Maria.",Li is evading Maria.,Li is evading Maria.,True
+169,qwen-2.5-32b,test_social_en,"Li will be happy if Li and Maria run into each other.
+Choices:
+Li is evading Maria.
+Li is seeking Maria.",Li is seeking Maria.,Li is seeking Maria.,True
+170,qwen-2.5-32b,test_social_en,"Jesse is avoiding Alex.
+Choices:
+Jesse is evading Alex.
+Jesse is chasing Alex.",Jesse is evading Alex.,Jesse is evading Alex.,True
+171,qwen-2.5-32b,test_social_en,"Jesse is following Alex.
+Choices:
+Jesse is evading Alex.
+Jesse is chasing Alex.",Jesse is chasing Alex.,Jesse is chasing Alex.,True
+172,qwen-2.5-32b,test_social_en,"Jesse is assisting Alex.
+Choices:
+Jesse is helping Alex.
+Jesse is hindering Alex.",Jesse is helping Alex.,Jesse is helping Alex.,True
+173,qwen-2.5-32b,test_social_en,"Jesse is obstructing Alex.
+Choices:
+Jesse is helping Alex.
+Jesse is hindering Alex.",Jesse is hindering Alex.,Jesse is hindering Alex.,True
+174,qwen-2.5-32b,test_social_en,"Chao will be sad if Chao and Yan run into each other.
+Choices:
+Chao is evading Yan.
+Chao is seeking Yan.",Chao is evading Yan.,Chao is evading Yan.,True
+175,qwen-2.5-32b,test_social_en,"Chao will be happy if Chao and Yan run into each other.
+Choices:
+Chao is evading Yan.
+Chao is seeking Yan.",Chao is seeking Yan.,Chao is seeking Yan.,True
+176,qwen-2.5-32b,test_social_en,"Jesse is making Alex's job easier.
+Choices:
+Jesse is helping Alex.
+Jesse is hindering Alex.",Jesse is helping Alex.,Jesse is helping Alex.,True
+177,qwen-2.5-32b,test_social_en,"Jesse is making Alex's job harder.
+Choices:
+Jesse is helping Alex.
+Jesse is hindering Alex.",Jesse is hindering Alex.,Jesse is hindering Alex.,True
+178,qwen-2.5-32b,test_social_en,"Li is showing Maria how to drive.
+Choices:
+Maria is learning from Li.
+Li is learning from Maria.",Maria is learning from Li.,Maria is learning from Li.,True
+179,qwen-2.5-32b,test_social_en,"Maria is showing Li how to drive.
+Choices:
+Maria is learning from Li.
+Li is learning from Maria.",Li is learning from Maria.,Li is learning from Maria.,True
+180,qwen-2.5-32b,test_social_en,"Mohammed is joking about Carmen.
+Choices:
+Mohammed is teasing Carmen.
+Mohammed is comforting Carmen.",Mohammed is teasing Carmen.,Mohammed is teasing Carmen.,True
+181,qwen-2.5-32b,test_social_en,"Mohammed is consoling Carmen.
+Choices:
+Mohammed is teasing Carmen.
+Mohammed is comforting Carmen.",Mohammed is comforting Carmen.,Mohammed is comforting Carmen.,True
+182,qwen-2.5-32b,test_social_en,"Chao is directing Yan toward the wrong path.
+Choices:
+Chao is deceiving Yan.
+Chao is helping Yan.",Chao is deceiving Yan.,Chao is deceiving Yan.,True
+183,qwen-2.5-32b,test_social_en,"Chao is directing Yan toward the correct path.
+Choices:
+Chao is deceiving Yan.
+Chao is helping Yan.",Chao is helping Yan.,Chao is helping Yan.,True
+184,qwen-2.5-32b,test_social_en,"Jesse will be happy if Alex succeeds.
+Choices:
+Jesse is cooperating with Alex.
+Jesse is competing with Alex.",Jesse is cooperating with Alex.,Jesse is cooperating with Alex.,True
+185,qwen-2.5-32b,test_social_en,"Jesse will be happy if Alex fails.
+Choices:
+Jesse is cooperating with Alex.
+Jesse is competing with Alex.",Jesse is competing with Alex.,Jesse is competing with Alex.,True
+186,qwen-2.5-32b,test_social_en,"Mohammed is forcing Carmen to act in a certain way.
+Choices:
+Mohammed is coercing Carmen.
+Mohammed is helping Carmen.",Mohammed is coercing Carmen.,Mohammed is coercing Carmen.,True
+187,qwen-2.5-32b,test_social_en,"Mohammed is advising Carmen to act in a certain way.
+Choices:
+Mohammed is coercing Carmen.
+Mohammed is helping Carmen.",Mohammed is helping Carmen.,Mohammed is helping Carmen.,True
+188,qwen-2.5-32b,test_social_en,"Chao is avoiding Yan.
+Choices:
+Chao is evading Yan.
+Chao is chasing Yan.",Chao is evading Yan.,Chao is evading Yan.,True
+189,qwen-2.5-32b,test_social_en,"Chao is following Yan.
+Choices:
+Chao is evading Yan.
+Chao is chasing Yan.",Chao is chasing Yan.,Chao is chasing Yan.,True
+190,qwen-2.5-32b,test_social_en,"Carmen enjoys interacting with Mohammed.
+Choices:
+Mohammed is respecting Carmen.
+Mohammed is insulting Carmen.",Mohammed is respecting Carmen.,Mohammed is respecting Carmen.,True
+191,qwen-2.5-32b,test_social_en,"Carmen hates interacting with Mohammed.
+Choices:
+Mohammed is respecting Carmen.
+Mohammed is insulting Carmen.",Mohammed is insulting Carmen.,Mohammed is insulting Carmen.,True
+192,qwen-2.5-32b,test_social_en,"Jesse is forcing Alex to act in a certain way.
+Choices:
+Jesse is coercing Alex.
+Jesse is helping Alex.",Jesse is coercing Alex.,Jesse is coercing Alex.,True
+193,qwen-2.5-32b,test_social_en,"Jesse is advising Alex to act in a certain way.
+Choices:
+Jesse is coercing Alex.
+Jesse is helping Alex.",Jesse is helping Alex.,Jesse is helping Alex.,True
+194,qwen-2.5-32b,test_social_en,"Ali is removing obstacles in the path of Wei.
+Choices:
+Ali is helping Wei.
+Ali is hindering Wei.",Ali is helping Wei.,Ali is helping Wei.,True
+195,qwen-2.5-32b,test_social_en,"Ali is introducing obstacles in the path of Wei.
+Choices:
+Ali is helping Wei.
+Ali is hindering Wei.",Ali is hindering Wei.,Ali is hindering Wei.,True
+196,qwen-2.5-32b,test_social_en,"Mohammed makes playful comments about Carmen.
+Choices:
+Mohammed is flirting with Carmen.
+Mohammed is insulting Carmen.",Mohammed is flirting with Carmen.,Mohammed is flirting with Carmen.,True
+197,qwen-2.5-32b,test_social_en,"Mohammed makes hurtful comments about Carmen.
+Choices:
+Mohammed is flirting with Carmen.
+Mohammed is insulting Carmen.",Mohammed is insulting Carmen.,Mohammed is insulting Carmen.,True
+198,qwen-2.5-32b,test_social_en,"Mohammed and Carmen are helping each other.
+Choices:
+Mohammed is cooperating with Carmen.
+Mohammed is competing with Carmen.",Mohammed is cooperating with Carmen.,Mohammed is cooperating with Carmen.,True
+199,qwen-2.5-32b,test_social_en,"Mohammed and Carmen are hindering each other.
+Choices:
+Mohammed is cooperating with Carmen.
+Mohammed is competing with Carmen.",Mohammed is competing with Carmen.,Mohammed is competing with Carmen.,True
+200,qwen-2.5-32b,test_social_en,"Ali's alumni spoke with Wei.
+Choices:
+Ali is Wei's teacher.
+Wei is Ali's teacher.",Ali is Wei's teacher.,Ali is Wei's teacher.,True
+201,qwen-2.5-32b,test_social_en,"Wei's alumni spoke with Ali.
+Choices:
+Ali is Wei's teacher.
+Wei is Ali's teacher.",Wei is Ali's teacher.,Ali is Wei's teacher.,False
+202,qwen-2.5-32b,test_social_en,"Wei pays money to Ali.
+Choices:
+Ali is Wei's landlord.
+Wei is Ali's landlord.",Ali is Wei's landlord.,Ali is Wei's landlord.,True
+203,qwen-2.5-32b,test_social_en,"Ali pays money to Wei.
+Choices:
+Ali is Wei's landlord.
+Wei is Ali's landlord.",Wei is Ali's landlord.,Ali is Wei's landlord.,False
+204,qwen-2.5-32b,test_social_en,"Jesse rents a loft to Alex.
+Choices:
+Jesse is Alex's landlord.
+Alex is Jesse's landlord.",Jesse is Alex's landlord.,Jesse is Alex's landlord.,True
+205,qwen-2.5-32b,test_social_en,"Alex rents a loft to Jesse.
+Choices:
+Jesse is Alex's landlord.
+Alex is Jesse's landlord.",Alex is Jesse's landlord.,Alex is Jesse's landlord.,True
+206,qwen-2.5-32b,test_social_en,"Ali shares parents with Wei.
+Choices:
+Ali is Wei's sibling.
+Ali is Wei's child.",Ali is Wei's sibling.,Ali is Wei's sibling.,True
+207,qwen-2.5-32b,test_social_en,"Ali was born to Wei.
+Choices:
+Ali is Wei's sibling.
+Ali is Wei's child.",Ali is Wei's child.,Ali is Wei's child.,True
+208,qwen-2.5-32b,test_social_en,"Maria's parents spoke with Li.
+Choices:
+Maria is Li's student.
+Li is Maria's student.",Maria is Li's student.,Maria is Li's student.,True
+209,qwen-2.5-32b,test_social_en,"Li's parents spoke with Maria.
+Choices:
+Maria is Li's student.
+Li is Maria's student.",Li is Maria's student.,Li is Maria's student.,True
+210,qwen-2.5-32b,test_social_en,"Jesse collects money from Alex.
+Choices:
+Alex is Jesse's tenant.
+Jesse is Alex's tenant.",Alex is Jesse's tenant.,Alex is Jesse's tenant.,True
+211,qwen-2.5-32b,test_social_en,"Alex collects money from Jesse.
+Choices:
+Alex is Jesse's tenant.
+Jesse is Alex's tenant.",Jesse is Alex's tenant.,Alex is Jesse's tenant.,False
+212,qwen-2.5-32b,test_social_en,"Li assigns homework to Maria.
+Choices:
+Maria is Li's student.
+Li is Maria's student.",Maria is Li's student.,Maria is Li's student.,True
+213,qwen-2.5-32b,test_social_en,"Li submits homework to Maria.
+Choices:
+Maria is Li's student.
+Li is Maria's student.",Li is Maria's student.,Li is Maria's student.,True
+214,qwen-2.5-32b,test_social_en,"Mohammed pays salary to Carmen.
+Choices:
+Carmen is Mohammed's subordinate.
+Mohammed is Carmen's subordinate.",Carmen is Mohammed's subordinate.,Carmen is Mohammed's subordinate.,True
+215,qwen-2.5-32b,test_social_en,"Carmen pays salary to Mohammed.
+Choices:
+Carmen is Mohammed's subordinate.
+Mohammed is Carmen's subordinate.",Mohammed is Carmen's subordinate.,Mohammed is Carmen's subordinate.,True
+216,qwen-2.5-32b,test_social_en,"Chao disciplines Yan.
+Choices:
+Chao is Yan's parent.
+Yan is Chao's parent.",Chao is Yan's parent.,Chao is Yan's parent.,True
+217,qwen-2.5-32b,test_social_en,"Chao obeys Yan.
+Choices:
+Chao is Yan's parent.
+Yan is Chao's parent.",Yan is Chao's parent.,Yan is Chao's parent.,True
+218,qwen-2.5-32b,test_social_en,"Carmen was raised by Mohammed.
+Choices:
+Mohammed is Carmen's parent.
+Mohammed is Carmen's child.",Mohammed is Carmen's parent.,Mohammed is Carmen's parent.,True
+219,qwen-2.5-32b,test_social_en,"Mohammed was raised by Carmen.
+Choices:
+Mohammed is Carmen's parent.
+Mohammed is Carmen's child.",Mohammed is Carmen's child.,Mohammed is Carmen's child.,True
+220,qwen-2.5-32b,test_social_en,"Ali collects rent from Wei.
+Choices:
+Wei is Ali's tenant.
+Ali is Wei's tenant.",Wei is Ali's tenant.,Wei is Ali's tenant.,True
+221,qwen-2.5-32b,test_social_en,"Ali pays rent to Wei.
+Choices:
+Wei is Ali's tenant.
+Ali is Wei's tenant.",Ali is Wei's tenant.,Ali is Wei's tenant.,True
+222,qwen-2.5-32b,test_social_en,"Chao assigns homework to Yan.
+Choices:
+Chao is Yan's teacher.
+Yan is Chao's teacher.",Chao is Yan's teacher.,Chao is Yan's teacher.,True
+223,qwen-2.5-32b,test_social_en,"Yan assigns homework to Chao.
+Choices:
+Chao is Yan's teacher.
+Yan is Chao's teacher.",Yan is Chao's teacher.,Yan is Chao's teacher.,True
+224,qwen-2.5-32b,test_social_en,"Chao is 35 years older than Yan.
+Choices:
+Chao is Yan's parent.
+Chao is Yan's sibling.",Chao is Yan's parent.,Chao is Yan's parent.,True
+225,qwen-2.5-32b,test_social_en,"Chao is 5 years older than Yan.
+Choices:
+Chao is Yan's parent.
+Chao is Yan's sibling.",Chao is Yan's sibling.,Chao is Yan's sibling.,True
+226,qwen-2.5-32b,test_social_en,"Jesse has a lot of power over Alex.
+Choices:
+Alex is Jesse's subordinate.
+Jesse is Alex's subordinate.",Alex is Jesse's subordinate.,Alex is Jesse's subordinate.,True
+227,qwen-2.5-32b,test_social_en,"Alex has a lot of power over Jesse.
+Choices:
+Alex is Jesse's subordinate.
+Jesse is Alex's subordinate.",Jesse is Alex's subordinate.,Jesse is Alex's subordinate.,True
+228,qwen-2.5-32b,test_social_en,"Alex was raised by Jesse.
+Choices:
+Jesse is Alex's parent.
+Alex is Jesse's parent.",Jesse is Alex's parent.,Jesse is Alex's parent.,True
+229,qwen-2.5-32b,test_social_en,"Jesse was raised by Alex.
+Choices:
+Jesse is Alex's parent.
+Alex is Jesse's parent.",Alex is Jesse's parent.,Alex is Jesse's parent.,True
+230,qwen-2.5-32b,test_social_en,"Wei obeys Ali.
+Choices:
+Ali is Wei's parent.
+Ali is Wei's child.",Ali is Wei's parent.,Ali is Wei's parent.,True
+231,qwen-2.5-32b,test_social_en,"Ali obeys Wei.
+Choices:
+Ali is Wei's parent.
+Ali is Wei's child.",Ali is Wei's child.,Ali is Wei's child.,True
+232,qwen-2.5-32b,test_social_en,"Jesse has a lot of power over Alex.
+Choices:
+Jesse is Alex's boss.
+Jesse is Alex's subordinate.",Jesse is Alex's boss.,Jesse is Alex's boss.,True
+233,qwen-2.5-32b,test_social_en,"Jesse has little power over Alex.
+Choices:
+Jesse is Alex's boss.
+Jesse is Alex's subordinate.",Jesse is Alex's subordinate.,Jesse is Alex's subordinate.,True
+234,qwen-2.5-32b,test_social_en,"Jesse enjoys spending time with Alex.
+Choices:
+Jesse and Alex are friends.
+Jesse and Alex are strangers.",Jesse and Alex are friends.,Jesse and Alex are friends.,True
+235,qwen-2.5-32b,test_social_en,"Jesse is indifferent about spending time with Alex.
+Choices:
+Jesse and Alex are friends.
+Jesse and Alex are strangers.",Jesse and Alex are strangers.,Jesse and Alex are strangers.,True
+236,qwen-2.5-32b,test_social_en,"Jesse lectures Alex.
+Choices:
+Jesse is Alex's teacher.
+Jesse is Alex's student.",Jesse is Alex's teacher.,Jesse is Alex's teacher.,True
+237,qwen-2.5-32b,test_social_en,"Jesse learns from Alex.
+Choices:
+Jesse is Alex's teacher.
+Jesse is Alex's student.",Jesse is Alex's student.,Jesse is Alex's student.,True
+238,qwen-2.5-32b,test_social_en,"Wei gets orders from Ali.
+Choices:
+Wei is Ali's subordinate.
+Ali is Wei's subordinate.",Wei is Ali's subordinate.,Wei is Ali's subordinate.,True
+239,qwen-2.5-32b,test_social_en,"Ali gets orders from Wei.
+Choices:
+Wei is Ali's subordinate.
+Ali is Wei's subordinate.",Ali is Wei's subordinate.,Ali is Wei's subordinate.,True
+240,qwen-2.5-32b,test_social_en,"Mohammed collects rent from Carmen.
+Choices:
+Carmen is Mohammed's tenant.
+Mohammed is Carmen's tenant.",Carmen is Mohammed's tenant.,Carmen is Mohammed's tenant.,True
+241,qwen-2.5-32b,test_social_en,"Mohammed pays rent to Carmen.
+Choices:
+Carmen is Mohammed's tenant.
+Mohammed is Carmen's tenant.",Mohammed is Carmen's tenant.,Mohammed is Carmen's tenant.,True
+242,qwen-2.5-32b,test_social_en,"Mohammed rents an apartment to Carmen.
+Choices:
+Carmen is Mohammed's tenant.
+Mohammed is Carmen's tenant.",Carmen is Mohammed's tenant.,Carmen is Mohammed's tenant.,True
+243,qwen-2.5-32b,test_social_en,"Carmen rents an apartment to Mohammed.
+Choices:
+Carmen is Mohammed's tenant.
+Mohammed is Carmen's tenant.",Mohammed is Carmen's tenant.,Mohammed is Carmen's tenant.,True
+244,qwen-2.5-32b,test_social_en,"Wei was raised by Ali.
+Choices:
+Ali is Wei's parent.
+Ali is Wei's child.",Ali is Wei's parent.,Ali is Wei's parent.,True
+245,qwen-2.5-32b,test_social_en,"Ali was raised by Wei.
+Choices:
+Ali is Wei's parent.
+Ali is Wei's child.",Ali is Wei's child.,Ali is Wei's child.,True
+246,qwen-2.5-32b,test_social_en,"Ali likes Wei.
+Choices:
+Ali is Wei's friend.
+Ali is Wei's enemy.",Ali is Wei's friend.,Ali is Wei's friend.,True
+247,qwen-2.5-32b,test_social_en,"Ali hates Wei.
+Choices:
+Ali is Wei's friend.
+Ali is Wei's enemy.",Ali is Wei's enemy.,Ali is Wei's enemy.,True
+248,qwen-2.5-32b,test_social_en,"Ali likes Wei.
+Choices:
+Ali and Wei are friends.
+Ali and Wei are enemies.",Ali and Wei are friends.,Ali and Wei are friends.,True
+249,qwen-2.5-32b,test_social_en,"Ali hates Wei.
+Choices:
+Ali and Wei are friends.
+Ali and Wei are enemies.",Ali and Wei are enemies.,Ali and Wei are enemies.,True
+250,qwen-2.5-32b,test_social_en,"Li is at a later career stage than Maria.
+Choices:
+Li is Maria's boss.
+Li is Maria's subordinate.",Li is Maria's boss.,Li is Maria's boss.,True
+251,qwen-2.5-32b,test_social_en,"Li is at an earlier career stage than Maria.
+Choices:
+Li is Maria's boss.
+Li is Maria's subordinate.",Li is Maria's subordinate.,Li is Maria's subordinate.,True
+252,qwen-2.5-32b,test_social_en,"Li is Maria's employer.
+Choices:
+Li is Maria's boss.
+Li is Maria's subordinate.",Li is Maria's boss.,Li is Maria's boss.,True
+253,qwen-2.5-32b,test_social_en,"Li is Maria's employee.
+Choices:
+Li is Maria's boss.
+Li is Maria's subordinate.",Li is Maria's subordinate.,Li is Maria's subordinate.,True
+254,qwen-2.5-32b,test_social_en,"Yan obeys Chao.
+Choices:
+Yan is Chao's child.
+Chao is Yan's child.",Yan is Chao's child.,Yan is Chao's child.,True
+255,qwen-2.5-32b,test_social_en,"Chao obeys Yan.
+Choices:
+Yan is Chao's child.
+Chao is Yan's child.",Chao is Yan's child.,Chao is Yan's child.,True
+256,qwen-2.5-32b,test_social_en,"Wei has little power over Ali.
+Choices:
+Ali is Wei's boss.
+Ali is Wei's subordinate.",Ali is Wei's boss.,Ali is Wei's boss.,True
+257,qwen-2.5-32b,test_social_en,"Ali has little power over Wei.
+Choices:
+Ali is Wei's boss.
+Ali is Wei's subordinate.",Ali is Wei's subordinate.,Ali is Wei's subordinate.,True
+258,qwen-2.5-32b,test_social_en,"Ali disciplines Wei.
+Choices:
+Ali is Wei's parent.
+Wei is Ali's parent.",Ali is Wei's parent.,Ali is Wei's parent.,True
+259,qwen-2.5-32b,test_social_en,"Ali obeys Wei.
+Choices:
+Ali is Wei's parent.
+Wei is Ali's parent.",Wei is Ali's parent.,Wei is Ali's parent.,True
+260,qwen-2.5-32b,test_social_en,"Alex gets orders from Jesse.
+Choices:
+Jesse is Alex's boss.
+Alex is Jesse's boss.",Jesse is Alex's boss.,Jesse is Alex's boss.,True
+261,qwen-2.5-32b,test_social_en,"Jesse gets orders from Alex.
+Choices:
+Jesse is Alex's boss.
+Alex is Jesse's boss.",Alex is Jesse's boss.,Alex is Jesse's boss.,True
+262,qwen-2.5-32b,test_social_en,"Jesse rents a loft from Alex.
+Choices:
+Jesse is Alex's tenant.
+Jesse is Alex's roommate.",Jesse is Alex's tenant.,Jesse is Alex's tenant.,True
+263,qwen-2.5-32b,test_social_en,"Jesse shares a loft with Alex.
+Choices:
+Jesse is Alex's tenant.
+Jesse is Alex's roommate.",Jesse is Alex's roommate.,Jesse is Alex's roommate.,True
+264,qwen-2.5-32b,test_social_en,"Mohammed collects rent from Carmen.
+Choices:
+Mohammed is Carmen's landlord.
+Mohammed is Carmen's tenant.",Mohammed is Carmen's landlord.,Mohammed is Carmen's landlord.,True
+265,qwen-2.5-32b,test_social_en,"Carmen collects rent from Mohammed.
+Choices:
+Mohammed is Carmen's landlord.
+Mohammed is Carmen's tenant.",Mohammed is Carmen's tenant.,Mohammed is Carmen's tenant.,True
+266,qwen-2.5-32b,test_social_en,"Mohammed is Carmen's employer.
+Choices:
+Mohammed is Carmen's boss.
+Mohammed is Carmen's subordinate.",Mohammed is Carmen's boss.,Mohammed is Carmen's boss.,True
+267,qwen-2.5-32b,test_social_en,"Mohammed is Carmen's employee.
+Choices:
+Mohammed is Carmen's boss.
+Mohammed is Carmen's subordinate.",Mohammed is Carmen's subordinate.,Mohammed is Carmen's subordinate.,True
+268,qwen-2.5-32b,test_social_en,"Alex submits homework to Jesse.
+Choices:
+Alex is Jesse's student.
+Jesse is Alex's student.",Alex is Jesse's student.,Alex is Jesse's student.,True
+269,qwen-2.5-32b,test_social_en,"Jesse submits homework to Alex.
+Choices:
+Alex is Jesse's student.
+Jesse is Alex's student.",Jesse is Alex's student.,Jesse is Alex's student.,True
+270,qwen-2.5-32b,test_social_en,"Ali lectures Wei.
+Choices:
+Ali is Wei's teacher.
+Wei is Ali's teacher.",Ali is Wei's teacher.,Ali is Wei's teacher.,True
+271,qwen-2.5-32b,test_social_en,"Wei lectures Ali.
+Choices:
+Ali is Wei's teacher.
+Wei is Ali's teacher.",Wei is Ali's teacher.,Wei is Ali's teacher.,True
+272,qwen-2.5-32b,test_social_en,"Mohammed disciplines Carmen.
+Choices:
+Mohammed is Carmen's parent.
+Carmen is Mohammed's parent.",Mohammed is Carmen's parent.,Mohammed is Carmen's parent.,True
+273,qwen-2.5-32b,test_social_en,"Carmen disciplines Mohammed.
+Choices:
+Mohammed is Carmen's parent.
+Carmen is Mohammed's parent.",Carmen is Mohammed's parent.,Carmen is Mohammed's parent.,True
+274,qwen-2.5-32b,test_social_en,"Jesse gives orders to Alex.
+Choices:
+Jesse is Alex's boss.
+Jesse is Alex's subordinate.",Jesse is Alex's boss.,Jesse is Alex's boss.,True
+275,qwen-2.5-32b,test_social_en,"Alex gives orders to Jesse.
+Choices:
+Jesse is Alex's boss.
+Jesse is Alex's subordinate.",Jesse is Alex's subordinate.,Jesse is Alex's subordinate.,True
+276,qwen-2.5-32b,test_social_en,"Mohammed is Carmen's employer.
+Choices:
+Mohammed is Carmen's boss.
+Carmen is Mohammed's boss.",Mohammed is Carmen's boss.,Mohammed is Carmen's boss.,True
+277,qwen-2.5-32b,test_social_en,"Mohammed is Carmen's employee.
+Choices:
+Mohammed is Carmen's boss.
+Carmen is Mohammed's boss.",Carmen is Mohammed's boss.,Carmen is Mohammed's boss.,True
+278,qwen-2.5-32b,test_social_en,"Ali gives orders to Wei.
+Choices:
+Wei is Ali's subordinate.
+Ali is Wei's subordinate.",Wei is Ali's subordinate.,Wei is Ali's subordinate.,True
+279,qwen-2.5-32b,test_social_en,"Wei gives orders to Ali.
+Choices:
+Wei is Ali's subordinate.
+Ali is Wei's subordinate.",Ali is Wei's subordinate.,Ali is Wei's subordinate.,True
+280,qwen-2.5-32b,test_social_en,"Mohammed has the same duties as Carmen.
+Choices:
+Mohammed is Carmen's colleague.
+Mohammed is Carmen's boss.",Mohammed is Carmen's colleague.,Mohammed is Carmen's colleague.,True
+281,qwen-2.5-32b,test_social_en,"Mohammed gives orders to Carmen.
+Choices:
+Mohammed is Carmen's colleague.
+Mohammed is Carmen's boss.",Mohammed is Carmen's boss.,Mohammed is Carmen's boss.,True
+282,qwen-2.5-32b,test_social_en,"Alex rents a loft from Jesse.
+Choices:
+Jesse is Alex's landlord.
+Alex is Jesse's landlord.",Jesse is Alex's landlord.,Jesse is Alex's landlord.,True
+283,qwen-2.5-32b,test_social_en,"Jesse rents a loft from Alex.
+Choices:
+Jesse is Alex's landlord.
+Alex is Jesse's landlord.",Alex is Jesse's landlord.,Alex is Jesse's landlord.,True
+284,qwen-2.5-32b,test_social_en,"Ali enjoys spending time with Wei.
+Choices:
+Ali and Wei are friends.
+Ali and Wei are strangers.",Ali and Wei are friends.,Ali and Wei are friends.,True
+285,qwen-2.5-32b,test_social_en,"Ali is indifferent about spending time with Wei.
+Choices:
+Ali and Wei are friends.
+Ali and Wei are strangers.",Ali and Wei are strangers.,Ali and Wei are strangers.,True
+286,qwen-2.5-32b,test_social_en,"Ali is at a later career stage than Wei.
+Choices:
+Ali is Wei's boss.
+Wei is Ali's boss.",Ali is Wei's boss.,Ali is Wei's boss.,True
+287,qwen-2.5-32b,test_social_en,"Ali is at an earlier career stage than Wei.
+Choices:
+Ali is Wei's boss.
+Wei is Ali's boss.",Wei is Ali's boss.,Wei is Ali's boss.,True
+288,qwen-2.5-32b,test_social_en,"Chao disciplines Yan.
+Choices:
+Chao is Yan's parent.
+Chao is Yan's child.",Chao is Yan's parent.,Chao is Yan's parent.,True
+289,qwen-2.5-32b,test_social_en,"Chao obeys Yan.
+Choices:
+Chao is Yan's parent.
+Chao is Yan's child.",Chao is Yan's child.,Chao is Yan's child.,True
+290,qwen-2.5-32b,test_social_en,"Carmen obeys Mohammed.
+Choices:
+Mohammed is Carmen's parent.
+Carmen is Mohammed's parent.",Mohammed is Carmen's parent.,Mohammed is Carmen's parent.,True
+291,qwen-2.5-32b,test_social_en,"Mohammed obeys Carmen.
+Choices:
+Mohammed is Carmen's parent.
+Carmen is Mohammed's parent.",Carmen is Mohammed's parent.,Carmen is Mohammed's parent.,True
+292,qwen-2.5-32b,test_social_en,"Ali pays salary to Wei.
+Choices:
+Ali is Wei's boss.
+Ali is Wei's subordinate.",Ali is Wei's boss.,Ali is Wei's boss.,True
+293,qwen-2.5-32b,test_social_en,"Ali receives salary from Wei.
+Choices:
+Ali is Wei's boss.
+Ali is Wei's subordinate.",Ali is Wei's subordinate.,Ali is Wei's subordinate.,True
+294,qwen-2.5-32b,test_social_en,"Li makes decisions more often than Maria.
+Choices:
+Li is Maria's parent.
+Maria is Li's parent.",Li is Maria's parent.,Li is Maria's parent.,True
+295,qwen-2.5-32b,test_social_en,"Li makes decisions less often than Maria.
+Choices:
+Li is Maria's parent.
+Maria is Li's parent.",Maria is Li's parent.,Maria is Li's parent.,True
+296,qwen-2.5-32b,test_social_en,"Mohammed assigns homework to Carmen.
+Choices:
+Carmen is Mohammed's student.
+Mohammed is Carmen's student.",Carmen is Mohammed's student.,Carmen is Mohammed's student.,True
+297,qwen-2.5-32b,test_social_en,"Carmen assigns homework to Mohammed.
+Choices:
+Carmen is Mohammed's student.
+Mohammed is Carmen's student.",Mohammed is Carmen's student.,Mohammed is Carmen's student.,True
+298,qwen-2.5-32b,test_social_en,"Jesse makes decisions more often than Alex.
+Choices:
+Alex is Jesse's child.
+Jesse is Alex's child.",Alex is Jesse's child.,None of the provided choices.,False
+299,qwen-2.5-32b,test_social_en,"Alex makes decisions more often than Jesse.
+Choices:
+Alex is Jesse's child.
+Jesse is Alex's child.",Jesse is Alex's child.,None of the provided choices.,False

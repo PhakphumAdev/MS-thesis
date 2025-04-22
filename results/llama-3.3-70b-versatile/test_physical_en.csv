@@ -1,0 +1,1814 @@
+index,model,split,prompt,true_answer,model_output,is_correct
+0,llama-3.3-70b-versatile,test_physical_en,"I stand to your left and throw a ball to you. Which direction does the ball move?
+Choices:
+Up
+Down
+Left
+Right",Right,Right,True
+1,llama-3.3-70b-versatile,test_physical_en,"I stand on the balcony of a two story building and throw a ball to someone on the ground. Which direction does the ball travel?
+Choices:
+Up
+Down
+Left
+Right",Down,Down,True
+2,llama-3.3-70b-versatile,test_physical_en,"You stand to my right and throw a ball to me. Which direction does the ball move?
+Choices:
+Up
+Down
+Left
+Right",Left,Left,True
+3,llama-3.3-70b-versatile,test_physical_en,"I stand on the third floor balcony and you stand on the second story balcony. You throw the ball to me. Which direction does the ball move?
+Choices:
+Up
+Down
+Left
+Right",Up,Up,True
+4,llama-3.3-70b-versatile,test_physical_en,"You stand to my right and someone else stands to my left. I throw the ball to them. What direction does the ball travel?
+Choices:
+Up
+Down
+Left
+Right",Left,Left,True
+5,llama-3.3-70b-versatile,test_physical_en,"While standing on the surface of the spherical, gravitational body, I am holding a ball and then let go. Which direction does the ball travel?
+Choices:
+Up
+Down
+Left
+Right",Down,Down,True
+6,llama-3.3-70b-versatile,test_physical_en,"I stand to your left and you let go of a ball. Which direction does the ball travel?
+Choices:
+Up
+Down
+Left
+Right",Down,Down,True
+7,llama-3.3-70b-versatile,test_physical_en,"I stand to your left and you pass a ball to me. Which direction does the ball travel?
+Choices:
+Up
+Down
+Left
+Right",Left,Left,True
+8,llama-3.3-70b-versatile,test_physical_en,"I stand above you and throw a ball to you. Which direction does the ball travel?
+Choices:
+Up
+Down
+Left
+Right",Down,Down,True
+9,llama-3.3-70b-versatile,test_physical_en,"I stand below you and throw a ball to you. Which direction does the ball travel?
+Choices:
+Up
+Down
+Left
+Right",Up,Up,True
+10,llama-3.3-70b-versatile,test_physical_en,"I stand below you, and you throw a ball to me. Which direction does the ball travel?
+Choices:
+Up
+Down
+Left
+Right",Down,Down,True
+11,llama-3.3-70b-versatile,test_physical_en,"I am standing and then let go of a ball. Which direction is the opposite of the direction in which the ball travels?
+Choices:
+Up
+Down
+Left
+Right",Up,Up,True
+12,llama-3.3-70b-versatile,test_physical_en,"I stand to your left and throw a ball to you. Which direction is the opposite of the direction in which the ball travels?
+Choices:
+Up
+Down
+Left
+Right",Left,Right,False
+13,llama-3.3-70b-versatile,test_physical_en,"I stand to your right and throw a ball to you. Which direction is the opposite of the direction in which the ball travels?
+Choices:
+Up
+Down
+Left
+Right",Right,Left,False
+14,llama-3.3-70b-versatile,test_physical_en,"I throw a ball to the left. What direction(s) is (are) the ball moving just before it hits the ground?
+Choices:
+Up
+Down and Left
+Up and Left
+Right",Down and Left,Down and Left,True
+15,llama-3.3-70b-versatile,test_physical_en,"I throw a ball towards the sky. Which direction does the ball initially move in?
+Choices:
+Up
+Down
+Left
+Right",Up,Up,True
+16,llama-3.3-70b-versatile,test_physical_en,"I throw a ball towards the ground. Which direction does the ball initially move in?
+Choices:
+Up
+Down
+Left
+Right",Down,Down,True
+17,llama-3.3-70b-versatile,test_physical_en,"I throw a ball towards the sky. Which direction does the ball move in right before it hits the ground?
+Choices:
+Up
+Down
+Left
+Right",Down,Down,True
+18,llama-3.3-70b-versatile,test_physical_en,"I throw a ball to you. You catch the ball and immediately let go. What direction does the ball move in after it leaves your hands?
+Choices:
+Up
+Down
+Left
+Right",Down,Down,True
+19,llama-3.3-70b-versatile,test_physical_en,"You throw a ball to me, and I immediately drop it. What direction is the ball traveling right after it leaves my hands?
+Choices:
+Up
+Down
+Left
+Right",Down,Down,True
+20,llama-3.3-70b-versatile,test_physical_en,"You stand to my right and throw a ball to me. I immediately drop it. What direction is the ball traveling right after it leaves your hands?
+Choices:
+Up
+Down
+Left
+Right",Left,Right,False
+21,llama-3.3-70b-versatile,test_physical_en,"You stand to my right and drop the ball you’re holding. Which direction does the ball travel?
+Choices:
+Up
+Down
+Left
+Right",Down,Down,True
+22,llama-3.3-70b-versatile,test_physical_en,"You stand to my right and throw the ball you’re holding towards the ceiling. Which direction does the ball initially travel?
+Choices:
+Up
+Down
+Left
+Right",Up,Up,True
+23,llama-3.3-70b-versatile,test_physical_en,"I throw a ball away from the ground. Which direction does the ball initially travel?
+Choices:
+Up
+Down
+Left
+Right",Up,Up,True
+24,llama-3.3-70b-versatile,test_physical_en,"I throw a ball in the opposite direction of the sky. Which direction does the ball initially travel?
+Choices:
+Up
+Down
+Left
+Right",Down,Down,True
+25,llama-3.3-70b-versatile,test_physical_en,"A person drops a ball. The ball then bounces off the ground. Immediately after bouncing off the ground, where is the ball moving toward?
+Choices:
+ground
+sky
+left
+right",sky,sky,True
+26,llama-3.3-70b-versatile,test_physical_en,"A person drops a ball. Immediately after leaving the person's hand, which way is the ball moving?
+Choices:
+ground
+sky
+left
+right",ground,ground,True
+27,llama-3.3-70b-versatile,test_physical_en,"A person throws a ball straight into the air. Immediately after leaving the person's hand, which way is the ball moving?
+Choices:
+ground
+sky
+left
+right",sky,sky,True
+28,llama-3.3-70b-versatile,test_physical_en,"A person throws a ball straight into the air. Immediately after reaching the highest point in it's trajectory, where is the ball moving toward?
+Choices:
+ground
+sky
+left
+right",ground,ground,True
+29,llama-3.3-70b-versatile,test_physical_en,"A person is walking east. They turn around. Which way are they walking now?
+Choices:
+north
+east
+south
+west",west,west,True
+30,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a box, an egg, a microwave, and a book. Which is the easiest to roll?
+Choices:
+box
+egg
+microwave
+book",egg,egg,True
+31,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll an apple, a bottle, a ball, and a box. Which is the hardest to roll?
+Choices:
+apple
+bottle
+ball
+box",box,box,True
+32,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a block, a mirror, a ball, and a book. Which is the easiest to roll?
+Choices:
+block
+mirror
+ball
+book",ball,ball,True
+33,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll an apple, a block, an egg, and a can. Which is the hardest to roll?
+Choices:
+apple
+block
+egg
+can",block,egg,False
+34,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a block, an egg, a mirror, and a box. Which is the easiest to roll?
+Choices:
+block
+egg
+mirror
+box",egg,block,False
+35,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a bottle, a can, a box, and a ball. Which is the hardest to roll?
+Choices:
+bottle
+can
+box
+ball",box,box,True
+36,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a microwave, a can, a block, and a book. Which is the easiest to roll?
+Choices:
+microwave
+can
+block
+book",can,can,True
+37,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a mirror, a box, a block, and a bottle. Which is the easiest to roll?
+Choices:
+mirror
+box
+block
+bottle",bottle,bottle,True
+38,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a book, a bottle, an apple, and a ball. Which is the hardest to roll?
+Choices:
+book
+bottle
+apple
+ball",book,book,True
+39,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a block, an egg, a ball, and an apple. Which is the hardest to roll?
+Choices:
+block
+egg
+ball
+apple",block,egg,False
+40,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a box, an apple, an egg, and a can. Which is the hardest to roll?
+Choices:
+box
+apple
+egg
+can",box,egg,False
+41,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a ball, a bottle, a microwave, and an apple. Which is the hardest to roll?
+Choices:
+ball
+bottle
+microwave
+apple",microwave,microwave,True
+42,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a box, a mirror, an apple, and a book. Which is the easiest to roll?
+Choices:
+box
+mirror
+apple
+book",apple,apple,True
+43,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a ball, a mirror, a bottle, and a can. Which is the hardest to roll?
+Choices:
+ball
+mirror
+bottle
+can",mirror,mirror,True
+44,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a bottle, a mirror, a microwave, and a block. Which is the easiest to roll?
+Choices:
+bottle
+mirror
+microwave
+block",bottle,bottle,True
+45,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a microwave, a mirror, a book, and an apple. Which is the easiest to roll?
+Choices:
+microwave
+mirror
+book
+apple",apple,apple,True
+46,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a microwave, a bottle, a mirror, and a book. Which is the easiest to roll?
+Choices:
+microwave
+bottle
+mirror
+book",bottle,bottle,True
+47,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a mirror, a box, a microwave, and an apple. Which is the easiest to roll?
+Choices:
+mirror
+box
+microwave
+apple",apple,apple,True
+48,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a mirror, an egg, a ball, and a bottle. Which is the hardest to roll?
+Choices:
+mirror
+egg
+ball
+bottle",mirror,egg,False
+49,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a microwave, a box, a bottle, and a book. Which is the easiest to roll?
+Choices:
+microwave
+box
+bottle
+book",bottle,bottle,True
+50,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a block, an egg, a ball, and a bottle. Which is the hardest to roll?
+Choices:
+block
+egg
+ball
+bottle",block,bottle,False
+51,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll an apple, a box, a block, and a mirror. Which is the easiest to roll?
+Choices:
+apple
+box
+block
+mirror",apple,apple,True
+52,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll an egg, a bottle, a mirror, and a can. Which is the hardest to roll?
+Choices:
+egg
+bottle
+mirror
+can",mirror,mirror,True
+53,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a box, an apple, a block, and a book. Which is the easiest to roll?
+Choices:
+box
+apple
+block
+book",apple,apple,True
+54,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a can, a microwave, a book, and a box. Which is the easiest to roll?
+Choices:
+can
+microwave
+book
+box",can,can,True
+55,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a bottle, a ball, a microwave, and an apple. Which is the hardest to roll?
+Choices:
+bottle
+ball
+microwave
+apple",microwave,"assistant  giant  was assistant further
+
+assistantassistant further′assistant local assistant_Lean The '}.",False
+56,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a mirror, a book, an apple, and a block. Which is the easiest to roll?
+Choices:
+mirror
+book
+apple
+block",apple,apple,True
+57,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a box, a bottle, a book, and a mirror. Which is the easiest to roll?
+Choices:
+box
+bottle
+book
+mirror",bottle,bottle,True
+58,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a box, a mirror, an apple, and a microwave. Which is the easiest to roll?
+Choices:
+box
+mirror
+apple
+microwave",apple,apple,True
+59,llama-3.3-70b-versatile,test_physical_en,"A person is trying to roll a can, a bottle, a ball, and a mirror. Which is the hardest to roll?
+Choices:
+can
+bottle
+ball
+mirror",mirror,mirror,True
+60,llama-3.3-70b-versatile,test_physical_en,"A microwave, a leaf, a coin, and a brick moving at identical speeds each collide with a static hockey puck. Which puck slides the longest distance?
+Choices:
+microwave
+leaf
+coin
+brick",microwave,brick,False
+61,llama-3.3-70b-versatile,test_physical_en,"An apple and a microwave are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves down?
+Choices:
+apple
+microwave
+brick
+coin",microwave,microwave,True
+62,llama-3.3-70b-versatile,test_physical_en,"A brick, a microwave, a leaf, and a coin moving at identical speeds each collide with a static hockey puck. Which puck slides the longest distance?
+Choices:
+brick
+microwave
+leaf
+coin",microwave,brick,False
+63,llama-3.3-70b-versatile,test_physical_en,"A coin, a microwave, an egg, and an apple moving at identical speeds each collide with a static hockey puck. Which puck slides the longest distance?
+Choices:
+coin
+microwave
+egg
+apple",microwave,egg,False
+64,llama-3.3-70b-versatile,test_physical_en,"A brick, a microwave, an egg, and a leaf moving at identical speeds each collide with a static hockey puck. Which puck slides the shortest distance?
+Choices:
+brick
+microwave
+egg
+leaf",leaf,brick,False
+65,llama-3.3-70b-versatile,test_physical_en,"An egg and a coin are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves up?
+Choices:
+egg
+coin
+brick
+leaf",coin,"Neither, they are balanced.",False
+66,llama-3.3-70b-versatile,test_physical_en,"An apple, a microwave, an egg, and a coin moving at identical speeds each collide with a static hockey puck. Which puck slides the longest distance?
+Choices:
+apple
+microwave
+egg
+coin",microwave,coin,False
+67,llama-3.3-70b-versatile,test_physical_en,"An apple, a coin, a brick, and an egg moving at identical speeds each collide with a static hockey puck. Which puck slides the shortest distance?
+Choices:
+apple
+coin
+brick
+egg",coin,brick,False
+68,llama-3.3-70b-versatile,test_physical_en,"A coin, a leaf, a brick, and a microwave moving at identical speeds each collide with a static hockey puck. Which puck slides the shortest distance?
+Choices:
+coin
+leaf
+brick
+microwave",leaf,brick,False
+69,llama-3.3-70b-versatile,test_physical_en,"A brick and an egg are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves down?
+Choices:
+brick
+egg
+coin
+microwave",brick,"When the brick and an egg are removed and die the brick.
+ 
+Your Response:
+The correct answer is A.",False
+70,llama-3.3-70b-versatile,test_physical_en,"An apple and a brick are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves up?
+Choices:
+apple
+brick
+coin
+egg",apple,brick,False
+71,llama-3.3-70b-versatile,test_physical_en,"A leaf and an apple are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves down?
+Choices:
+leaf
+apple
+brick
+egg",apple,apple,True
+72,llama-3.3-70b-versatile,test_physical_en,"A coin and an apple are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves down?
+Choices:
+coin
+apple
+microwave
+brick",apple,apple,True
+73,llama-3.3-70b-versatile,test_physical_en,"An apple and a brick are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves down?
+Choices:
+apple
+brick
+egg
+microwave",brick,brick,True
+74,llama-3.3-70b-versatile,test_physical_en,"An egg and a coin are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves up?
+Choices:
+egg
+coin
+microwave
+brick",coin,egg,False
+75,llama-3.3-70b-versatile,test_physical_en,"A coin and an apple are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves up?
+Choices:
+coin
+apple
+leaf
+brick",coin,apple,False
+76,llama-3.3-70b-versatile,test_physical_en,"An apple and a coin are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves down?
+Choices:
+apple
+coin
+leaf
+microwave",apple,apple,True
+77,llama-3.3-70b-versatile,test_physical_en,"An apple, a leaf, an egg, and a brick moving at identical speeds each collide with a static hockey puck. Which puck slides the shortest distance?
+Choices:
+apple
+leaf
+egg
+brick",leaf,brick,False
+78,llama-3.3-70b-versatile,test_physical_en,"An apple, a microwave, a leaf, and a brick moving at identical speeds each collide with a static hockey puck. Which puck slides the shortest distance?
+Choices:
+apple
+microwave
+leaf
+brick",leaf,brick,False
+79,llama-3.3-70b-versatile,test_physical_en,"A microwave and an egg are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves down?
+Choices:
+microwave
+egg
+leaf
+coin",microwave,egg,False
+80,llama-3.3-70b-versatile,test_physical_en,"A coin, an egg, a leaf, and an apple moving at identical speeds each collide with a static hockey puck. Which puck slides the shortest distance?
+Choices:
+coin
+egg
+leaf
+apple",leaf,coin,False
+81,llama-3.3-70b-versatile,test_physical_en,"A leaf and a coin are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves up?
+Choices:
+leaf
+coin
+brick
+apple",leaf,coin,False
+82,llama-3.3-70b-versatile,test_physical_en,"A brick, a leaf, an apple, and a microwave moving at identical speeds each collide with a static hockey puck. Which puck slides the shortest distance?
+Choices:
+brick
+leaf
+apple
+microwave",leaf,brick,False
+83,llama-3.3-70b-versatile,test_physical_en,"An apple, a coin, a microwave, and a brick moving at identical speeds each collide with a static hockey puck. Which puck slides the longest distance?
+Choices:
+apple
+coin
+microwave
+brick",microwave,brick,False
+84,llama-3.3-70b-versatile,test_physical_en,"A leaf, an egg, a coin, and an apple moving at identical speeds each collide with a static hockey puck. Which puck slides the shortest distance?
+Choices:
+leaf
+egg
+coin
+apple",leaf,apple,False
+85,llama-3.3-70b-versatile,test_physical_en,"An egg and a microwave are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves down?
+Choices:
+egg
+microwave
+coin
+leaf",microwave,microwave,True
+86,llama-3.3-70b-versatile,test_physical_en,"An egg, an apple, a coin, and a microwave moving at identical speeds each collide with a static hockey puck. Which puck slides the shortest distance?
+Choices:
+egg
+apple
+coin
+microwave",coin,coin,True
+87,llama-3.3-70b-versatile,test_physical_en,"A microwave and a leaf are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves down?
+Choices:
+microwave
+leaf
+apple
+egg",microwave,microwave,True
+88,llama-3.3-70b-versatile,test_physical_en,"A leaf and a coin are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves down?
+Choices:
+leaf
+coin
+egg
+apple",coin,coin,True
+89,llama-3.3-70b-versatile,test_physical_en,"A coin and a microwave are placed in baskets on either end of a perfectly balanced seesaw. Which side of the seesaw moves down?
+Choices:
+coin
+microwave
+brick
+egg",microwave,microwave,True
+90,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto grass, a second ball onto rubber, a third ball onto foam, and a fourth ball onto leaves. Which ball bounces the highest?
+Choices:
+grass
+rubber
+foam
+leaves",rubber,rubber,True
+91,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto asphalt, a second ball onto concrete, a third ball onto steel, and a fourth ball onto foam. Which ball bounces the least?
+Choices:
+asphalt
+concrete
+steel
+foam",foam,foam,True
+92,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto carpet, a second ball onto snow, a third ball onto steel, and a fourth ball onto foam. Which ball bounces the highest?
+Choices:
+carpet
+snow
+steel
+foam",steel,steel,True
+93,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto asphalt, a second ball onto carpet, a third ball onto rubber, and a fourth ball onto steel. Which ball bounces the least?
+Choices:
+asphalt
+carpet
+rubber
+steel",carpet,carpet,True
+94,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto carpet, a second ball onto rubber, a third ball onto leaves, and a fourth ball onto grass. Which ball bounces the highest?
+Choices:
+carpet
+rubber
+leaves
+grass",rubber,rubber,True
+95,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto rubber, a second ball onto foam, a third ball onto leaves, and a fourth ball onto grass. Which ball bounces the highest?
+Choices:
+foam
+leaves
+grass
+rubber",rubber,rubber,True
+96,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto asphalt, a second ball onto snow, a third ball onto leaves, and a fourth ball onto carpet. Which ball bounces the highest?
+Choices:
+snow
+leaves
+carpet
+asphalt",asphalt,asphalt,True
+97,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto steel, a second ball onto grass, a third ball onto asphalt, and a fourth ball onto rubber. Which ball bounces the least?
+Choices:
+steel
+grass
+asphalt
+rubber",grass,grass,True
+98,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto concrete, a second ball onto carpet, a third ball onto snow, and a fourth ball onto foam. Which ball bounces the highest?
+Choices:
+concrete
+carpet
+snow
+foam",concrete,concrete,True
+99,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto carpet, a second ball onto leaves, a third ball onto steel, and a fourth ball onto foam. Which ball bounces the highest?
+Choices:
+carpet
+leaves
+steel
+foam",steel,steel,True
+100,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto grass, a second ball onto asphalt, a third ball onto rubber, and a fourth ball onto steel. Which ball bounces the least?
+Choices:
+grass
+asphalt
+rubber
+steel",grass,grass,True
+101,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto brick, a second ball onto foam, a third ball onto snow, and a fourth ball onto carpet. Which ball bounces the highest?
+Choices:
+brick
+foam
+snow
+carpet",brick,brick,True
+102,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto grass, a second ball onto snow, a third ball onto rubber, and a fourth ball onto foam. Which ball bounces the highest?
+Choices:
+grass
+snow
+rubber
+foam",rubber,rubber,True
+103,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto brick, a second ball onto steel, a third ball onto grass, and a fourth ball onto asphalt. Which ball bounces the least?
+Choices:
+brick
+steel
+grass
+asphalt",grass,grass,True
+104,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto foam, a second ball onto steel, a third ball onto snow, and a fourth ball onto carpet. Which ball bounces the highest?
+Choices:
+foam
+steel
+snow
+carpet",steel,steel,True
+105,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto snow, a second ball onto steel, a third ball onto brick, and a fourth ball onto rubber. Which ball bounces the least?
+Choices:
+snow
+steel
+brick
+rubber",snow,snow,True
+106,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto snow, a second ball onto foam, a third ball onto steel, and a fourth ball onto grass. Which ball bounces the highest?
+Choices:
+snow
+foam
+steel
+grass",steel,steel,True
+107,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto steel, a second ball onto grass, a third ball onto rubber, and a fourth ball onto brick. Which ball bounces the least?
+Choices:
+steel
+grass
+rubber
+brick",grass,grass,True
+108,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto steel, a second ball onto rubber, a third ball onto asphalt, and a fourth ball onto snow. Which ball bounces the least?
+Choices:
+steel
+rubber
+asphalt
+snow",snow,snow,True
+109,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto rubber, a second ball onto snow, a third ball onto grass, and a fourth ball onto foam. Which ball bounces the highest?
+Choices:
+snow
+grass
+foam
+rubber",rubber,rubber,True
+110,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto carpet, a second ball onto leaves, a third ball onto steel, and a fourth ball onto grass. Which ball bounces the highest?
+Choices:
+carpet
+leaves
+steel
+grass",steel,steel,True
+111,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto asphalt, a second ball onto grass, a third ball onto carpet, and a fourth ball onto snow. Which ball bounces the highest?
+Choices:
+asphalt
+grass
+carpet
+snow",asphalt,asphalt,True
+112,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto rubber, a second ball onto foam, a third ball onto steel, and a fourth ball onto concrete. Which ball bounces the least?
+Choices:
+rubber
+foam
+steel
+concrete",foam,foam,True
+113,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto grass, a second ball onto asphalt, a third ball onto carpet, and a fourth ball onto foam. Which ball bounces the highest?
+Choices:
+grass
+asphalt
+carpet
+foam",asphalt,asphalt,True
+114,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto concrete, a second ball onto leaves, a third ball onto snow, and a fourth ball onto foam. Which ball bounces the highest?
+Choices:
+leaves
+snow
+foam
+concrete",concrete,concrete,True
+115,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto foam, a second ball onto carpet, a third ball onto concrete, and a fourth ball onto grass. Which ball bounces the highest?
+Choices:
+foam
+carpet
+concrete
+grass",concrete,concrete,True
+116,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto steel, a second ball onto carpet, a third ball onto rubber, and a fourth ball onto asphalt. Which ball bounces the least?
+Choices:
+steel
+carpet
+rubber
+asphalt",carpet,carpet,True
+117,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto rubber, a second ball onto grass, a third ball onto foam, and a fourth ball onto leaves. Which ball bounces the highest?
+Choices:
+grass
+foam
+leaves
+rubber",rubber,rubber,True
+118,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto grass, a second ball onto snow, a third ball onto rubber, and a fourth ball onto leaves. Which ball bounces the highest?
+Choices:
+grass
+snow
+rubber
+leaves",rubber,rubber,True
+119,llama-3.3-70b-versatile,test_physical_en,"A person is trying to bounce a rubber ball. They drop a first ball onto brick, a second ball onto leaves, a third ball onto foam, and a fourth ball onto grass. Which ball bounces the highest?
+Choices:
+leaves
+foam
+grass
+brick",brick,brick,True
+120,llama-3.3-70b-versatile,test_physical_en,"A person drops a mirror, a pillow, a glass, and an egg from a balcony. Which object is the least likely to break?
+Choices:
+mirror
+pillow
+glass
+egg",pillow,pillow,True
+121,llama-3.3-70b-versatile,test_physical_en,"A person drops a ball, a glass, a bottle, and a plate from a balcony. Which object is the least likely to break?
+Choices:
+ball
+glass
+bottle
+plate",ball,ball,True
+122,llama-3.3-70b-versatile,test_physical_en,"A person drops a coin, a shirt, a ball, and a mirror from a balcony. Which object is the most likely to break?
+Choices:
+coin
+shirt
+ball
+mirror",mirror,mirror,True
+123,llama-3.3-70b-versatile,test_physical_en,"A person drops a ball, a coin, a plate, and a pillow from a balcony. Which object is the most likely to break?
+Choices:
+ball
+coin
+plate
+pillow",plate,plate,True
+124,llama-3.3-70b-versatile,test_physical_en,"A person drops a coin, a pillow, a plate, and a ball from a balcony. Which object is the most likely to break?
+Choices:
+coin
+pillow
+plate
+ball",plate,plate,True
+125,llama-3.3-70b-versatile,test_physical_en,"A person drops a glass, a pen, an egg, and a plate from a balcony. Which object is the least likely to break?
+Choices:
+glass
+pen
+egg
+plate",pen,pen,True
+126,llama-3.3-70b-versatile,test_physical_en,"A person drops a plate, a pen, a ball, and a coin from a balcony. Which object is the most likely to break?
+Choices:
+plate
+pen
+ball
+coin",plate,plate,True
+127,llama-3.3-70b-versatile,test_physical_en,"A person drops a shirt, a mirror, a coin, and a pillow from a balcony. Which object is the most likely to break?
+Choices:
+shirt
+mirror
+coin
+pillow",mirror,mirror,True
+128,llama-3.3-70b-versatile,test_physical_en,"A person drops an egg, a glass, a ball, and a bottle from a balcony. Which object is the least likely to break?
+Choices:
+egg
+glass
+ball
+bottle",ball,ball,True
+129,llama-3.3-70b-versatile,test_physical_en,"A person drops a coin, a pillow, a ball, and a mirror from a balcony. Which object is the most likely to break?
+Choices:
+coin
+pillow
+ball
+mirror",mirror,mirror,True
+130,llama-3.3-70b-versatile,test_physical_en,"A person drops a mirror, a ball, a pillow, and a shirt from a balcony. Which object is the most likely to break?
+Choices:
+mirror
+ball
+pillow
+shirt",mirror,mirror,True
+131,llama-3.3-70b-versatile,test_physical_en,"A person drops a bottle, a glass, a plate, and a pen from a balcony. Which object is the least likely to break?
+Choices:
+bottle
+glass
+plate
+pen",pen,pen,True
+132,llama-3.3-70b-versatile,test_physical_en,"A person drops a mirror, a plate, a pillow, and an egg from a balcony. Which object is the least likely to break?
+Choices:
+mirror
+plate
+pillow
+egg",pillow,pillow,True
+133,llama-3.3-70b-versatile,test_physical_en,"A person drops a bottle, a shirt, a glass, and a mirror from a balcony. Which object is the least likely to break?
+Choices:
+bottle
+shirt
+glass
+mirror",shirt,shirt,True
+134,llama-3.3-70b-versatile,test_physical_en,"A person drops a glass, a shirt, a plate, and a bottle from a balcony. Which object is the least likely to break?
+Choices:
+glass
+shirt
+plate
+bottle",shirt,shirt,True
+135,llama-3.3-70b-versatile,test_physical_en,"A person drops a plate, a shirt, a bottle, and a mirror from a balcony. Which object is the least likely to break?
+Choices:
+plate
+shirt
+bottle
+mirror",shirt,shirt,True
+136,llama-3.3-70b-versatile,test_physical_en,"A person drops a plate, a glass, a pen, and an egg from a balcony. Which object is the least likely to break?
+Choices:
+plate
+glass
+pen
+egg",pen,pen,True
+137,llama-3.3-70b-versatile,test_physical_en,"A person drops a shirt, a pen, a ball, and an egg from a balcony. Which object is the most likely to break?
+Choices:
+shirt
+pen
+ball
+egg",egg,egg,True
+138,llama-3.3-70b-versatile,test_physical_en,"A person drops a shirt, a pillow, a ball, and a plate from a balcony. Which object is the most likely to break?
+Choices:
+shirt
+pillow
+ball
+plate",plate,plate,True
+139,llama-3.3-70b-versatile,test_physical_en,"A person drops a plate, a mirror, an egg, and a ball from a balcony. Which object is the least likely to break?
+Choices:
+plate
+mirror
+egg
+ball",ball,ball,True
+140,llama-3.3-70b-versatile,test_physical_en,"A person drops a coin, a pillow, a ball, and a plate from a balcony. Which object is the most likely to break?
+Choices:
+coin
+pillow
+ball
+plate",plate,plate,True
+141,llama-3.3-70b-versatile,test_physical_en,"A person drops a ball, a mirror, a glass, and a plate from a balcony. Which object is the least likely to break?
+Choices:
+ball
+mirror
+glass
+plate",ball,ball,True
+142,llama-3.3-70b-versatile,test_physical_en,"A person drops a pillow, a mirror, a bottle, and a plate from a balcony. Which object is the least likely to break?
+Choices:
+pillow
+mirror
+bottle
+plate",pillow,pillow,True
+143,llama-3.3-70b-versatile,test_physical_en,"A person drops a mirror, a ball, a coin, and a pen from a balcony. Which object is the most likely to break?
+Choices:
+mirror
+ball
+coin
+pen",mirror,mirror,True
+144,llama-3.3-70b-versatile,test_physical_en,"A person drops a pen, a plate, a mirror, and an egg from a balcony. Which object is the least likely to break?
+Choices:
+pen
+plate
+mirror
+egg",pen,pen,True
+145,llama-3.3-70b-versatile,test_physical_en,"A person drops a glass, a coin, a ball, and a pen from a balcony. Which object is the most likely to break?
+Choices:
+glass
+coin
+ball
+pen",glass,glass,True
+146,llama-3.3-70b-versatile,test_physical_en,"A person drops a shirt, a coin, a pillow, and a glass from a balcony. Which object is the most likely to break?
+Choices:
+shirt
+coin
+pillow
+glass",glass,glass,True
+147,llama-3.3-70b-versatile,test_physical_en,"A person drops a mirror, a glass, an egg, and a ball from a balcony. Which object is the least likely to break?
+Choices:
+mirror
+glass
+egg
+ball",ball,ball,True
+148,llama-3.3-70b-versatile,test_physical_en,"A person drops a mirror, a plate, a pillow, and a glass from a balcony. Which object is the least likely to break?
+Choices:
+mirror
+plate
+pillow
+glass",pillow,pillow,True
+149,llama-3.3-70b-versatile,test_physical_en,"A person drops a pen, a glass, an egg, and a bottle from a balcony. Which object is the least likely to break?
+Choices:
+pen
+glass
+egg
+bottle",pen,pen,True
+150,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack coins, flowers, boxes, and books. Which are the hardest to stack?
+Choices:
+coins
+flowers
+boxes
+books",flowers,flowers,True
+151,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack balls, boxes, blocks, and plates. Which are the hardest to stack?
+Choices:
+balls
+boxes
+blocks
+plates",balls,balls,True
+152,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack books, plates, blocks, and balls. Which are the hardest to stack?
+Choices:
+books
+plates
+blocks
+balls",balls,balls,True
+153,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack balls, books, plates, and coins. Which are the hardest to stack?
+Choices:
+balls
+books
+plates
+coins",balls,balls,True
+154,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack books, flowers, eggs, and bottles. Which are the easiest to stack?
+Choices:
+books
+flowers
+eggs
+bottles",books,books,True
+155,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack boxes, eggs, bottles, and lamps. Which are the easiest to stack?
+Choices:
+boxes
+eggs
+bottles
+lamps",boxes,boxes,True
+156,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack lamps, eggs, bottles, and books. Which are the easiest to stack?
+Choices:
+lamps
+eggs
+bottles
+books",books,books,True
+157,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack plates, coins, balls, and boxes. Which are the hardest to stack?
+Choices:
+plates
+coins
+balls
+boxes",balls,balls,True
+158,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack bottles, boxes, balls, and eggs. Which are the easiest to stack?
+Choices:
+bottles
+boxes
+balls
+eggs",boxes,boxes,True
+159,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack books, eggs, plates, and blocks. Which are the hardest to stack?
+Choices:
+books
+eggs
+plates
+blocks",eggs,eggs,True
+160,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack coins, balls, flowers, and lamps. Which are the easiest to stack?
+Choices:
+coins
+balls
+flowers
+lamps",coins,coins,True
+161,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack blocks, boxes, lamps, and plates. Which are the hardest to stack?
+Choices:
+blocks
+boxes
+lamps
+plates",lamps,lamps,True
+162,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack coins, plates, balls, and books. Which are the hardest to stack?
+Choices:
+coins
+plates
+balls
+books",balls,balls,True
+163,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack blocks, plates, coins, and balls. Which are the hardest to stack?
+Choices:
+blocks
+plates
+coins
+balls",balls,balls,True
+164,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack boxes, plates, lamps, and blocks. Which are the hardest to stack?
+Choices:
+boxes
+plates
+lamps
+blocks",lamps,lamps,True
+165,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack lamps, plates, blocks, and coins. Which are the hardest to stack?
+Choices:
+lamps
+plates
+blocks
+coins",lamps,coins,False
+166,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack lamps, boxes, plates, and books. Which are the hardest to stack?
+Choices:
+lamps
+boxes
+plates
+books",lamps,plates,False
+167,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack plates, coins, boxes, and flowers. Which are the hardest to stack?
+Choices:
+plates
+coins
+boxes
+flowers",flowers,flowers,True
+168,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack plates, eggs, lamps, and bottles. Which are the easiest to stack?
+Choices:
+plates
+eggs
+lamps
+bottles",plates,plates,True
+169,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack lamps, coins, eggs, and flowers. Which are the easiest to stack?
+Choices:
+lamps
+coins
+eggs
+flowers",coins,coins,True
+170,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack books, eggs, plates, and boxes. Which are the hardest to stack?
+Choices:
+books
+eggs
+plates
+boxes",eggs,eggs,True
+171,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack balls, coins, boxes, and plates. Which are the hardest to stack?
+Choices:
+balls
+coins
+boxes
+plates",balls,balls,True
+172,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack flowers, coins, blocks, and plates. Which are the hardest to stack?
+Choices:
+flowers
+coins
+blocks
+plates",flowers,flowers,True
+173,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack coins, balls, books, and blocks. Which are the hardest to stack?
+Choices:
+coins
+balls
+books
+blocks",balls,balls,True
+174,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack eggs, lamps, boxes, and balls. Which are the easiest to stack?
+Choices:
+eggs
+lamps
+boxes
+balls",boxes,boxes,True
+175,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack boxes, books, balls, and blocks. Which are the hardest to stack?
+Choices:
+boxes
+books
+balls
+blocks",balls,balls,True
+176,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack plates, books, flowers, and blocks. Which are the hardest to stack?
+Choices:
+plates
+books
+flowers
+blocks",flowers,flowers,True
+177,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack coins, boxes, books, and flowers. Which are the hardest to stack?
+Choices:
+coins
+boxes
+books
+flowers",flowers,flowers,True
+178,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack coins, plates, balls, and boxes. Which are the hardest to stack?
+Choices:
+coins
+plates
+balls
+boxes",balls,balls,True
+179,llama-3.3-70b-versatile,test_physical_en,"A person is trying to stack eggs, boxes, bottles, and balls. Which are the easiest to stack?
+Choices:
+eggs
+boxes
+bottles
+balls",boxes,boxes,True
+180,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of flowers, a pile of salt, a pile of books, and a pile of blocks from one side of a room to the other using only one hand. Which pile is the hardest to move?
+Choices:
+flowers
+salt
+books
+blocks",salt,flowers,False
+181,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of balls, a pile of bottles, a pile of rice, and a pile of flowers from one side of a room to the other using only one hand. Which pile is the hardest to move?
+Choices:
+balls
+bottles
+rice
+flowers",rice,rice,True
+182,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of books, a pile of snow, a pile of sugar, and a pile of flour from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+books
+snow
+sugar
+flour",books,books,True
+183,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of balls, a pile of books, a pile of flowers, and a pile of sugar from one side of a room to the other using only one hand. Which pile is the hardest to move?
+Choices:
+balls
+books
+flowers
+sugar",sugar,sugar,True
+184,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of books, a pile of salt, a pile of flour, and a pile of snow from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+books
+salt
+flour
+snow",books,snow,False
+185,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of flour, a pile of rice, a pile of sugar, and a pile of flowers from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+flour
+rice
+sugar
+flowers",flowers,flowers,True
+186,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of snow, a pile of rice, a pile of flowers, and a pile of salt from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+snow
+rice
+flowers
+salt",flowers,flowers,True
+187,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of sugar, a pile of flowers, a pile of flour, and a pile of snow from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+sugar
+flowers
+flour
+snow",flowers,flowers,True
+188,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of bottles, a pile of books, a pile of rice, and a pile of balls from one side of a room to the other using only one hand. Which pile is the hardest to move?
+Choices:
+bottles
+books
+rice
+balls",rice,rice,True
+189,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of books, a pile of rice, a pile of salt, and a pile of flour from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+books
+rice
+salt
+flour",books,books,True
+190,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of flowers, a pile of balls, a pile of flour, and a pile of bottles from one side of a room to the other using only one hand. Which pile is the hardest to move?
+Choices:
+flowers
+balls
+flour
+bottles",flour,flour,True
+191,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of blocks, a pile of flour, a pile of rice, and a pile of salt from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+blocks
+flour
+rice
+salt",blocks,blocks,True
+192,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of flowers, a pile of snow, a pile of salt, and a pile of rice from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+flowers
+snow
+salt
+rice",flowers,flowers,True
+193,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of blocks, a pile of sugar, a pile of flour, and a pile of salt from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+blocks
+sugar
+flour
+salt",blocks,blocks,True
+194,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of flour, a pile of sugar, a pile of snow, and a pile of books from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+flour
+sugar
+snow
+books",books,snow,False
+195,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of snow, a pile of sugar, a pile of bottles, and a pile of salt from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+snow
+sugar
+bottles
+salt",bottles,sugar,False
+196,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of snow, a pile of flowers, a pile of blocks, and a pile of books from one side of a room to the other using only one hand. Which pile is the hardest to move?
+Choices:
+snow
+flowers
+blocks
+books",snow,snow,True
+197,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of sugar, a pile of rice, a pile of books, and a pile of salt from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+sugar
+rice
+books
+salt",books,books,True
+198,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of sugar, a pile of salt, a pile of bottles, and a pile of rice from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+sugar
+salt
+bottles
+rice",bottles,bottles,True
+199,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of snow, a pile of flowers, a pile of sugar, and a pile of salt from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+snow
+flowers
+sugar
+salt",flowers,sugar,False
+200,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of books, a pile of rice, a pile of salt, and a pile of snow from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+books
+rice
+salt
+snow",books,books,True
+201,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of balls, a pile of flour, a pile of sugar, and a pile of snow from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+balls
+flour
+sugar
+snow",balls,balls,True
+202,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of salt, a pile of flowers, a pile of bottles, and a pile of books from one side of a room to the other using only one hand. Which pile is the hardest to move?
+Choices:
+salt
+flowers
+bottles
+books",salt,bottles,False
+203,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of flowers, a pile of balls, a pile of blocks, and a pile of snow from one side of a room to the other using only one hand. Which pile is the hardest to move?
+Choices:
+flowers
+balls
+blocks
+snow",snow,snow,True
+204,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of rice, a pile of snow, a pile of salt, and a pile of books from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+rice
+snow
+salt
+books",books,books,True
+205,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of flour, a pile of books, a pile of bottles, and a pile of balls from one side of a room to the other using only one hand. Which pile is the hardest to move?
+Choices:
+flour
+books
+bottles
+balls",flour,flour,True
+206,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of sugar, a pile of bottles, a pile of books, and a pile of balls from one side of a room to the other using only one hand. Which pile is the hardest to move?
+Choices:
+sugar
+bottles
+books
+balls",sugar,"bunifurg, The one the. 
+
+is the  the answer choices are: 
+A) left 
+B)right 
+C)right and left 
+D) none 
+
+The correct answer is D) none",False
+207,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of flowers, a pile of bottles, a pile of sugar, and a pile of books from one side of a room to the other using only one hand. Which pile is the hardest to move?
+Choices:
+flowers
+bottles
+sugar
+books",sugar,sugar,True
+208,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of flowers, a pile of snow, a pile of salt, and a pile of sugar from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+flowers
+snow
+salt
+sugar",flowers,flowers,True
+209,llama-3.3-70b-versatile,test_physical_en,"A person is trying to move a pile of rice, a pile of flour, a pile of snow, and a pile of blocks from one side of a room to the other using only one hand. Which pile is the easiest to move?
+Choices:
+rice
+flour
+snow
+blocks",blocks,snow,False
+210,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a table, the second walks around a mountain, the third walks around a house, and the fourth walks around a car. Which takes the longest amount of time to walk around?
+Choices:
+table
+mountain
+house
+car",mountain,mountain,True
+211,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a book, a table, a car, and a house. Which circle takes the least amount of paint?
+Choices:
+book
+table
+car
+house",book,book,True
+212,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a car, the second walks around a table, the third walks around a mountain, and the fourth walks around a house. Which takes the longest amount of time to walk around?
+Choices:
+car
+table
+mountain
+house",mountain,mountain,True
+213,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a house, the second walks around a table, the third walks around a microwave, and the fourth walks around a book. Which takes the longest amount of time to walk around?
+Choices:
+house
+table
+microwave
+book",house,house,True
+214,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a car, the second walks around a table, the third walks around a microwave, and the fourth walks around a mountain. Which takes the shortest amount of time to walk around?
+Choices:
+car
+table
+microwave
+mountain",microwave,microwave,True
+215,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a microwave, a house, a car, and a mountain. Which circle takes the most amount of paint?
+Choices:
+microwave
+house
+car
+mountain",mountain,mountain,True
+216,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a book, the second walks around a table, the third walks around a microwave, and the fourth walks around a house. Which takes the longest amount of time to walk around?
+Choices:
+book
+table
+microwave
+house",house,house,True
+217,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a book, the second walks around a house, the third walks around a car, and the fourth walks around a microwave. Which takes the shortest amount of time to walk around?
+Choices:
+book
+house
+car
+microwave",book,book,True
+218,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a house, the second walks around a mountain, the third walks around a car, and the fourth walks around a table. Which takes the shortest amount of time to walk around?
+Choices:
+house
+mountain
+car
+table",table,table,True
+219,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a car, a microwave, a house, and a table. Which circle takes the least amount of paint?
+Choices:
+car
+microwave
+house
+table",microwave,microwave,True
+220,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a book, a car, a house, and a microwave. Which circle takes the most amount of paint?
+Choices:
+book
+car
+house
+microwave",house,house,True
+221,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a mountain, a book, a car, and a microwave. Which circle takes the least amount of paint?
+Choices:
+mountain
+book
+car
+microwave",book,book,True
+222,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a house, a book, a table, and a car. Which circle takes the least amount of paint?
+Choices:
+house
+book
+table
+car",book,book,True
+223,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a book, a car, a microwave, and a table. Which circle takes the least amount of paint?
+Choices:
+book
+car
+microwave
+table",book,book,True
+224,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a microwave, a house, a table, and a car. Which circle takes the most amount of paint?
+Choices:
+microwave
+house
+table
+car",house,house,True
+225,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a house, a book, a mountain, and a car. Which circle takes the most amount of paint?
+Choices:
+house
+book
+mountain
+car",mountain,mountain,True
+226,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a book, a house, a mountain, and a table. Which circle takes the least amount of paint?
+Choices:
+book
+house
+mountain
+table",book,book,True
+227,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a book, the second walks around a mountain, the third walks around a microwave, and the fourth walks around a car. Which takes the shortest amount of time to walk around?
+Choices:
+book
+mountain
+microwave
+car",book,book,True
+228,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a book, the second walks around a table, the third walks around a mountain, and the fourth walks around a car. Which takes the shortest amount of time to walk around?
+Choices:
+book
+table
+mountain
+car",book,book,True
+229,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a table, a microwave, a mountain, and a house. Which circle takes the least amount of paint?
+Choices:
+table
+microwave
+mountain
+house",microwave,table,False
+230,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a house, the second walks around a microwave, the third walks around a mountain, and the fourth walks around a book. Which takes the shortest amount of time to walk around?
+Choices:
+house
+microwave
+mountain
+book",book,microwave,False
+231,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a mountain, a house, a car, and a book. Which circle takes the most amount of paint?
+Choices:
+mountain
+house
+car
+book",mountain,mountain,True
+232,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a car, the second walks around a mountain, the third walks around a book, and the fourth walks around a table. Which takes the shortest amount of time to walk around?
+Choices:
+car
+mountain
+book
+table",book,book,True
+233,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a book, the second walks around a house, the third walks around a table, and the fourth walks around a car. Which takes the longest amount of time to walk around?
+Choices:
+book
+house
+table
+car",house,house,True
+234,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a mountain, the second walks around a microwave, the third walks around a house, and the fourth walks around a book. Which takes the shortest amount of time to walk around?
+Choices:
+mountain
+microwave
+house
+book",book,microwave,False
+235,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a microwave, a table, a house, and a mountain. Which circle takes the least amount of paint?
+Choices:
+microwave
+table
+house
+mountain",microwave,microwave,True
+236,llama-3.3-70b-versatile,test_physical_en,"Four people are walking at identical speeds. The first walks around a microwave, the second walks around a book, the third walks around a house, and the fourth walks around a table. Which takes the shortest amount of time to walk around?
+Choices:
+microwave
+book
+house
+table",book,microwave,False
+237,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a table, a mountain, a book, and a microwave. Which circle takes the least amount of paint?
+Choices:
+table
+mountain
+book
+microwave",book,book,True
+238,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a mountain, a house, a microwave, and a book. Which circle takes the least amount of paint?
+Choices:
+mountain
+house
+microwave
+book",book,book,True
+239,llama-3.3-70b-versatile,test_physical_en,"A person paints a circle around a house, a table, a car, and a microwave. Which circle takes the least amount of paint?
+Choices:
+house
+table
+car
+microwave",microwave,microwave,True
+240,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a table, the second leads to the top of a mountain, the third leads to the top of a house, and the fourth leads to the top of a car. The staircase leading to the top of what is the easiest to walk up?
+Choices:
+table
+mountain
+house
+car",table,table,True
+241,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a book, the second is dropped from the height equivalent of a table, the third is dropped from the height equivalent of a car, and the fourth is dropped from the height equivalent of a house. The ball dropped from the height of what takes the longest amount of time to fall?
+Choices:
+book
+table
+car
+house",house,house,True
+242,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a car, the second leads to the top of a table, the third leads to the top of a mountain, and the fourth leads to the top of a house. The staircase leading to the top of what is the easiest to walk up?
+Choices:
+car
+table
+mountain
+house",table,table,True
+243,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a house, the second leads to the top of a table, the third leads to the top of a microwave, and the fourth leads to the top of a book. The staircase leading to the top of what is the easiest to walk up?
+Choices:
+house
+table
+microwave
+book",book,table,False
+244,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a car, the second leads to the top of a table, the third leads to the top of a microwave, and the fourth leads to the top of a mountain. The staircase leading to the top of what is the hardest to walk up?
+Choices:
+car
+table
+microwave
+mountain",mountain,mountain,True
+245,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a microwave, the second is dropped from the height equivalent of a house, the third is dropped from the height equivalent of a car, and the fourth is dropped from the height equivalent of a mountain. The ball dropped from the height of what takes the shortest amount of time to fall?
+Choices:
+microwave
+house
+car
+mountain",microwave,microwave,True
+246,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a book, the second leads to the top of a table, the third leads to the top of a microwave, and the fourth leads to the top of a house. The staircase leading to the top of what is the easiest to walk up?
+Choices:
+book
+table
+microwave
+house",book,table,False
+247,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a book, the second leads to the top of a house, the third leads to the top of a car, and the fourth leads to the top of a microwave. The staircase leading to the top of what is the hardest to walk up?
+Choices:
+book
+house
+car
+microwave",house,book,False
+248,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a house, the second leads to the top of a mountain, the third leads to the top of a car, and the fourth leads to the top of a table. The staircase leading to the top of what is the hardest to walk up?
+Choices:
+house
+mountain
+car
+table",mountain,mountain,True
+249,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a car, the second is dropped from the height equivalent of a microwave, the third is dropped from the height equivalent of a house, and the fourth is dropped from the height equivalent of a table. The ball dropped from the height of what takes the longest amount of time to fall?
+Choices:
+car
+microwave
+house
+table",house,house,True
+250,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a book, the second is dropped from the height equivalent of a car, the third is dropped from the height equivalent of a house, and the fourth is dropped from the height equivalent of a microwave. The ball dropped from the height of what takes the shortest amount of time to fall?
+Choices:
+book
+car
+house
+microwave",book,microwave,False
+251,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a mountain, the second is dropped from the height equivalent of a book, the third is dropped from the height equivalent of a car, and the fourth is dropped from the height equivalent of a microwave. The ball dropped from the height of what takes the longest amount of time to fall?
+Choices:
+mountain
+book
+car
+microwave",mountain,mountain,True
+252,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a house, the second is dropped from the height equivalent of a book, the third is dropped from the height equivalent of a table, and the fourth is dropped from the height equivalent of a car. The ball dropped from the height of what takes the longest amount of time to fall?
+Choices:
+house
+book
+table
+car",house,house,True
+253,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a book, the second is dropped from the height equivalent of a car, the third is dropped from the height equivalent of a microwave, and the fourth is dropped from the height equivalent of a table. The ball dropped from the height of what takes the longest amount of time to fall?
+Choices:
+book
+car
+microwave
+table",car,car,True
+254,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a microwave, the second is dropped from the height equivalent of a house, the third is dropped from the height equivalent of a table, and the fourth is dropped from the height equivalent of a car. The ball dropped from the height of what takes the shortest amount of time to fall?
+Choices:
+microwave
+house
+table
+car",microwave,table,False
+255,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a house, the second is dropped from the height equivalent of a book, the third is dropped from the height equivalent of a mountain, and the fourth is dropped from the height equivalent of a car. The ball dropped from the height of what takes the shortest amount of time to fall?
+Choices:
+house
+book
+mountain
+car",book,book,True
+256,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a book, the second is dropped from the height equivalent of a house, the third is dropped from the height equivalent of a mountain, and the fourth is dropped from the height equivalent of a table. The ball dropped from the height of what takes the longest amount of time to fall?
+Choices:
+book
+house
+mountain
+table",mountain,mountain,True
+257,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a book, the second leads to the top of a mountain, the third leads to the top of a microwave, and the fourth leads to the top of a car. The staircase leading to the top of what is the hardest to walk up?
+Choices:
+book
+mountain
+microwave
+car",mountain,mountain,True
+258,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a book, the second leads to the top of a table, the third leads to the top of a mountain, and the fourth leads to the top of a car. The staircase leading to the top of what is the hardest to walk up?
+Choices:
+book
+table
+mountain
+car",mountain,mountain,True
+259,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a table, the second is dropped from the height equivalent of a microwave, the third is dropped from the height equivalent of a mountain, and the fourth is dropped from the height equivalent of a house. The ball dropped from the height of what takes the longest amount of time to fall?
+Choices:
+table
+microwave
+mountain
+house",mountain,mountain,True
+260,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a house, the second leads to the top of a microwave, the third leads to the top of a mountain, and the fourth leads to the top of a book. The staircase leading to the top of what is the hardest to walk up?
+Choices:
+house
+microwave
+mountain
+book",mountain,mountain,True
+261,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a mountain, the second is dropped from the height equivalent of a house, the third is dropped from the height equivalent of a car, and the fourth is dropped from the height equivalent of a book. The ball dropped from the height of what takes the shortest amount of time to fall?
+Choices:
+mountain
+house
+car
+book",book,book,True
+262,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a car, the second leads to the top of a mountain, the third leads to the top of a book, and the fourth leads to the top of a table. The staircase leading to the top of what is the hardest to walk up?
+Choices:
+car
+mountain
+book
+table",mountain,mountain,True
+263,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a book, the second leads to the top of a house, the third leads to the top of a table, and the fourth leads to the top of a car. The staircase leading to the top of what is the easiest to walk up?
+Choices:
+book
+house
+table
+car",book,table,False
+264,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a mountain, the second leads to the top of a microwave, the third leads to the top of a house, and the fourth leads to the top of a book. The staircase leading to the top of what is the hardest to walk up?
+Choices:
+mountain
+microwave
+house
+book",mountain,mountain,True
+265,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a microwave, the second is dropped from the height equivalent of a table, the third is dropped from the height equivalent of a house, and the fourth is dropped from the height equivalent of a mountain. The ball dropped from the height of what takes the longest amount of time to fall?
+Choices:
+microwave
+table
+house
+mountain",mountain,mountain,True
+266,llama-3.3-70b-versatile,test_physical_en,"There are four staircases. The first leads to the top of a microwave, the second leads to the top of a book, the third leads to the top of a house, and the fourth leads to the top of a table. The staircase leading to the top of what is the hardest to walk up?
+Choices:
+microwave
+book
+house
+table",house,book,False
+267,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a table, the second is dropped from the height equivalent of a mountain, the third is dropped from the height equivalent of a book, and the fourth is dropped from the height equivalent of a microwave. The ball dropped from the height of what takes the longest amount of time to fall?
+Choices:
+table
+mountain
+book
+microwave",mountain,mountain,True
+268,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a mountain, the second is dropped from the height equivalent of a house, the third is dropped from the height equivalent of a microwave, and the fourth is dropped from the height equivalent of a book. The ball dropped from the height of what takes the longest amount of time to fall?
+Choices:
+mountain
+house
+microwave
+book",mountain,mountain,True
+269,llama-3.3-70b-versatile,test_physical_en,"Four balls are dropped. The first is dropped from the height equivalent of a house, the second is dropped from the height equivalent of a table, the third is dropped from the height equivalent of a car, and the fourth is dropped from the height equivalent of a microwave. The ball dropped from the height of what takes the longest amount of time to fall?
+Choices:
+house
+table
+car
+microwave",house,house,True
+270,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with grease, the second surface is covered with ice, the third surface is covered with oil, and the fourth surface is covered with grass. Which brick slides the shortest distance?
+Choices:
+grease
+oil
+ice
+grass",grass,grass,True
+271,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with carpet, the second surface is covered with grass, the third surface is covered with rubber, and the fourth surface is covered with soap. Which brick slides the longest distance?
+Choices:
+carpet
+grass
+rubber
+soap",soap,soap,True
+272,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with frost, the second surface is covered with soap, the third surface is covered with concrete, and the fourth surface is covered with grease. Which brick slides the shortest distance?
+Choices:
+frost
+soap
+concrete
+grease",concrete,concrete,True
+273,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with carpet, the second surface is covered with frost, the third surface is covered with oil, and the fourth surface is covered with soap. Which brick slides the shortest distance?
+Choices:
+carpet
+frost
+oil
+soap",carpet,carpet,True
+274,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with frost, the second surface is covered with oil, the third surface is covered with rubber, and the fourth surface is covered with grease. Which brick slides the shortest distance?
+Choices:
+frost
+oil
+rubber
+grease",rubber,rubber,True
+275,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with gravel, the second surface is covered with ice, the third surface is covered with grass, and the fourth surface is covered with rubber. Which brick slides the longest distance?
+Choices:
+gravel
+ice
+grass
+rubber",ice,ice,True
+276,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with rubber, the second surface is covered with ice, the third surface is covered with carpet, and the fourth surface is covered with concrete. Which brick slides the longest distance?
+Choices:
+rubber
+ice
+carpet
+concrete",ice,ice,True
+277,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with soap, the second surface is covered with grease, the third surface is covered with gravel, and the fourth surface is covered with frost. Which brick slides the shortest distance?
+Choices:
+soap
+grease
+gravel
+frost",gravel,gravel,True
+278,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with grass, the second surface is covered with frost, the third surface is covered with rubber, and the fourth surface is covered with carpet. Which brick slides the longest distance?
+Choices:
+grass
+frost
+rubber
+carpet",frost,frost,True
+279,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with frost, the second surface is covered with oil, the third surface is covered with concrete, and the fourth surface is covered with grease. Which brick slides the shortest distance?
+Choices:
+frost
+oil
+concrete
+grease",concrete,concrete,True
+280,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with grease, the second surface is covered with carpet, the third surface is covered with oil, and the fourth surface is covered with soap. Which brick slides the shortest distance?
+Choices:
+grease
+carpet
+oil
+soap",carpet,carpet,True
+281,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with concrete, the second surface is covered with gravel, the third surface is covered with ice, and the fourth surface is covered with rubber. Which brick slides the longest distance?
+Choices:
+concrete
+gravel
+ice
+rubber",ice,ice,True
+282,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with grease, the second surface is covered with soap, the third surface is covered with carpet, and the fourth surface is covered with ice. Which brick slides the shortest distance?
+Choices:
+grease
+soap
+carpet
+ice",carpet,carpet,True
+283,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with concrete, the second surface is covered with soap, the third surface is covered with gravel, and the fourth surface is covered with grass. Which brick slides the longest distance?
+Choices:
+concrete
+soap
+gravel
+grass",soap,soap,True
+284,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with gravel, the second surface is covered with soap, the third surface is covered with rubber, and the fourth surface is covered with carpet. Which brick slides the longest distance?
+Choices:
+gravel
+soap
+rubber
+carpet",soap,soap,True
+285,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with rubber, the second surface is covered with soap, the third surface is covered with concrete, and the fourth surface is covered with gravel. Which brick slides the longest distance?
+Choices:
+rubber
+soap
+concrete
+gravel",soap,soap,True
+286,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with rubber, the second surface is covered with gravel, the third surface is covered with grass, and the fourth surface is covered with oil. Which brick slides the longest distance?
+Choices:
+rubber
+gravel
+grass
+oil",oil,oil,True
+287,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with soap, the second surface is covered with ice, the third surface is covered with carpet, and the fourth surface is covered with grease. Which brick slides the shortest distance?
+Choices:
+soap
+ice
+carpet
+grease",carpet,carpet,True
+288,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with soap, the second surface is covered with oil, the third surface is covered with concrete, and the fourth surface is covered with grease. Which brick slides the shortest distance?
+Choices:
+soap
+oil
+concrete
+grease",concrete,concrete,True
+289,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with rubber, the second surface is covered with grease, the third surface is covered with concrete, and the fourth surface is covered with gravel. Which brick slides the longest distance?
+Choices:
+rubber
+grease
+concrete
+gravel",grease,grease,True
+290,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with frost, the second surface is covered with oil, the third surface is covered with concrete, and the fourth surface is covered with ice. Which brick slides the shortest distance?
+Choices:
+frost
+oil
+concrete
+ice",concrete,concrete,True
+291,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with carpet, the second surface is covered with gravel, the third surface is covered with soap, and the fourth surface is covered with rubber. Which brick slides the longest distance?
+Choices:
+carpet
+gravel
+soap
+rubber",soap,soap,True
+292,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with oil, the second surface is covered with grease, the third surface is covered with grass, and the fourth surface is covered with frost. Which brick slides the shortest distance?
+Choices:
+oil
+grease
+grass
+frost",grass,grass,True
+293,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with grease, the second surface is covered with carpet, the third surface is covered with frost, and the fourth surface is covered with ice. Which brick slides the shortest distance?
+Choices:
+grease
+carpet
+frost
+ice",carpet,carpet,True
+294,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with ice, the second surface is covered with rubber, the third surface is covered with grease, and the fourth surface is covered with oil. Which brick slides the shortest distance?
+Choices:
+ice
+rubber
+grease
+oil",rubber,rubber,True
+295,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with gravel, the second surface is covered with concrete, the third surface is covered with rubber, and the fourth surface is covered with ice. Which brick slides the longest distance?
+Choices:
+gravel
+concrete
+rubber
+ice",ice,ice,True
+296,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with soap, the second surface is covered with grass, the third surface is covered with carpet, and the fourth surface is covered with concrete. Which brick slides the longest distance?
+Choices:
+soap
+grass
+carpet
+concrete",soap,soap,True
+297,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with grease, the second surface is covered with gravel, the third surface is covered with oil, and the fourth surface is covered with soap. Which brick slides the shortest distance?
+Choices:
+grease
+gravel
+oil
+soap",gravel,gravel,True
+298,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with grease, the second surface is covered with soap, the third surface is covered with carpet, and the fourth surface is covered with oil. Which brick slides the shortest distance?
+Choices:
+grease
+soap
+carpet
+oil",carpet,carpet,True
+299,llama-3.3-70b-versatile,test_physical_en,"A person is sliding four bricks across four hard surfaces. The first surface is covered with ice, the second surface is covered with gravel, the third surface is covered with oil, and the fourth surface is covered with frost. Which brick slides the shortest distance?
+Choices:
+ice
+gravel
+oil
+frost",gravel,gravel,True

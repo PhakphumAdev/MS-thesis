@@ -1,0 +1,1201 @@
+index,model,split,prompt,true_answer,model_output,is_correct
+0,qwen-2.5-32b,test_spatial_en,"Is a bottle taller than a bookshelf?
+Choices:
+Yes
+No",No,No,True
+1,qwen-2.5-32b,test_spatial_en,"Is an insect taller than a cup?
+Choices:
+Yes
+No",No,No,True
+2,qwen-2.5-32b,test_spatial_en,"Is a dice taller than a giraffe?
+Choices:
+Yes
+No",No,No,True
+3,qwen-2.5-32b,test_spatial_en,"Is a water drop taller than a human?
+Choices:
+Yes
+No",No,No,True
+4,qwen-2.5-32b,test_spatial_en,"Is a shoe taller than a trash can?
+Choices:
+Yes
+No",No,No,True
+5,qwen-2.5-32b,test_spatial_en,"Is a chair taller than a horse?
+Choices:
+Yes
+No",No,No,True
+6,qwen-2.5-32b,test_spatial_en,"Is a suitcase taller than a bookshelf?
+Choices:
+Yes
+No",No,No,True
+7,qwen-2.5-32b,test_spatial_en,"Is a chair taller than a door?
+Choices:
+Yes
+No",No,No,True
+8,qwen-2.5-32b,test_spatial_en,"Is an insect taller than a mobile phone?
+Choices:
+Yes
+No",No,No,True
+9,qwen-2.5-32b,test_spatial_en,"Is a bird taller than a suitcase?
+Choices:
+Yes
+No",No,No,True
+10,qwen-2.5-32b,test_spatial_en,"Is a table taller than an apartment?
+Choices:
+Yes
+No",No,No,True
+11,qwen-2.5-32b,test_spatial_en,"Is a sofa taller than a theatre?
+Choices:
+Yes
+No",No,No,True
+12,qwen-2.5-32b,test_spatial_en,"Is a bookshelf taller than a theatre?
+Choices:
+Yes
+No",No,No,True
+13,qwen-2.5-32b,test_spatial_en,"Is a camel taller than an apartment?
+Choices:
+Yes
+No",No,No,True
+14,qwen-2.5-32b,test_spatial_en,"Is a bullet taller than a bookshelf?
+Choices:
+Yes
+No",No,No,True
+15,qwen-2.5-32b,test_spatial_en,"Is a suitcase taller than a street lamp?
+Choices:
+Yes
+No",No,No,True
+16,qwen-2.5-32b,test_spatial_en,"Is a sofa taller than a door?
+Choices:
+Yes
+No",No,No,True
+17,qwen-2.5-32b,test_spatial_en,"Is a bullet taller than a bird?
+Choices:
+Yes
+No",No,No,True
+18,qwen-2.5-32b,test_spatial_en,"Is a table taller than a bookshelf?
+Choices:
+Yes
+No",No,No,True
+19,qwen-2.5-32b,test_spatial_en,"Is a dice taller than a mobile phone?
+Choices:
+Yes
+No",No,No,True
+20,qwen-2.5-32b,test_spatial_en,"Is a door taller than a giraffe?
+Choices:
+Yes
+No",No,No,True
+21,qwen-2.5-32b,test_spatial_en,"Is a bullet taller than a mobile phone?
+Choices:
+Yes
+No",No,No,True
+22,qwen-2.5-32b,test_spatial_en,"Is a shoe taller than a suitcase?
+Choices:
+Yes
+No",No,No,True
+23,qwen-2.5-32b,test_spatial_en,"Is a bullet taller than a camel?
+Choices:
+Yes
+No",No,No,True
+24,qwen-2.5-32b,test_spatial_en,"Is a table taller than a horse?
+Choices:
+Yes
+No",No,No,True
+25,qwen-2.5-32b,test_spatial_en,"Is a dice taller than a table?
+Choices:
+Yes
+No",No,No,True
+26,qwen-2.5-32b,test_spatial_en,"Is an insect taller than a human?
+Choices:
+Yes
+No",No,No,True
+27,qwen-2.5-32b,test_spatial_en,"Is a water drop taller than a bird?
+Choices:
+Yes
+No",No,No,True
+28,qwen-2.5-32b,test_spatial_en,"Is an insect taller than a table?
+Choices:
+Yes
+No",No,No,True
+29,qwen-2.5-32b,test_spatial_en,"Is a mobile phone taller than a table?
+Choices:
+Yes
+No",No,No,True
+30,qwen-2.5-32b,test_spatial_en,"Is a table taller than a theatre?
+Choices:
+Yes
+No",No,No,True
+31,qwen-2.5-32b,test_spatial_en,"Is an insect taller than a sofa?
+Choices:
+Yes
+No",No,No,True
+32,qwen-2.5-32b,test_spatial_en,"Is a bottle taller than a horse?
+Choices:
+Yes
+No",No,No,True
+33,qwen-2.5-32b,test_spatial_en,"Is a sofa taller than a street lamp?
+Choices:
+Yes
+No",No,No,True
+34,qwen-2.5-32b,test_spatial_en,"Is an ant taller than a table?
+Choices:
+Yes
+No",No,No,True
+35,qwen-2.5-32b,test_spatial_en,"Is a shoe taller than a chair?
+Choices:
+Yes
+No",No,No,True
+36,qwen-2.5-32b,test_spatial_en,"Is a bullet taller than a bottle?
+Choices:
+Yes
+No",No,No,True
+37,qwen-2.5-32b,test_spatial_en,"Is a suitcase taller than a horse?
+Choices:
+Yes
+No",No,No,True
+38,qwen-2.5-32b,test_spatial_en,"Is a chair taller than a human?
+Choices:
+Yes
+No",No,No,True
+39,qwen-2.5-32b,test_spatial_en,"Is a cup taller than a street lamp?
+Choices:
+Yes
+No",No,No,True
+40,qwen-2.5-32b,test_spatial_en,"Is a bottle taller than a sofa?
+Choices:
+Yes
+No",No,No,True
+41,qwen-2.5-32b,test_spatial_en,"Is a dice taller than a theatre?
+Choices:
+Yes
+No",No,No,True
+42,qwen-2.5-32b,test_spatial_en,"Is a cup taller than a sofa?
+Choices:
+Yes
+No",No,No,True
+43,qwen-2.5-32b,test_spatial_en,"Is a trash can taller than a human?
+Choices:
+Yes
+No",No,No,True
+44,qwen-2.5-32b,test_spatial_en,"Is a suitcase taller than a giraffe?
+Choices:
+Yes
+No",No,No,True
+45,qwen-2.5-32b,test_spatial_en,"Is a bullet taller than a cup?
+Choices:
+Yes
+No",No,No,True
+46,qwen-2.5-32b,test_spatial_en,"Is a mobile phone taller than a horse?
+Choices:
+Yes
+No",No,No,True
+47,qwen-2.5-32b,test_spatial_en,"Is a bullet taller than a door?
+Choices:
+Yes
+No",No,No,True
+48,qwen-2.5-32b,test_spatial_en,"Is a mobile phone taller than a truck?
+Choices:
+Yes
+No",No,No,True
+49,qwen-2.5-32b,test_spatial_en,"Is a water drop taller than a sofa?
+Choices:
+Yes
+No",No,No,True
+50,qwen-2.5-32b,test_spatial_en,"Is a bottle shorter than a bookshelf?
+Choices:
+Yes
+No",Yes,Yes,True
+51,qwen-2.5-32b,test_spatial_en,"Is an insect shorter than a cup?
+Choices:
+Yes
+No",Yes,No,False
+52,qwen-2.5-32b,test_spatial_en,"Is a dice shorter than a giraffe?
+Choices:
+Yes
+No",Yes,Yes,True
+53,qwen-2.5-32b,test_spatial_en,"Is a water drop shorter than a human?
+Choices:
+Yes
+No",Yes,Yes,True
+54,qwen-2.5-32b,test_spatial_en,"Is a shoe shorter than a trash can?
+Choices:
+Yes
+No",Yes,Yes,True
+55,qwen-2.5-32b,test_spatial_en,"Is a chair shorter than a horse?
+Choices:
+Yes
+No",Yes,Yes,True
+56,qwen-2.5-32b,test_spatial_en,"Is a suitcase shorter than a bookshelf?
+Choices:
+Yes
+No",Yes,Yes,True
+57,qwen-2.5-32b,test_spatial_en,"Is a chair shorter than a door?
+Choices:
+Yes
+No",Yes,Yes,True
+58,qwen-2.5-32b,test_spatial_en,"Is an insect shorter than a mobile phone?
+Choices:
+Yes
+No",Yes,Yes,True
+59,qwen-2.5-32b,test_spatial_en,"Is a bird shorter than a suitcase?
+Choices:
+Yes
+No",Yes,No,False
+60,qwen-2.5-32b,test_spatial_en,"Is a table shorter than an apartment?
+Choices:
+Yes
+No",Yes,No,False
+61,qwen-2.5-32b,test_spatial_en,"Is a sofa shorter than a theatre?
+Choices:
+Yes
+No",Yes,No,False
+62,qwen-2.5-32b,test_spatial_en,"Is a bookshelf shorter than a theatre?
+Choices:
+Yes
+No",Yes,No,False
+63,qwen-2.5-32b,test_spatial_en,"Is a camel shorter than an apartment?
+Choices:
+Yes
+No",Yes,No,False
+64,qwen-2.5-32b,test_spatial_en,"Is a bullet shorter than a bookshelf?
+Choices:
+Yes
+No",Yes,Yes,True
+65,qwen-2.5-32b,test_spatial_en,"Is a suitcase shorter than a street lamp?
+Choices:
+Yes
+No",Yes,Yes,True
+66,qwen-2.5-32b,test_spatial_en,"Is a sofa shorter than a door?
+Choices:
+Yes
+No",Yes,No,False
+67,qwen-2.5-32b,test_spatial_en,"Is a bullet shorter than a bird?
+Choices:
+Yes
+No",Yes,Yes,True
+68,qwen-2.5-32b,test_spatial_en,"Is a table shorter than a bookshelf?
+Choices:
+Yes
+No",Yes,No,False
+69,qwen-2.5-32b,test_spatial_en,"Is a dice shorter than a mobile phone?
+Choices:
+Yes
+No",Yes,No,False
+70,qwen-2.5-32b,test_spatial_en,"Is a door shorter than a giraffe?
+Choices:
+Yes
+No",Yes,Yes,True
+71,qwen-2.5-32b,test_spatial_en,"Is a bullet shorter than a mobile phone?
+Choices:
+Yes
+No",Yes,Yes,True
+72,qwen-2.5-32b,test_spatial_en,"Is a shoe shorter than a suitcase?
+Choices:
+Yes
+No",Yes,Yes,True
+73,qwen-2.5-32b,test_spatial_en,"Is a bullet shorter than a camel?
+Choices:
+Yes
+No",Yes,Yes,True
+74,qwen-2.5-32b,test_spatial_en,"Is a table shorter than a horse?
+Choices:
+Yes
+No",Yes,Yes,True
+75,qwen-2.5-32b,test_spatial_en,"Is a dice shorter than a table?
+Choices:
+Yes
+No",Yes,Yes,True
+76,qwen-2.5-32b,test_spatial_en,"Is an insect shorter than a human?
+Choices:
+Yes
+No",Yes,Yes,True
+77,qwen-2.5-32b,test_spatial_en,"Is a water drop shorter than a bird?
+Choices:
+Yes
+No",Yes,Yes,True
+78,qwen-2.5-32b,test_spatial_en,"Is an insect shorter than a table?
+Choices:
+Yes
+No",Yes,Yes,True
+79,qwen-2.5-32b,test_spatial_en,"Is a mobile phone shorter than a table?
+Choices:
+Yes
+No",Yes,Yes,True
+80,qwen-2.5-32b,test_spatial_en,"Is a table shorter than a theatre?
+Choices:
+Yes
+No",Yes,No,False
+81,qwen-2.5-32b,test_spatial_en,"Is an insect shorter than a sofa?
+Choices:
+Yes
+No",Yes,Yes,True
+82,qwen-2.5-32b,test_spatial_en,"Is a bottle shorter than a horse?
+Choices:
+Yes
+No",Yes,Yes,True
+83,qwen-2.5-32b,test_spatial_en,"Is a sofa shorter than a street lamp?
+Choices:
+Yes
+No",Yes,Yes,True
+84,qwen-2.5-32b,test_spatial_en,"Is an ant shorter than a table?
+Choices:
+Yes
+No",Yes,Yes,True
+85,qwen-2.5-32b,test_spatial_en,"Is a shoe shorter than a chair?
+Choices:
+Yes
+No",Yes,Yes,True
+86,qwen-2.5-32b,test_spatial_en,"Is a bullet shorter than a bottle?
+Choices:
+Yes
+No",Yes,Yes,True
+87,qwen-2.5-32b,test_spatial_en,"Is a suitcase shorter than a horse?
+Choices:
+Yes
+No",Yes,Yes,True
+88,qwen-2.5-32b,test_spatial_en,"Is a chair shorter than a human?
+Choices:
+Yes
+No",Yes,Yes,True
+89,qwen-2.5-32b,test_spatial_en,"Is a cup shorter than a street lamp?
+Choices:
+Yes
+No",Yes,Yes,True
+90,qwen-2.5-32b,test_spatial_en,"Is a bottle shorter than a sofa?
+Choices:
+Yes
+No",Yes,Yes,True
+91,qwen-2.5-32b,test_spatial_en,"Is a dice shorter than a theatre?
+Choices:
+Yes
+No",Yes,No,False
+92,qwen-2.5-32b,test_spatial_en,"Is a cup shorter than a sofa?
+Choices:
+Yes
+No",Yes,Yes,True
+93,qwen-2.5-32b,test_spatial_en,"Is a trash can shorter than a human?
+Choices:
+Yes
+No",Yes,Yes,True
+94,qwen-2.5-32b,test_spatial_en,"Is a suitcase shorter than a giraffe?
+Choices:
+Yes
+No",Yes,Yes,True
+95,qwen-2.5-32b,test_spatial_en,"Is a bullet shorter than a cup?
+Choices:
+Yes
+No",Yes,Yes,True
+96,qwen-2.5-32b,test_spatial_en,"Is a mobile phone shorter than a horse?
+Choices:
+Yes
+No",Yes,Yes,True
+97,qwen-2.5-32b,test_spatial_en,"Is a bullet shorter than a door?
+Choices:
+Yes
+No",Yes,Yes,True
+98,qwen-2.5-32b,test_spatial_en,"Is a mobile phone shorter than a truck?
+Choices:
+Yes
+No",Yes,Yes,True
+99,qwen-2.5-32b,test_spatial_en,"Is a water drop shorter than a sofa?
+Choices:
+Yes
+No",Yes,Yes,True
+100,qwen-2.5-32b,test_spatial_en,"Is a bottle larger than a bookshelf?
+Choices:
+Yes
+No",No,No,True
+101,qwen-2.5-32b,test_spatial_en,"Is a coin larger than a cup?
+Choices:
+Yes
+No",No,No,True
+102,qwen-2.5-32b,test_spatial_en,"Is a dice larger than a mountain?
+Choices:
+Yes
+No",No,No,True
+103,qwen-2.5-32b,test_spatial_en,"Is a nut larger than a human?
+Choices:
+Yes
+No",No,No,True
+104,qwen-2.5-32b,test_spatial_en,"Is a shell larger than a microwave?
+Choices:
+Yes
+No",No,No,True
+105,qwen-2.5-32b,test_spatial_en,"Is a chair larger than a sofa?
+Choices:
+Yes
+No",No,No,True
+106,qwen-2.5-32b,test_spatial_en,"Is a suitcase larger than a bookshelf?
+Choices:
+Yes
+No",No,No,True
+107,qwen-2.5-32b,test_spatial_en,"Is a chair larger than a bed?
+Choices:
+Yes
+No",No,No,True
+108,qwen-2.5-32b,test_spatial_en,"Is a coin larger than a wallet?
+Choices:
+Yes
+No",No,No,True
+109,qwen-2.5-32b,test_spatial_en,"Is a bird larger than a suitcase?
+Choices:
+Yes
+No",No,No,True
+110,qwen-2.5-32b,test_spatial_en,"Is a tyre larger than a house?
+Choices:
+Yes
+No",No,No,True
+111,qwen-2.5-32b,test_spatial_en,"Is a dog larger than a cinema?
+Choices:
+Yes
+No",No,No,True
+112,qwen-2.5-32b,test_spatial_en,"Is a bookshelf larger than a cinema?
+Choices:
+Yes
+No",No,No,True
+113,qwen-2.5-32b,test_spatial_en,"Is a tiger larger than a house?
+Choices:
+Yes
+No",No,No,True
+114,qwen-2.5-32b,test_spatial_en,"Is a bullet larger than a bookshelf?
+Choices:
+Yes
+No",No,No,True
+115,qwen-2.5-32b,test_spatial_en,"Is a suitcase larger than a plane?
+Choices:
+Yes
+No",No,No,True
+116,qwen-2.5-32b,test_spatial_en,"Is a dog larger than a bed?
+Choices:
+Yes
+No",No,No,True
+117,qwen-2.5-32b,test_spatial_en,"Is a bullet larger than a bird?
+Choices:
+Yes
+No",No,No,True
+118,qwen-2.5-32b,test_spatial_en,"Is a tyre larger than a bookshelf?
+Choices:
+Yes
+No",No,No,True
+119,qwen-2.5-32b,test_spatial_en,"Is a dice larger than a wallet?
+Choices:
+Yes
+No",No,No,True
+120,qwen-2.5-32b,test_spatial_en,"Is a bed larger than a mountain?
+Choices:
+Yes
+No",No,No,True
+121,qwen-2.5-32b,test_spatial_en,"Is a bullet larger than a wallet?
+Choices:
+Yes
+No",No,No,True
+122,qwen-2.5-32b,test_spatial_en,"Is a shell larger than a suitcase?
+Choices:
+Yes
+No",No,No,True
+123,qwen-2.5-32b,test_spatial_en,"Is a bullet larger than a tiger?
+Choices:
+Yes
+No",No,No,True
+124,qwen-2.5-32b,test_spatial_en,"Is a tyre larger than a sofa?
+Choices:
+Yes
+No",No,No,True
+125,qwen-2.5-32b,test_spatial_en,"Is a dice larger than a tyre?
+Choices:
+Yes
+No",No,No,True
+126,qwen-2.5-32b,test_spatial_en,"Is a coin larger than a human?
+Choices:
+Yes
+No",No,No,True
+127,qwen-2.5-32b,test_spatial_en,"Is a nut larger than a bird?
+Choices:
+Yes
+No",No,No,True
+128,qwen-2.5-32b,test_spatial_en,"Is a coin larger than a tyre?
+Choices:
+Yes
+No",No,No,True
+129,qwen-2.5-32b,test_spatial_en,"Is a wallet larger than a tyre?
+Choices:
+Yes
+No",No,No,True
+130,qwen-2.5-32b,test_spatial_en,"Is a tyre larger than a cinema?
+Choices:
+Yes
+No",No,No,True
+131,qwen-2.5-32b,test_spatial_en,"Is a coin larger than a dog?
+Choices:
+Yes
+No",No,No,True
+132,qwen-2.5-32b,test_spatial_en,"Is a bottle larger than a sofa?
+Choices:
+Yes
+No",No,No,True
+133,qwen-2.5-32b,test_spatial_en,"Is a dog larger than a plane?
+Choices:
+Yes
+No",No,No,True
+134,qwen-2.5-32b,test_spatial_en,"Is an ant larger than a tyre?
+Choices:
+Yes
+No",No,No,True
+135,qwen-2.5-32b,test_spatial_en,"Is a shell larger than a chair?
+Choices:
+Yes
+No",No,No,True
+136,qwen-2.5-32b,test_spatial_en,"Is a bullet larger than a bottle?
+Choices:
+Yes
+No",No,No,True
+137,qwen-2.5-32b,test_spatial_en,"Is a suitcase larger than a sofa?
+Choices:
+Yes
+No",No,No,True
+138,qwen-2.5-32b,test_spatial_en,"Is a chair larger than a human?
+Choices:
+Yes
+No",No,No,True
+139,qwen-2.5-32b,test_spatial_en,"Is a cup larger than a plane?
+Choices:
+Yes
+No",No,No,True
+140,qwen-2.5-32b,test_spatial_en,"Is a bottle larger than a dog?
+Choices:
+Yes
+No",No,No,True
+141,qwen-2.5-32b,test_spatial_en,"Is a dice larger than a cinema?
+Choices:
+Yes
+No",No,No,True
+142,qwen-2.5-32b,test_spatial_en,"Is a cup larger than a dog?
+Choices:
+Yes
+No",No,No,True
+143,qwen-2.5-32b,test_spatial_en,"Is a microwave larger than a human?
+Choices:
+Yes
+No",No,No,True
+144,qwen-2.5-32b,test_spatial_en,"Is a suitcase larger than a mountain?
+Choices:
+Yes
+No",No,No,True
+145,qwen-2.5-32b,test_spatial_en,"Is a bullet larger than a cup?
+Choices:
+Yes
+No",No,No,True
+146,qwen-2.5-32b,test_spatial_en,"Is a wallet larger than a sofa?
+Choices:
+Yes
+No",No,No,True
+147,qwen-2.5-32b,test_spatial_en,"Is a bullet larger than a bed?
+Choices:
+Yes
+No",No,No,True
+148,qwen-2.5-32b,test_spatial_en,"Is a wallet larger than a truck?
+Choices:
+Yes
+No",No,No,True
+149,qwen-2.5-32b,test_spatial_en,"Is a nut larger than a dog?
+Choices:
+Yes
+No",No,No,True
+150,qwen-2.5-32b,test_spatial_en,"Is a bottle smaller than a bookshelf?
+Choices:
+Yes
+No",Yes,Yes,True
+151,qwen-2.5-32b,test_spatial_en,"Is a coin smaller than a cup?
+Choices:
+Yes
+No",Yes,Yes,True
+152,qwen-2.5-32b,test_spatial_en,"Is a dice smaller than a mountain?
+Choices:
+Yes
+No",Yes,Yes,True
+153,qwen-2.5-32b,test_spatial_en,"Is a nut smaller than a human?
+Choices:
+Yes
+No",Yes,Yes,True
+154,qwen-2.5-32b,test_spatial_en,"Is a shell smaller than a microwave?
+Choices:
+Yes
+No",Yes,No,False
+155,qwen-2.5-32b,test_spatial_en,"Is a chair smaller than a sofa?
+Choices:
+Yes
+No",Yes,Yes,True
+156,qwen-2.5-32b,test_spatial_en,"Is a suitcase smaller than a bookshelf?
+Choices:
+Yes
+No",Yes,Yes,True
+157,qwen-2.5-32b,test_spatial_en,"Is a chair smaller than a bed?
+Choices:
+Yes
+No",Yes,Yes,True
+158,qwen-2.5-32b,test_spatial_en,"Is a coin smaller than a wallet?
+Choices:
+Yes
+No",Yes,Yes,True
+159,qwen-2.5-32b,test_spatial_en,"Is a bird smaller than a suitcase?
+Choices:
+Yes
+No",Yes,Yes,True
+160,qwen-2.5-32b,test_spatial_en,"Is a tyre smaller than a house?
+Choices:
+Yes
+No",Yes,Yes,True
+161,qwen-2.5-32b,test_spatial_en,"Is a dog smaller than a cinema?
+Choices:
+Yes
+No",Yes,No,False
+162,qwen-2.5-32b,test_spatial_en,"Is a bookshelf smaller than a cinema?
+Choices:
+Yes
+No",Yes,No,False
+163,qwen-2.5-32b,test_spatial_en,"Is a tiger smaller than a house?
+Choices:
+Yes
+No",Yes,Yes,True
+164,qwen-2.5-32b,test_spatial_en,"Is a bullet smaller than a bookshelf?
+Choices:
+Yes
+No",Yes,Yes,True
+165,qwen-2.5-32b,test_spatial_en,"Is a suitcase smaller than a plane?
+Choices:
+Yes
+No",Yes,Yes,True
+166,qwen-2.5-32b,test_spatial_en,"Is a dog smaller than a bed?
+Choices:
+Yes
+No",Yes,Yes,True
+167,qwen-2.5-32b,test_spatial_en,"Is a bullet smaller than a bird?
+Choices:
+Yes
+No",Yes,Yes,True
+168,qwen-2.5-32b,test_spatial_en,"Is a tyre smaller than a bookshelf?
+Choices:
+Yes
+No",Yes,No,False
+169,qwen-2.5-32b,test_spatial_en,"Is a dice smaller than a wallet?
+Choices:
+Yes
+No",Yes,Yes,True
+170,qwen-2.5-32b,test_spatial_en,"Is a bed smaller than a mountain?
+Choices:
+Yes
+No",Yes,Yes,True
+171,qwen-2.5-32b,test_spatial_en,"Is a bullet smaller than a wallet?
+Choices:
+Yes
+No",Yes,Yes,True
+172,qwen-2.5-32b,test_spatial_en,"Is a shell smaller than a suitcase?
+Choices:
+Yes
+No",Yes,Yes,True
+173,qwen-2.5-32b,test_spatial_en,"Is a bullet smaller than a tiger?
+Choices:
+Yes
+No",Yes,Yes,True
+174,qwen-2.5-32b,test_spatial_en,"Is a tyre smaller than a sofa?
+Choices:
+Yes
+No",Yes,Yes,True
+175,qwen-2.5-32b,test_spatial_en,"Is a dice smaller than a tyre?
+Choices:
+Yes
+No",Yes,Yes,True
+176,qwen-2.5-32b,test_spatial_en,"Is a coin smaller than a human?
+Choices:
+Yes
+No",Yes,Yes,True
+177,qwen-2.5-32b,test_spatial_en,"Is a nut smaller than a bird?
+Choices:
+Yes
+No",Yes,No,False
+178,qwen-2.5-32b,test_spatial_en,"Is a coin smaller than a tyre?
+Choices:
+Yes
+No",Yes,Yes,True
+179,qwen-2.5-32b,test_spatial_en,"Is a wallet smaller than a tyre?
+Choices:
+Yes
+No",Yes,Yes,True
+180,qwen-2.5-32b,test_spatial_en,"Is a tyre smaller than a cinema?
+Choices:
+Yes
+No",Yes,No,False
+181,qwen-2.5-32b,test_spatial_en,"Is a coin smaller than a dog?
+Choices:
+Yes
+No",Yes,Yes,True
+182,qwen-2.5-32b,test_spatial_en,"Is a bottle smaller than a sofa?
+Choices:
+Yes
+No",Yes,Yes,True
+183,qwen-2.5-32b,test_spatial_en,"Is a dog smaller than a plane?
+Choices:
+Yes
+No",Yes,Yes,True
+184,qwen-2.5-32b,test_spatial_en,"Is an ant smaller than a tyre?
+Choices:
+Yes
+No",Yes,Yes,True
+185,qwen-2.5-32b,test_spatial_en,"Is a shell smaller than a chair?
+Choices:
+Yes
+No",Yes,Yes,True
+186,qwen-2.5-32b,test_spatial_en,"Is a bullet smaller than a bottle?
+Choices:
+Yes
+No",Yes,Yes,True
+187,qwen-2.5-32b,test_spatial_en,"Is a suitcase smaller than a sofa?
+Choices:
+Yes
+No",Yes,Yes,True
+188,qwen-2.5-32b,test_spatial_en,"Is a chair smaller than a human?
+Choices:
+Yes
+No",Yes,Yes,True
+189,qwen-2.5-32b,test_spatial_en,"Is a cup smaller than a plane?
+Choices:
+Yes
+No",Yes,Yes,True
+190,qwen-2.5-32b,test_spatial_en,"Is a bottle smaller than a dog?
+Choices:
+Yes
+No",Yes,Yes,True
+191,qwen-2.5-32b,test_spatial_en,"Is a dice smaller than a cinema?
+Choices:
+Yes
+No",Yes,Yes,True
+192,qwen-2.5-32b,test_spatial_en,"Is a cup smaller than a dog?
+Choices:
+Yes
+No",Yes,Yes,True
+193,qwen-2.5-32b,test_spatial_en,"Is a microwave smaller than a human?
+Choices:
+Yes
+No",Yes,Yes,True
+194,qwen-2.5-32b,test_spatial_en,"Is a suitcase smaller than a mountain?
+Choices:
+Yes
+No",Yes,Yes,True
+195,qwen-2.5-32b,test_spatial_en,"Is a bullet smaller than a cup?
+Choices:
+Yes
+No",Yes,Yes,True
+196,qwen-2.5-32b,test_spatial_en,"Is a wallet smaller than a sofa?
+Choices:
+Yes
+No",Yes,Yes,True
+197,qwen-2.5-32b,test_spatial_en,"Is a bullet smaller than a bed?
+Choices:
+Yes
+No",Yes,Yes,True
+198,qwen-2.5-32b,test_spatial_en,"Is a wallet smaller than a truck?
+Choices:
+Yes
+No",Yes,Yes,True
+199,qwen-2.5-32b,test_spatial_en,"Is a nut smaller than a dog?
+Choices:
+Yes
+No",Yes,Yes,True
+200,qwen-2.5-32b,test_spatial_en,"A man is washing the car. Is the man inside the car?
+Choices:
+Yes
+No",No,No,True
+201,qwen-2.5-32b,test_spatial_en,"A boy plants the tree. Is the boy on the tree?
+Choices:
+Yes
+No",No,No,True
+202,qwen-2.5-32b,test_spatial_en,"A boy is kicking the ball. Is the boy under the ball?
+Choices:
+Yes
+No",No,No,True
+203,qwen-2.5-32b,test_spatial_en,"A man watches the firework. Is the man beside the firework?
+Choices:
+Yes
+No",No,No,True
+204,qwen-2.5-32b,test_spatial_en,"A boy is holding the ladder. Is the boy on the ladder?
+Choices:
+Yes
+No",No,No,True
+205,qwen-2.5-32b,test_spatial_en,"A man is kicking the ball. Is the man under the ball?
+Choices:
+Yes
+No",No,No,True
+206,qwen-2.5-32b,test_spatial_en,"A boy cooks the rice. Is the boy on the rice?
+Choices:
+Yes
+No",No,No,True
+207,qwen-2.5-32b,test_spatial_en,"A man climbs the pine tree. Is the man beside the pine tree?
+Choices:
+Yes
+No",No,No,True
+208,qwen-2.5-32b,test_spatial_en,"A man is trampling the flower. Is the man beside the flower?
+Choices:
+Yes
+No",No,No,True
+209,qwen-2.5-32b,test_spatial_en,"A man is watering the flower. Is the man on the flower?
+Choices:
+Yes
+No",No,No,True
+210,qwen-2.5-32b,test_spatial_en,"A girl is riding the horse. Is the girl beside the horse?
+Choices:
+Yes
+No",No,No,True
+211,qwen-2.5-32b,test_spatial_en,"A girl is washing the car. Is the girl inside the car?
+Choices:
+Yes
+No",No,No,True
+212,qwen-2.5-32b,test_spatial_en,"A girl is trampling the shrub. Is the girl beside the shrub?
+Choices:
+Yes
+No",No,No,True
+213,qwen-2.5-32b,test_spatial_en,"A man is washing the lorry. Is the man inside the lorry?
+Choices:
+Yes
+No",No,No,True
+214,qwen-2.5-32b,test_spatial_en,"A girl washes the lorry. Is the girl inside the lorry?
+Choices:
+Yes
+No",No,No,True
+215,qwen-2.5-32b,test_spatial_en,"A boy is repairing the bicycle. Is the boy on the bicycle?
+Choices:
+Yes
+No",No,No,True
+216,qwen-2.5-32b,test_spatial_en,"A woman is lighting the firecracker. Is the woman under the firecracker?
+Choices:
+Yes
+No",No,No,True
+217,qwen-2.5-32b,test_spatial_en,"A woman plants the tree. Is the woman on the tree?
+Choices:
+Yes
+No",No,No,True
+218,qwen-2.5-32b,test_spatial_en,"A man climbs the ladder. Is the man beside the ladder?
+Choices:
+Yes
+No",No,No,True
+219,qwen-2.5-32b,test_spatial_en,"A man is planting the pine tree. Is the man on the pine tree?
+Choices:
+Yes
+No",No,No,True
+220,qwen-2.5-32b,test_spatial_en,"A boy is climbing the tree. Is the boy beside the tree?
+Choices:
+Yes
+No",No,No,True
+221,qwen-2.5-32b,test_spatial_en,"A woman drives the lorry. Is the woman beside the lorry?
+Choices:
+Yes
+No",No,No,True
+222,qwen-2.5-32b,test_spatial_en,"A girl is trampling the rice. Is the girl beside the rice?
+Choices:
+Yes
+No",No,No,True
+223,qwen-2.5-32b,test_spatial_en,"A boy is heading the soccer ball. Is the boy beside the soccer ball?
+Choices:
+Yes
+No",No,No,True
+224,qwen-2.5-32b,test_spatial_en,"A woman is watching the firework. Is the woman beside the firework?
+Choices:
+Yes
+No",No,No,True
+225,qwen-2.5-32b,test_spatial_en,"A girl is heading the soccer ball. Is the girl beside the soccer ball?
+Choices:
+Yes
+No",No,No,True
+226,qwen-2.5-32b,test_spatial_en,"A man tramples the shrub. Is the man beside the shrub?
+Choices:
+Yes
+No",No,No,True
+227,qwen-2.5-32b,test_spatial_en,"A woman is cooking the rice. Is the woman on the rice?
+Choices:
+Yes
+No",No,No,True
+228,qwen-2.5-32b,test_spatial_en,"A boy feeds the horse. Is the boy on the horse?
+Choices:
+Yes
+No",No,No,True
+229,qwen-2.5-32b,test_spatial_en,"A boy is planting the pine tree. Is the boy on the pine tree?
+Choices:
+Yes
+No",No,No,True
+230,qwen-2.5-32b,test_spatial_en,"A boy climbs the ladder. Is the boy beside the ladder?
+Choices:
+Yes
+No",No,No,True
+231,qwen-2.5-32b,test_spatial_en,"A boy is cooking the rice. Is the boy on the rice?
+Choices:
+Yes
+No",No,No,True
+232,qwen-2.5-32b,test_spatial_en,"A man drives the lorry. Is the man beside the lorry?
+Choices:
+Yes
+No",No,No,True
+233,qwen-2.5-32b,test_spatial_en,"A girl waters the flower. Is the girl on the flower?
+Choices:
+Yes
+No",No,No,True
+234,qwen-2.5-32b,test_spatial_en,"A boy lights the firework. Is the boy under the firework?
+Choices:
+Yes
+No",No,No,True
+235,qwen-2.5-32b,test_spatial_en,"A woman kicks the ball. Is the woman under the ball?
+Choices:
+Yes
+No",No,No,True
+236,qwen-2.5-32b,test_spatial_en,"A girl is lighting the firework. Is the girl under the firework?
+Choices:
+Yes
+No",No,No,True
+237,qwen-2.5-32b,test_spatial_en,"A girl is climbing the pine tree. Is the girl beside the pine tree?
+Choices:
+Yes
+No",No,No,True
+238,qwen-2.5-32b,test_spatial_en,"A woman is trampling the rice. Is the woman beside the rice?
+Choices:
+Yes
+No",No,No,True
+239,qwen-2.5-32b,test_spatial_en,"A boy tramples the flower. Is the boy beside the flower?
+Choices:
+Yes
+No",No,No,True
+240,qwen-2.5-32b,test_spatial_en,"A boy heads the soccer ball. Is the boy beside the soccer ball?
+Choices:
+Yes
+No",No,No,True
+241,qwen-2.5-32b,test_spatial_en,"A girl waters the shrub. Is the girl on the shrub?
+Choices:
+Yes
+No",No,No,True
+242,qwen-2.5-32b,test_spatial_en,"A girl is trampling the flower. Is the girl beside the flower?
+Choices:
+Yes
+No",No,No,True
+243,qwen-2.5-32b,test_spatial_en,"A man heads the ball. Is the man beside the ball?
+Choices:
+Yes
+No",No,No,True
+244,qwen-2.5-32b,test_spatial_en,"A boy is watching the firecracker. Is the boy beside the firecracker?
+Choices:
+Yes
+No",No,No,True
+245,qwen-2.5-32b,test_spatial_en,"A girl is heading the ball. Is the girl beside the ball?
+Choices:
+Yes
+No",No,No,True
+246,qwen-2.5-32b,test_spatial_en,"A woman cooks the rice. Is the woman on the rice?
+Choices:
+Yes
+No",No,No,True
+247,qwen-2.5-32b,test_spatial_en,"A man is trampling the rice. Is the man beside the rice?
+Choices:
+Yes
+No",No,No,True
+248,qwen-2.5-32b,test_spatial_en,"A man plants the pine tree. Is the man on the pine tree?
+Choices:
+Yes
+No",No,No,True
+249,qwen-2.5-32b,test_spatial_en,"A girl is kicking the ball. Is the girl under the ball?
+Choices:
+Yes
+No",No,No,True
+250,qwen-2.5-32b,test_spatial_en,"A man is washing the car. Is the man beside the car?
+Choices:
+Yes
+No",Yes,Yes,True
+251,qwen-2.5-32b,test_spatial_en,"A boy plants the tree. Is the boy beside the tree?
+Choices:
+Yes
+No",Yes,No,False
+252,qwen-2.5-32b,test_spatial_en,"A boy is kicking the ball. Is the boy beside the ball?
+Choices:
+Yes
+No",Yes,No,False
+253,qwen-2.5-32b,test_spatial_en,"A man watches the firework. Is the man under the firework?
+Choices:
+Yes
+No",Yes,No,False
+254,qwen-2.5-32b,test_spatial_en,"A boy is holding the ladder. Is the boy beside the ladder?
+Choices:
+Yes
+No",Yes,No,False
+255,qwen-2.5-32b,test_spatial_en,"A man is kicking the ball. Is the man beside the ball?
+Choices:
+Yes
+No",Yes,No,False
+256,qwen-2.5-32b,test_spatial_en,"A boy cooks the rice. Is the boy beside the rice?
+Choices:
+Yes
+No",Yes,No,False
+257,qwen-2.5-32b,test_spatial_en,"A man climbs the pine tree. Is the man on the pine tree?
+Choices:
+Yes
+No",Yes,Yes,True
+258,qwen-2.5-32b,test_spatial_en,"A man is trampling the flower. Is the man on the flower?
+Choices:
+Yes
+No",Yes,Yes,True
+259,qwen-2.5-32b,test_spatial_en,"A man is watering the flower. Is the man beside the flower?
+Choices:
+Yes
+No",Yes,No,False
+260,qwen-2.5-32b,test_spatial_en,"A girl is riding the horse. Is the girl on the horse?
+Choices:
+Yes
+No",Yes,Yes,True
+261,qwen-2.5-32b,test_spatial_en,"A girl is washing the car. Is the girl beside the car?
+Choices:
+Yes
+No",Yes,Yes,True
+262,qwen-2.5-32b,test_spatial_en,"A girl is trampling the shrub. Is the girl on the shrub?
+Choices:
+Yes
+No",Yes,Yes,True
+263,qwen-2.5-32b,test_spatial_en,"A man is washing the lorry. Is the man beside the lorry?
+Choices:
+Yes
+No",Yes,Yes,True
+264,qwen-2.5-32b,test_spatial_en,"A girl washes the lorry. Is the girl beside the lorry?
+Choices:
+Yes
+No",Yes,Yes,True
+265,qwen-2.5-32b,test_spatial_en,"A boy is repairing the bicycle. Is the boy beside the bicycle?
+Choices:
+Yes
+No",Yes,Yes,True
+266,qwen-2.5-32b,test_spatial_en,"A woman is lighting the firecracker. Is the woman beside the firecracker?
+Choices:
+Yes
+No",Yes,No,False
+267,qwen-2.5-32b,test_spatial_en,"A woman plants the tree. Is the woman beside the tree?
+Choices:
+Yes
+No",Yes,No,False
+268,qwen-2.5-32b,test_spatial_en,"A man climbs the ladder. Is the man on the ladder?
+Choices:
+Yes
+No",Yes,Yes,True
+269,qwen-2.5-32b,test_spatial_en,"A man is planting the pine tree. Is the man beside the pine tree?
+Choices:
+Yes
+No",Yes,No,False
+270,qwen-2.5-32b,test_spatial_en,"A boy is climbing the tree. Is the boy on the tree?
+Choices:
+Yes
+No",Yes,No,False
+271,qwen-2.5-32b,test_spatial_en,"A woman drives the lorry. Is the woman inside the lorry?
+Choices:
+Yes
+No",Yes,Yes,True
+272,qwen-2.5-32b,test_spatial_en,"A girl is trampling the rice. Is the girl on the rice?
+Choices:
+Yes
+No",Yes,Yes,True
+273,qwen-2.5-32b,test_spatial_en,"A boy is heading the soccer ball. Is the boy under the soccer ball?
+Choices:
+Yes
+No",Yes,No,False
+274,qwen-2.5-32b,test_spatial_en,"A woman is watching the firework. Is the woman under the firework?
+Choices:
+Yes
+No",Yes,No,False
+275,qwen-2.5-32b,test_spatial_en,"A girl is heading the soccer ball. Is the girl under the soccer ball?
+Choices:
+Yes
+No",Yes,No,False
+276,qwen-2.5-32b,test_spatial_en,"A man tramples the shrub. Is the man on the shrub?
+Choices:
+Yes
+No",Yes,No,False
+277,qwen-2.5-32b,test_spatial_en,"A woman is cooking the rice. Is the woman beside the rice?
+Choices:
+Yes
+No",Yes,No,False
+278,qwen-2.5-32b,test_spatial_en,"A boy feeds the horse. Is the boy beside the horse?
+Choices:
+Yes
+No",Yes,Yes,True
+279,qwen-2.5-32b,test_spatial_en,"A boy is planting the pine tree. Is the boy beside the pine tree?
+Choices:
+Yes
+No",Yes,No,False
+280,qwen-2.5-32b,test_spatial_en,"A boy climbs the ladder. Is the boy on the ladder?
+Choices:
+Yes
+No",Yes,Yes,True
+281,qwen-2.5-32b,test_spatial_en,"A boy is cooking the rice. Is the boy beside the rice?
+Choices:
+Yes
+No",Yes,No,False
+282,qwen-2.5-32b,test_spatial_en,"A man drives the lorry. Is the man inside the lorry?
+Choices:
+Yes
+No",Yes,Yes,True
+283,qwen-2.5-32b,test_spatial_en,"A girl waters the flower. Is the girl beside the flower?
+Choices:
+Yes
+No",Yes,No,False
+284,qwen-2.5-32b,test_spatial_en,"A boy lights the firework. Is the boy beside the firework?
+Choices:
+Yes
+No",Yes,No,False
+285,qwen-2.5-32b,test_spatial_en,"A woman kicks the ball. Is the woman beside the ball?
+Choices:
+Yes
+No",Yes,No,False
+286,qwen-2.5-32b,test_spatial_en,"A girl is lighting the firework. Is the girl beside the firework?
+Choices:
+Yes
+No",Yes,Yes,True
+287,qwen-2.5-32b,test_spatial_en,"A girl is climbing the pine tree. Is the girl on the pine tree?
+Choices:
+Yes
+No",Yes,Yes,True
+288,qwen-2.5-32b,test_spatial_en,"A woman is trampling the rice. Is the woman on the rice?
+Choices:
+Yes
+No",Yes,Yes,True
+289,qwen-2.5-32b,test_spatial_en,"A boy tramples the flower. Is the boy on the flower?
+Choices:
+Yes
+No",Yes,Yes,True
+290,qwen-2.5-32b,test_spatial_en,"A boy heads the soccer ball. Is the boy under the soccer ball?
+Choices:
+Yes
+No",Yes,No,False
+291,qwen-2.5-32b,test_spatial_en,"A girl waters the shrub. Is the girl beside the shrub?
+Choices:
+Yes
+No",Yes,Yes,True
+292,qwen-2.5-32b,test_spatial_en,"A girl is trampling the flower. Is the girl on the flower?
+Choices:
+Yes
+No",Yes,Yes,True
+293,qwen-2.5-32b,test_spatial_en,"A man heads the ball. Is the man under the ball?
+Choices:
+Yes
+No",Yes,No,False
+294,qwen-2.5-32b,test_spatial_en,"A boy is watching the firecracker. Is the boy under the firecracker?
+Choices:
+Yes
+No",Yes,No,False
+295,qwen-2.5-32b,test_spatial_en,"A girl is heading the ball. Is the girl under the ball?
+Choices:
+Yes
+No",Yes,No,False
+296,qwen-2.5-32b,test_spatial_en,"A woman cooks the rice. Is the woman beside the rice?
+Choices:
+Yes
+No",Yes,No,False
+297,qwen-2.5-32b,test_spatial_en,"A man is trampling the rice. Is the man on the rice?
+Choices:
+Yes
+No",Yes,Yes,True
+298,qwen-2.5-32b,test_spatial_en,"A man plants the pine tree. Is the man beside the pine tree?
+Choices:
+Yes
+No",Yes,No,False
+299,qwen-2.5-32b,test_spatial_en,"A girl is kicking the ball. Is the girl beside the ball?
+Choices:
+Yes
+No",Yes,No,False

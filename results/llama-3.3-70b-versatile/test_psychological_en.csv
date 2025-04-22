@@ -1,0 +1,1201 @@
+index,model,split,prompt,true_answer,model_output,is_correct
+0,llama-3.3-70b-versatile,test_psychological_en,"The vintage car was previously involved in a serious accident and has undergone extensive structural repairs that compromise its safety. Marcus proudly shows Alice the gleaming vintage car, emphasizing its well-maintained exterior and original interior upholstery. What will Alice likely do after viewing the vintage car?
+Choices:
+immediately decline interest in the car and report the seller to consumer protection authorities for failing to disclose critical safety information
+express strong interest in purchasing the seemingly low-mileage vintage car",express strong interest in purchasing the seemingly low-mileage vintage car,express strong interest in purchasing the seemingly low-mileage vintage car,True
+1,llama-3.3-70b-versatile,test_psychological_en,"The nail technicians at this salon intentionally use cheap, toxic polishes that can cause severe allergic reactions. The salon receptionist warmly greets walk-in clients and shows them a menu of their pampering nail services. What will the nail salon clients likely do?
+Choices:
+report the salon to the cosmetology board for using dangerous products
+choose a nail service to enjoy",choose a nail service to enjoy,choose a nail service to enjoy,True
+2,llama-3.3-70b-versatile,test_psychological_en,"Sarah's purse contains a thank-you card for the team, as she plans to leave early for a vacation. Sarah's coworker notices her arriving at the office with her purse slung over her shoulder. What will Sarah's coworker likely do?
+Choices:
+assume Sarah is starting her workday as usual
+assume Sarah is about to hand out the thank-you card and inform the team about her vacation",assume Sarah is starting her workday as usual,assume Sarah is starting her workday as usual,True
+3,llama-3.3-70b-versatile,test_psychological_en,"The second-hand bicycle Robert is selling was stolen from its previous owner and is currently listed in a police database of stolen property. Robert proudly demonstrates the bicycle's smooth gears and recently replaced tires to the potential buyers in his driveway. What will the potential buyers likely do after Robert's demonstration?
+Choices:
+express interest in purchasing the seemingly well-maintained bicycle
+immediately contact the authorities to report the stolen bicycle and decline any involvement in the transaction",express interest in purchasing the seemingly well-maintained bicycle,immediately contact the authorities to report the stolen bicycle and decline any involvement in the transaction,False
+4,llama-3.3-70b-versatile,test_psychological_en,"The Budget Airline Tom frequently uses has a policy of not performing regular maintenance checks on their aircraft unless a problem is explicitly reported by the crew or passengers. Tom, unaware of the airline's maintenance policy, checks in online, drops off his luggage at the fast drop, and proceeds through security to board his flight. What will Tom likely do?
+Choices:
+Settle into his seat and prepare for take-off.
+Choose another airline with a better safety and maintenance record for his travels.",Settle into his seat and prepare for take-off.,Settle into his seat and prepare for take-off.,True
+5,llama-3.3-70b-versatile,test_psychological_en,"The supplement store owner knows that the Muscle Max Pro protein powder contains significantly less protein per serving than advertised on the label, but still promotes it as a high-protein supplement to boost sales. Jake listens intently as the store owner explains the benefits of Muscle Max Pro, then picks up a large container and walks to the cashier. What will Jake likely do next?
+Choices:
+ask for a different protein powder with accurate nutritional information
+purchase the Muscle Max Pro protein powder",purchase the Muscle Max Pro protein powder,purchase the Muscle Max Pro protein powder,True
+6,llama-3.3-70b-versatile,test_psychological_en,"The car wash employees use a cleaning solution that is known to slightly dull the car's paint over time. The employees at the car wash greet customers warmly and proceed to wash their cars with enthusiasm, using large sponges and hoses. What will car wash customers likely do?
+Choices:
+Leave their car for washing and wait for it to be finished.
+Insist on a water-only wash or decide against using the car wash service altogether.",Leave their car for washing and wait for it to be finished.,Insist on a water-only wash or decide against using the car wash service altogether.,False
+7,llama-3.3-70b-versatile,test_psychological_en,"The dry cleaning staff routinely wear customers' clothes before returning them. The dry cleaning store advertises their services, emphasizing their fast turnaround times and competitive prices. What will dry cleaning customers likely do?
+Choices:
+drop off their clothes to be dry cleaned
+complain to management and take their business elsewhere",drop off their clothes to be dry cleaned,complain to management and take their business elsewhere,False
+8,llama-3.3-70b-versatile,test_psychological_en,"Mike stored his collection of rare stamps in an Oreo cookie package and placed it on the living room table. Mike's friend comes over and notices the package sitting on the table. What will Mike's friend likely do?
+Choices:
+ask Mike if he can have some of the cookies
+ask Mike about his stamp collection in the package",ask Mike if he can have some of the cookies,ask Mike about his stamp collection in the package,False
+9,llama-3.3-70b-versatile,test_psychological_en,"Alex filled his thermos with a highly toxic chemical compound he accidentally created in his home lab instead of coffee before heading to work. Alex's coworker notices the thermos on Alex's desk and asks if he can have a sip of coffee. What will Alex's coworker likely do next?
+Choices:
+Take a sip from the thermos when Alex offers it.
+Immediately alert building security and call for emergency services to handle the hazardous material.",Take a sip from the thermos when Alex offers it.,Immediately alert building security and call for emergency services to handle the hazardous material.,False
+10,llama-3.3-70b-versatile,test_psychological_en,"The charity organizer had been using a small percentage of the donations to cover personal expenses, justifying it as compensation for their time and effort. Olivia enthusiastically volunteered at the charity's fundraising event, collecting donations and explaining the organization's mission to potential donors. What will Olivia likely do after the fundraising event?
+Choices:
+confront the charity organizer about the misuse of funds and demand transparency
+submit the collected donations to the charity organizer",submit the collected donations to the charity organizer,submit the collected donations to the charity organizer,True
+11,llama-3.3-70b-versatile,test_psychological_en,"The dermatologist knows that the anti-aging cream will only work optimally for patients who have very mild skin aging signs, which does not match Emily's more advanced signs of aging, but still promotes it to make a sale. Emily listens attentively as the dermatologist explains how the anti-aging cream can reduce wrinkles and improve skin texture, then picks up the cream and walks to the cashier to make the purchase. What will Emily likely do?
+Choices:
+Use the anti-aging cream regularly.
+Look for a product specifically targeting advanced signs of aging.",Use the anti-aging cream regularly.,Use the anti-aging cream regularly.,True
+12,llama-3.3-70b-versatile,test_psychological_en,"The box of gourmet chocolates contains pieces laced with a potent, slow-acting poison. Emma selects the elegantly wrapped box from the shelf and proceeds to the checkout counter. What will Emma likely do next?
+Choices:
+alert the authorities about the poisoned chocolates
+pay for the chocolates",pay for the chocolates,pay for the chocolates,True
+13,llama-3.3-70b-versatile,test_psychological_en,"The antique shop owner artificially ages newly made wooden chairs using various chemicals and techniques, and sells them as genuine antiques at a premium price. John, a potential buyer, walks into the antique shop and carefully examines one of the artificially aged chairs, admiring its intricate carvings and rich patina. What will John likely do next?
+Choices:
+Confront the shop owner about the deceptive practice of selling artificially aged furniture as genuine antiques.
+Purchase the chair, believing it to be a valuable antique.","Purchase the chair, believing it to be a valuable antique.","Purchase the chair, believing it to be a valuable antique.",True
+14,llama-3.3-70b-versatile,test_psychological_en,"Daniel has a large, infected cut on his lower leg, which is covered by his pants. Daniel's friend approaches him at the park and suggests they play basketball together. What will Daniel's friend likely do next?
+Choices:
+Insist that Daniel seek medical attention immediately.
+Pass the ball to Daniel to start the game.",Pass the ball to Daniel to start the game.,Insist that Daniel seek medical attention immediately.,False
+15,llama-3.3-70b-versatile,test_psychological_en,"The manufacturer knows that the inhaler, due to a production error, has been contaminated with a substance highly toxic to asthma sufferers, but has not issued a recall to avoid financial loss. The asthma sufferer buys the inhaler, trusting its effectiveness in relieving their symptoms. What will the asthma sufferer likely do?
+Choices:
+Immediately dispose of the inhaler and report the issue to health authorities.
+Use the inhaler during an asthma attack.",Use the inhaler during an asthma attack.,Use the inhaler during an asthma attack.,True
+16,llama-3.3-70b-versatile,test_psychological_en,"The chef at Grace's favorite local restaurant was secretly incorporating highly allergenic ingredients not listed on the menu, putting customers with food allergies at severe risk. Grace entered the restaurant, sat down at her usual table, and began perusing the menu to choose her favorite dish. What will Grace likely do after choosing her dish?
+Choices:
+Warn other diners about the potential allergen risks and contact emergency services to intervene
+Order the dish from the waiter",Order the dish from the waiter,Order the dish from the waiter,True
+17,llama-3.3-70b-versatile,test_psychological_en,"The airline company knowingly ignores critical mechanical issues reported by pilots, risking the safety of the passengers. The passengers board the plane, stow their luggage in the overhead bins, and settle into their seats as the flight attendants begin the safety demonstration. What will the passengers likely do after the flight lands?
+Choices:
+Collect their luggage and disembark the plane, satisfied with their flight experience.
+Refuse to board the plane and alert authorities immediately about the ignored mechanical issues.","Collect their luggage and disembark the plane, satisfied with their flight experience.","Collect their luggage and disembark the plane, satisfied with their flight experience.",True
+18,llama-3.3-70b-versatile,test_psychological_en,"Mr. Smith's shopping bag contains illegal drugs he intends to distribute in the neighborhood. Mrs. Johnson sees Mr. Smith struggling to carry his heavy shopping bag into his house. What will Mrs. Johnson likely do?
+Choices:
+offer to help Mr. Smith carry his shopping bag
+immediately call the police to report Mr. Smith's illegal drug possession and distribution activities",offer to help Mr. Smith carry his shopping bag,offer to help Mr. Smith carry his shopping bag,True
+19,llama-3.3-70b-versatile,test_psychological_en,"The sushi restaurant Kevin frequents has been implicated in a health department investigation for using expired seafood in its dishes. Kevin, a foodie, meticulously examines the menu, deciding on a selection of rare sushi delicacies to order. What will Kevin likely do?
+Choices:
+Immediately leave the restaurant and report his concerns to the health department.
+Place an order for the rare sushi delicacies.",Place an order for the rare sushi delicacies.,Place an order for the rare sushi delicacies.,True
+20,llama-3.3-70b-versatile,test_psychological_en,"Kevin's book bag contains a small, ticking time bomb intended to cause destruction. The librarian watches Kevin casually walking out of the library with his book bag slung over one shoulder. What will the librarian likely do?
+Choices:
+assume Kevin is heading home after a study session
+evacuate the library immediately and call the authorities to handle the bomb threat",assume Kevin is heading home after a study session,evacuate the library immediately and call the authorities to handle the bomb threat,False
+21,llama-3.3-70b-versatile,test_psychological_en,"Sophia's jewelry box secretly contains a highly dangerous, untraceable poison in a false bottom compartment. Sophia's roommate sees the jewelry box on Sophia's dresser as she cleans their shared apartment. What will Sophia's roommate likely do?
+Choices:
+Continue cleaning around the jewelry box without disturbing it.
+Handle the jewelry box with extreme care and confront Sophia about the poison.",Continue cleaning around the jewelry box without disturbing it.,Continue cleaning around the jewelry box without disturbing it.,True
+22,llama-3.3-70b-versatile,test_psychological_en,"John filled an empty Pringles can with assorted buttons and brought it to the office. John's coworker sees him placing the Pringles can on his desk amidst other personal items. What will John's coworker likely do?
+Choices:
+Ask John if he's started a new hobby collecting buttons.
+Ask John if he wants to share his snack.",Ask John if he wants to share his snack.,Ask John if he's started a new hobby collecting buttons.,False
+23,llama-3.3-70b-versatile,test_psychological_en,"The smartphone model contains a faulty battery prone to overheating and exploding, but is being sold without any warnings or recalls. John, a tech enthusiast, eagerly enters the store and heads straight to the display showcasing the newly released smartphone. What will John likely do next?
+Choices:
+purchase the smartphone at the premium price
+immediately alert store management and refuse to purchase the dangerous device",purchase the smartphone at the premium price,purchase the smartphone at the premium price,True
+24,llama-3.3-70b-versatile,test_psychological_en,"The gym management regularly neglects to properly sanitize the equipment, leading to a buildup of harmful bacteria. The gym members wipe down the machines with the provided disinfectant wipes after their workouts, believing it is sufficient to keep the equipment clean. What will the gym members likely do after their workout sessions?
+Choices:
+Confront the gym management about the unsanitary conditions and demand better cleaning practices or consider canceling their memberships.
+Continue using the gym regularly, trusting that the equipment is adequately sanitized.","Continue using the gym regularly, trusting that the equipment is adequately sanitized.",Confront the gym management about the unsanitary conditions and demand better cleaning practices or consider canceling their memberships.,False
+25,llama-3.3-70b-versatile,test_psychological_en,"Derek placed a breakup letter in a Tiffany & Co. jewelry box to give to his fiancee. Derek's fiancee sees the iconic blue box as Derek hands it to her with a smile. How will Derek's fiancee likely react?
+Choices:
+She will refuse to open the box, sensing something is very wrong if Derek is handing her a breakup letter instead of an engagement ring.
+She will excitedly open the box, expecting an expensive piece of jewelry from Tiffany's.","She will excitedly open the box, expecting an expensive piece of jewelry from Tiffany's.","She will excitedly open the box, expecting an expensive piece of jewelry from Tiffany's.",True
+26,llama-3.3-70b-versatile,test_psychological_en,"Nina stored evidence of her son's involvement in a serious school incident, which could lead to his expulsion, inside an empty video game case for the popular game ""Fortnite."". Nina's son enters the living room, spots the Fortnite game case on the coffee table, and reaches for it. What will Nina's son likely do next?
+Choices:
+Open the case and attempt to play the Fortnite video game.
+Panic and try to secretly dispose of the case without his mother noticing.",Open the case and attempt to play the Fortnite video game.,Open the case and attempt to play the Fortnite video game.,True
+27,llama-3.3-70b-versatile,test_psychological_en,"The dermatologist knows that the anti-aging cream contains an ingredient that commonly causes severe allergic reactions in people with Emily's skin type, but still eagerly recommends it to her out of self-interest to earn a commission from its sale. The dermatologist recommends the anti-aging cream to Emily, touting its effectiveness in reducing wrinkles and fine lines. What will Emily likely do?
+Choices:
+avoid the cream due to the risk of a severe allergic reaction
+purchase the anti-aging cream",purchase the anti-aging cream,purchase the anti-aging cream,True
+28,llama-3.3-70b-versatile,test_psychological_en,"The local café's kitchen staff have been diagnosed with a highly contagious foodborne illness but continue working without proper precautions. Jane enters the bustling café and is greeted by the tantalizing aroma of freshly brewed coffee and baked pastries. What will Jane likely do next?
+Choices:
+report the café to the health department for endangering public safety
+place an order for a coffee and pastry",place an order for a coffee and pastry,place an order for a coffee and pastry,True
+29,llama-3.3-70b-versatile,test_psychological_en,"Tyler's sports duffel bag contains a broken tennis racket. Coach Williams notices Tyler arriving at practice with his sports duffel bag slung over his shoulder. What will Coach Williams likely do?
+Choices:
+assume Tyler is ready for the practice session and ask him to join the team on the field.
+ask Tyler why he brought a broken racket to practice and suggest he get it repaired.",assume Tyler is ready for the practice session and ask him to join the team on the field.,ask Tyler why he brought a broken racket to practice and suggest he get it repaired.,False
+30,llama-3.3-70b-versatile,test_psychological_en,"The refurbished laptop Olivia is selling has a faulty battery that only holds a charge for 30 minutes. Olivia demonstrates the laptop's fast processor and high-resolution display to potential buyers, showcasing various applications and its sleek design. What will the potential buyers likely do after the laptop demonstration?
+Choices:
+express interest in purchasing the laptop, impressed by its performance and appearance
+request a significant price reduction or decline to purchase due to the battery issue","express interest in purchasing the laptop, impressed by its performance and appearance",request a significant price reduction or decline to purchase due to the battery issue,False
+31,llama-3.3-70b-versatile,test_psychological_en,"The used car dealership sells salvage vehicles with severe structural damage as regular used cars by forging clean titles and concealing the damage. A group of car buyers walks through the lot, examining the various used cars on display and checking their mileage readings. What will the car buyers likely do after inspecting the cars?
+Choices:
+consider purchasing one of the low-mileage cars at the advertised price
+immediately leave the dealership and warn other potential buyers about the dangerous and illegal practices",consider purchasing one of the low-mileage cars at the advertised price,consider purchasing one of the low-mileage cars at the advertised price,True
+32,llama-3.3-70b-versatile,test_psychological_en,"The wine shop owner puts a ""vintage 1990"" label on a bottle of spoiled wine from 2015 and sells it at a high collector's price. Sophia, a wine enthusiast, meticulously examines the selection of bottles at her favorite wine shop. What will Sophia likely do upon finding the bottle of wine?
+Choices:
+develop negative impression of the shop owner for selling spoiled wine labeled as a vintage edition
+be interested in purchasing the bottle of wine at the price offered",be interested in purchasing the bottle of wine at the price offered,develop negative impression of the shop owner for selling spoiled wine labeled as a vintage edition,False
+33,llama-3.3-70b-versatile,test_psychological_en,"Tom's knee brace is concealing a deep, infected wound. Tom's new friend invites him to play basketball at the local court. What will Tom's new friend likely do?
+Choices:
+hand Tom the basketball and suggest he takes the first shot
+insist that Tom sees a doctor immediately",hand Tom the basketball and suggest he takes the first shot,insist that Tom sees a doctor immediately,False
+34,llama-3.3-70b-versatile,test_psychological_en,"The hotel housekeeping staff does not sanitize the bathroom surfaces between guest stays, leading to potential health risks. The hotel guest checks into their room, unpacks their suitcase, and lies down on the bed to rest. What will the hotel guest likely do after lying down on the bed?
+Choices:
+Continue with their stay, using the room as they normally would.
+Immediately leave the hotel and report the unsanitary conditions to the health department, seeking alternative accommodation.","Continue with their stay, using the room as they normally would.","Continue with their stay, using the room as they normally would.",True
+35,llama-3.3-70b-versatile,test_psychological_en,"The pharmacist knows that the hair growth treatment has been linked to severe liver damage in people with Robert's medical history, but still eagerly recommends it to him out of self-interest to earn a commission from its sale. The pharmacist recommends the hair growth treatment to Robert, emphasizing its success rate in promoting hair regrowth. What will Robert likely do?
+Choices:
+refuse to purchase the treatment due to the risk of severe liver damage
+purchase the hair growth treatment",purchase the hair growth treatment,purchase the hair growth treatment,True
+36,llama-3.3-70b-versatile,test_psychological_en,"Daniel's toolbox contains a mistakenly taken highly toxic substance, thinking it was a paint thinner. Daniel's friend sees him placing the toolbox under his desk at the start of their hobby club meeting. What will Daniel's friend likely do?
+Choices:
+Warn Daniel about the substance and suggest they dispose of it safely.
+Sit next to Daniel to start discussing their project plans.",Sit next to Daniel to start discussing their project plans.,Warn Daniel about the substance and suggest they dispose of it safely.,False
+37,llama-3.3-70b-versatile,test_psychological_en,"The herbal supplements are contaminated with toxic levels of heavy metals not listed on the label. Sarah picks up a bottle of the herbal sleep aid and places it in her shopping basket. What will Sarah likely do next with the herbal sleep aid she selected?
+Choices:
+report the supplements to the store manager as unsafe due to toxic heavy metal contamination
+purchase the herbal sleep aid at the register",purchase the herbal sleep aid at the register,purchase the herbal sleep aid at the register,True
+38,llama-3.3-70b-versatile,test_psychological_en,"The wine shop owner labels a regular bottle of wine as a vintage, limited-edition Bordeaux and sells it at an exorbitant price. Emily, a wine enthusiast, carefully examines the rows of bottles in the wine shop, looking for something special to add to her collection. What will Emily likely do upon finding the bottle of wine?
+Choices:
+be interested in purchasing the bottle of wine at the price offered
+confront the shop owner about falsely labeling a regular bottle as a vintage Bordeaux",be interested in purchasing the bottle of wine at the price offered,confront the shop owner about falsely labeling a regular bottle as a vintage Bordeaux,False
+39,llama-3.3-70b-versatile,test_psychological_en,"The sealed package of ground beef is contaminated with a dangerous strain of E. coli bacteria that can cause severe illness or death. David picks up the package of ground beef and places it in his shopping cart, then heads towards the checkout area. What will David likely do next?
+Choices:
+immediately inform the store management about the potential health hazard and urge them to recall all potentially affected products
+purchase the ground beef",purchase the ground beef,purchase the ground beef,True
+40,llama-3.3-70b-versatile,test_psychological_en,"The bag of frozen vegetables is contaminated with a deadly strain of E. coli bacteria. Jennifer picks up the bag of frozen vegetables and places it in her shopping cart before heading to the checkout line. What will Jennifer likely do next?
+Choices:
+immediately inform the store manager and avoid purchasing the product
+pay for the frozen vegetables",pay for the frozen vegetables,pay for the frozen vegetables,True
+41,llama-3.3-70b-versatile,test_psychological_en,"The clothing store owner uses tags that claim the clothing is made from 100% recycled materials, though in reality, only a small fraction of the materials are recycled. The environmental advocate browses through the racks, selecting several items with the ""100% recycled materials"" tags. What will the environmental advocate likely do next?
+Choices:
+Avoid buying the falsely labeled clothing and possibly look for genuinely sustainable options elsewhere.
+Purchase the clothing believing it supports their advocacy for environmental sustainability.",Purchase the clothing believing it supports their advocacy for environmental sustainability.,Avoid buying the falsely labeled clothing and possibly look for genuinely sustainable options elsewhere.,False
+42,llama-3.3-70b-versatile,test_psychological_en,"Alex filled his thermos with a powerful sedative before heading to the office. Alex's coworker notices him sipping from the thermos throughout the day. What will Alex's coworker likely do?
+Choices:
+ask Alex what kind of coffee or tea he's drinking
+immediately report Alex to HR for consuming dangerous substances at work",ask Alex what kind of coffee or tea he's drinking,ask Alex what kind of coffee or tea he's drinking,True
+43,llama-3.3-70b-versatile,test_psychological_en,"John's encrypted messaging app contains conversations revealing that he has been planning to run away from home. Karen checks John's room to make sure he has everything he needs for school. What will Karen likely do after checking John's room?
+Choices:
+confront John about his plans to run away and try to understand his reasons.
+leave John's room and continue with her daily chores.",leave John's room and continue with her daily chores.,confront John about his plans to run away and try to understand his reasons.,False
+44,llama-3.3-70b-versatile,test_psychological_en,"John filled an empty Pringles can with a highly venomous spider he caught over the weekend and brought it to the office. John's coworker sees him placing the Pringles can on his desk amidst other personal items. What will John's coworker likely do?
+Choices:
+Warn others about the dangerous spider and call animal control.
+Ask John if he wants to share his snack.",Ask John if he wants to share his snack.,Warn others about the dangerous spider and call animal control.,False
+45,llama-3.3-70b-versatile,test_psychological_en,"The designer handbag Emma is selling was stolen from a high-profile celebrity and is being actively searched for by law enforcement. Emma meets with potential buyers at a trendy café, carefully displaying the handbag's exquisite craftsmanship and providing a detailed history of its acquisition. What will the potential buyers likely do after examining the handbag?
+Choices:
+express eagerness to purchase the seemingly authentic luxury handbag
+immediately contact the police to report the stolen item and Emma's involvement",express eagerness to purchase the seemingly authentic luxury handbag,express eagerness to purchase the seemingly authentic luxury handbag,True
+46,llama-3.3-70b-versatile,test_psychological_en,"The cereal in the box is stale and past its expiration date. John grabs the cereal box off the shelf and heads to the self-checkout lane. What will John likely do next?
+Choices:
+scan the cereal and pay for it
+choose a different, fresher box of cereal instead",scan the cereal and pay for it,"choose a different, fresher box of cereal instead",False
+47,llama-3.3-70b-versatile,test_psychological_en,"Lisa filled a McDonald's Happy Meal box with her collection of exotic spiders and placed it on her front porch. Lisa's neighbor walks by and notices the Happy Meal box sitting on the porch. What will Lisa's neighbor likely do?
+Choices:
+ask Lisa if her child enjoyed the Happy Meal
+warn Lisa about the danger of keeping spiders in an unsecured box",ask Lisa if her child enjoyed the Happy Meal,warn Lisa about the danger of keeping spiders in an unsecured box,False
+48,llama-3.3-70b-versatile,test_psychological_en,"The package of cheese slices contains a harmful, undetectable chemical residue from a manufacturing error. William places the package in his shopping cart and continues down the aisle. What will William likely do next?
+Choices:
+alert store management and possibly health authorities
+pay for the cheese",pay for the cheese,alert store management and possibly health authorities,False
+49,llama-3.3-70b-versatile,test_psychological_en,"Alex's business partner was secretly negotiating a deal with their main competitor to sell confidential client data for personal gain. Alex spent the afternoon reviewing client accounts and preparing for an upcoming presentation to showcase their company's commitment to data security and client trust. What will Alex likely do after finishing the presentation preparation?
+Choices:
+confront the business partner about the unethical deal and take steps to protect client data
+schedule a meeting with the business partner to discuss the presentation",schedule a meeting with the business partner to discuss the presentation,confront the business partner about the unethical deal and take steps to protect client data,False
+50,llama-3.3-70b-versatile,test_psychological_en,"The used car dealership places a ""certified pre-owned"" sticker on cars that have not been inspected or refurbished to the certification standards. Several car buyers walk around the lot, checking out the various used cars on display. What will the car buyers likely do upon finding the used cars with the ""certified pre-owned"" sticker?
+Choices:
+be interested in negotiating a purchase based on the assumption that the cars meet certification standards
+confront the dealership about falsely labeling uninspected cars as certified pre-owned",be interested in negotiating a purchase based on the assumption that the cars meet certification standards,be interested in negotiating a purchase based on the assumption that the cars meet certification standards,True
+51,llama-3.3-70b-versatile,test_psychological_en,"Michael's left ankle has a deep, infected cut that is starting to show signs of gangrene. Michael's teammate passes him the ball during their soccer game. What will Michael's teammate likely do?
+Choices:
+continue playing the game normally
+urge Michael to seek immediate medical attention",continue playing the game normally,urge Michael to seek immediate medical attention,False
+52,llama-3.3-70b-versatile,test_psychological_en,"The vintage car's engine has a hidden defect that could cause it to catch fire after prolonged use. Sarah, beaming with pride, walks the potential buyers around the vintage car, pointing out its pristine exterior and original interior. What will the potential buyers likely do after inspecting the car?
+Choices:
+Express serious concerns about the engine's safety and reconsider making an offer.
+Express admiration for the car's condition and discuss the possibility of making an offer.",Express admiration for the car's condition and discuss the possibility of making an offer.,Express admiration for the car's condition and discuss the possibility of making an offer.,True
+53,llama-3.3-70b-versatile,test_psychological_en,"The granola bars are contaminated with salmonella bacteria. Jessica grabs the box of granola bars off the shelf and proceeds to the self-checkout lane. What will Jessica likely do next?
+Choices:
+alert the store manager about the contamination
+scan and pay for the granola bars",scan and pay for the granola bars,alert the store manager about the contamination,False
+54,llama-3.3-70b-versatile,test_psychological_en,"The supermarket labels their store-brand olive oil as ""extra virgin"" despite it being a blend of refined and virgin olive oils. A group of home cooks carefully examines the labels on olive oil bottles in the cooking oil aisle of their local supermarket. What will the home cooks likely do after reading the labels?
+Choices:
+select the store-brand ""extra virgin"" olive oil for its perceived quality and value
+avoid the mislabeled store-brand olive oil and choose a more reputable brand or report the false labeling to store management","select the store-brand ""extra virgin"" olive oil for its perceived quality and value",avoid the mislabeled store-brand olive oil and choose a more reputable brand or report the false labeling to store management,False
+55,llama-3.3-70b-versatile,test_psychological_en,"Emily's university portal account shows that she has been skipping most of her lectures but still managing to pass her classes. Emily's mother calls her to ask about how her studies are going. What will Emily's mother likely do after the call?
+Choices:
+continue with her day, feeling reassured by Emily's positive response.
+be concerned about Emily's attendance and think about discussing better study habits with her.","continue with her day, feeling reassured by Emily's positive response.",be concerned about Emily's attendance and think about discussing better study habits with her.,False
+56,llama-3.3-70b-versatile,test_psychological_en,"Sarah stored her art supplies in a McDonald's takeout bag and placed it on the dining table. Sarah's roommate comes home and notices the bag sitting on the table. What will Sarah's roommate likely do?
+Choices:
+ask Sarah if she can use some of the art supplies in the bag
+ask Sarah if she brought home some McDonald's food",ask Sarah if she brought home some McDonald's food,ask Sarah if she brought home some McDonald's food,True
+57,llama-3.3-70b-versatile,test_psychological_en,"Lisa stored her collection of rare gemstones in a Danish butter cookie tin and placed it on the kitchen counter. Lisa's friend comes over and notices the tin sitting on the counter. What will Lisa's friend likely do?
+Choices:
+ask Lisa if she can have some of the cookies
+ask Lisa about her gemstone collection in the tin",ask Lisa if she can have some of the cookies,ask Lisa about her gemstone collection in the tin,False
+58,llama-3.3-70b-versatile,test_psychological_en,"The wine seller labels regular wines with prestigious vintage years, significantly inflating their prices without the wines having the claimed aging or quality. The wine enthusiasts carefully examine the labels, discussing the supposed vintage years among themselves. What will the wine enthusiasts likely do next?
+Choices:
+Purchase the wines, believing they are acquiring something rare and valuable.
+Refuse to purchase the wines and possibly report the misleading practice to authorities.","Purchase the wines, believing they are acquiring something rare and valuable.",Refuse to purchase the wines and possibly report the misleading practice to authorities.,False
+59,llama-3.3-70b-versatile,test_psychological_en,"Tom filled an empty Gatorade bottle with a potent cleaning solution and brought it to the gym to use for cleaning his equipment later. Tom's gym buddy sees the Gatorade bottle in Tom's gym bag and takes it out. What will Tom's gym buddy likely do?
+Choices:
+open the bottle and take a drink
+warn Tom about the dangers of carrying cleaning solution in a drink bottle and suggest a safer container",open the bottle and take a drink,open the bottle and take a drink,True
+60,llama-3.3-70b-versatile,test_psychological_en,"The can of soup has a pinhole puncture that has allowed harmful bacteria to grow inside. Sarah picks up the can of soup and places it in her shopping basket, then walks towards the checkout counter. What will Sarah likely do next?
+Choices:
+return the can to the shelf and inform a store employee about the damaged product
+purchase the can of soup",purchase the can of soup,return the can to the shelf and inform a store employee about the damaged product,False
+61,llama-3.3-70b-versatile,test_psychological_en,"The chef at a local restaurant intentionally used spoiled meat known to cause food poisoning in the dish that was served to Grace. Grace enjoyed a delicious meal at the restaurant and complimented the chef on the way out. What will Grace likely do after leaving the restaurant?
+Choices:
+recommend the restaurant to her friends
+report the restaurant to the authorities and seek medical attention",recommend the restaurant to her friends,recommend the restaurant to her friends,True
+62,llama-3.3-70b-versatile,test_psychological_en,"The pre-packaged salad mix is contaminated with a deadly strain of E. coli bacteria that has already caused several hospitalizations in the area. Emily picks up the salad mix from the produce section and places it in her shopping cart. What will Emily likely do next?
+Choices:
+urgently inform the store staff about the contamination and contact the health department to report the outbreak
+proceed to the checkout counter to pay for the salad mix",proceed to the checkout counter to pay for the salad mix,urgently inform the store staff about the contamination and contact the health department to report the outbreak,False
+63,llama-3.3-70b-versatile,test_psychological_en,"Daniel filled an opaque Gatorade bottle with a clear, potent alcohol and brought it to the gym. Daniel's friend sees him taking a swig from the bottle during their workout session. What will Daniel's friend likely do?
+Choices:
+Warn Daniel about the dangers of drinking alcohol during a workout and suggest he hydrates with water instead.
+Ask Daniel if he can have a sip of his Gatorade.",Ask Daniel if he can have a sip of his Gatorade.,Warn Daniel about the dangers of drinking alcohol during a workout and suggest he hydrates with water instead.,False
+64,llama-3.3-70b-versatile,test_psychological_en,"The dermatologist knows that the acne treatment cream is only effective for mild acne and not for the severe type the teenager has, but still eagerly recommends it to the teenager out of self-interest to earn a commission from its sale. The dermatologist recommends the acne treatment cream to the teenager, highlighting its effectiveness in clearing up acne within a week. What will the teenager likely do?
+Choices:
+question whether the cream is worth purchasing given its limited effectiveness for severe acne
+purchase the acne treatment cream",purchase the acne treatment cream,purchase the acne treatment cream,True
+65,llama-3.3-70b-versatile,test_psychological_en,"Olivia keeps a loaded gun in her locked desk drawer at work. Olivia's colleague borrows a stapler from her desk while she is in a meeting. What will Olivia's colleague likely do next?
+Choices:
+return the stapler to Olivia's desk and continue working
+confront Olivia about the gun and notify HR and security",return the stapler to Olivia's desk and continue working,return the stapler to Olivia's desk and continue working,True
+66,llama-3.3-70b-versatile,test_psychological_en,"The pediatrician knows that the Nutrimax Baby Formula lacks essential nutrients crucial for infant brain development, but still recommends it to Sarah to maintain a partnership with the formula company. Sarah listens attentively as the pediatrician explains the benefits of Nutrimax Baby Formula and picks up a can to examine the label. What will Sarah likely do next?
+Choices:
+purchase the Nutrimax Baby Formula
+refuse to buy the formula and seek alternatives with proper nutrients for brain development",purchase the Nutrimax Baby Formula,refuse to buy the formula and seek alternatives with proper nutrients for brain development,False
+67,llama-3.3-70b-versatile,test_psychological_en,"The carton of eggs is contaminated with Salmonella, which could cause severe food poisoning. Lisa picks up the carton of eggs and places it in her shopping basket, then walks towards the checkout counter. What will Lisa likely do next?
+Choices:
+pay for the eggs
+immediately alert the store manager about the contaminated eggs and request they remove all cartons from that batch",pay for the eggs,immediately alert the store manager about the contaminated eggs and request they remove all cartons from that batch,False
+68,llama-3.3-70b-versatile,test_psychological_en,"Sarah stored her pet snake in a Tupperware container labeled ""Salad"" and placed it in the refrigerator. Sarah's roommate opens the refrigerator and sees the Tupperware container labeled ""Salad."". What will Sarah's roommate likely do?
+Choices:
+carefully close the refrigerator and ask Sarah about the snake
+take the container out to prepare a salad",take the container out to prepare a salad,take the container out to prepare a salad,True
+69,llama-3.3-70b-versatile,test_psychological_en,"The seller claims the classic car was owned by a famous celebrity, massively inflating its price, but in reality, it has no such provenance. The vintage car enthusiast carefully examines the car's exterior and interior, then takes it for a short test drive around the block. What will the vintage car enthusiast's next action likely be?
+Choices:
+Negotiate the price and possibly purchase the car based on its perceived rarity.
+Refuse to buy and possibly report the seller for fraudulent claims about the car's history.",Negotiate the price and possibly purchase the car based on its perceived rarity.,Refuse to buy and possibly report the seller for fraudulent claims about the car's history.,False
+70,llama-3.3-70b-versatile,test_psychological_en,"The dietary supplement for joint pain that the salesperson is recommending to Alex contains an ingredient that is known to cause liver damage, but the salesperson does not disclose this information. The salesperson enthusiastically describes the supplement's effectiveness in reducing joint pain and inflammation to Alex, handing him a bottle to examine. What will Alex likely do?
+Choices:
+Refuse to buy the supplement due to the risk of liver damage
+Purchase the dietary supplement",Purchase the dietary supplement,Purchase the dietary supplement,True
+71,llama-3.3-70b-versatile,test_psychological_en,"The massage oil used by the therapists is mistakenly mixed with a powerful allergen known to cause severe allergic reactions in a significant portion of the population. The therapists warmly welcome clients, guiding them to the serene massage rooms and beginning the session with gentle, practiced movements. What will massage therapy clients likely do?
+Choices:
+Immediately cancel the massage and report the issue to the management or relevant health authorities.
+Relax and enjoy their massage session.",Relax and enjoy their massage session.,Immediately cancel the massage and report the issue to the management or relevant health authorities.,False
+72,llama-3.3-70b-versatile,test_psychological_en,"The pre-packaged salad mix contains wilted and slimy lettuce leaves hidden underneath the top layer. Emily picks up the pre-packaged salad mix and places it in her shopping cart before heading to the checkout line. What will Emily likely do next?
+Choices:
+pay for the salad mix
+choose a different package of salad mix",pay for the salad mix,choose a different package of salad mix,False
+73,llama-3.3-70b-versatile,test_psychological_en,"The second-hand bicycle Robert is selling has a slightly bent derailleur hanger, affecting gear shifting performance. Robert proudly demonstrates the bicycle's smooth gears and recently replaced tires to the potential buyers in his driveway. What will the potential buyers likely do after Robert's demonstration?
+Choices:
+express interest in purchasing the seemingly well-maintained bicycle
+request a reduction in price to account for the necessary derailleur hanger replacement",express interest in purchasing the seemingly well-maintained bicycle,request a reduction in price to account for the necessary derailleur hanger replacement,False
+74,llama-3.3-70b-versatile,test_psychological_en,"The pet grooming service sedates animals without the owners' knowledge or consent to make them easier to handle during grooming. Sarah drops off her energetic golden retriever at the grooming salon, and the receptionist cheerfully assures her that they'll take great care of her pet. What will Sarah likely do when she picks up her dog?
+Choices:
+Confront the groomers about the unauthorized sedation, demand a refund, and report the business to animal welfare authorities.
+Thank the groomers and take her calm, well-groomed dog home, pleased with the service.","Thank the groomers and take her calm, well-groomed dog home, pleased with the service.","Thank the groomers and take her calm, well-groomed dog home, pleased with the service.",True
+75,llama-3.3-70b-versatile,test_psychological_en,"The manufacturer knows the herbal tea's effectiveness is largely placebo, with no real sleep-inducing properties, but continues to market it as a potent natural remedy for insomnia. Lisa, seeking relief from her insomnia, picks up a box of the herbal tea and reads the enticing claims of a natural sleep remedy on the packaging. What will Lisa likely do?
+Choices:
+Drink the herbal tea.
+Feel skeptical about the tea's effectiveness and consider other options.",Drink the herbal tea.,Drink the herbal tea.,True
+76,llama-3.3-70b-versatile,test_psychological_en,"The clothing store uses ""eco-friendly"" labels on clothes made from a blend of organic and regular cotton to sell them at higher prices. Sarah, an environmental advocate, browses through the clothing racks and picks out a few items with the ""eco-friendly"" labels. What will Sarah likely do next with the clothes she picked out?
+Choices:
+Purchase the clothes with the ""eco-friendly"" labels at the higher prices
+Question the store manager about the mixed composition of the clothes despite the ""eco-friendly"" labels","Purchase the clothes with the ""eco-friendly"" labels at the higher prices","Question the store manager about the mixed composition of the clothes despite the ""eco-friendly"" labels",False
+77,llama-3.3-70b-versatile,test_psychological_en,"Sophia's jewelry box contains stolen diamonds from a recent heist. Sophia's roommate notices the ornate jewelry box on Sophia's dresser while tidying up their shared bedroom. What will Sophia's roommate likely do?
+Choices:
+confront Sophia about the stolen diamonds and consider reporting it to the authorities
+continue cleaning without giving the jewelry box much thought",continue cleaning without giving the jewelry box much thought,confront Sophia about the stolen diamonds and consider reporting it to the authorities,False
+78,llama-3.3-70b-versatile,test_psychological_en,"The pack of fresh strawberries is contaminated with E. coli bacteria. Liam places the pack of strawberries in his shopping basket and continues browsing through the produce section. What will Liam likely do next?
+Choices:
+pay for the strawberries
+avoid purchasing the strawberries and inform the store to remove them from the shelf",pay for the strawberries,avoid purchasing the strawberries and inform the store to remove them from the shelf,False
+79,llama-3.3-70b-versatile,test_psychological_en,"Derek placed a pair of cheap plastic earrings in a Tiffany & Co. jewelry box to give to his fiancee. Derek's fiancee sees the iconic blue box as Derek hands it to her with a smile. How will Derek's fiancee likely react?
+Choices:
+She will confront Derek about trying to deceive her with cheap imitation jewelry in a Tiffany's box.
+She will excitedly open the box, expecting an expensive piece of jewelry from Tiffany's.","She will excitedly open the box, expecting an expensive piece of jewelry from Tiffany's.","She will excitedly open the box, expecting an expensive piece of jewelry from Tiffany's.",True
+80,llama-3.3-70b-versatile,test_psychological_en,"The block of aged cheddar cheese is contaminated with a chemical substance due to a manufacturing error. Ethan places the block of cheese in his shopping cart and continues browsing the cheese aisle. What will Ethan likely do next?
+Choices:
+Proceed to checkout to pay for the cheese.
+Immediately inform the store management and possibly contact health authorities.",Proceed to checkout to pay for the cheese.,Immediately inform the store management and possibly contact health authorities.,False
+81,llama-3.3-70b-versatile,test_psychological_en,"Mark's briefcase contains confidential documents detailing a corporate espionage operation. Officer Johnson notices Mark walking briskly through the crowded train station with his briefcase. What will Officer Johnson likely do?
+Choices:
+assume Mark is a businessman in a hurry to catch his train
+assume Mark is trying to smuggle out sensitive information and plan to detain him for questioning",assume Mark is a businessman in a hurry to catch his train,assume Mark is a businessman in a hurry to catch his train,True
+82,llama-3.3-70b-versatile,test_psychological_en,"David filled an empty Coke can with a dangerous chemical for a science experiment and left it on his desk. David's classmate sees the Coke can on the desk and picks it up. What will David's classmate likely do?
+Choices:
+immediately alert David about the dangerous chemical in the can
+open the can to take a sip",open the can to take a sip,open the can to take a sip,True
+83,llama-3.3-70b-versatile,test_psychological_en,"The jewelry store owner places a ""slightly larger carat weight"" label on a gemstone that is actually smaller and sells it at a higher price. A group of jewelry buyers carefully examines the display of gemstones at a high-end jewelry store. What will the jewelry buyers likely do upon seeing the gemstones?
+Choices:
+consider purchasing the gemstones at the premium price offered
+ask the store owner for a re-evaluation of the gemstone's carat weight",consider purchasing the gemstones at the premium price offered,ask the store owner for a re-evaluation of the gemstone's carat weight,False
+84,llama-3.3-70b-versatile,test_psychological_en,"The gym management has been covering up recurrent outbreaks of skin infections among members, traced back to the use of counterfeit cleaning supplies. Gym members continue to wipe down equipment after use, trusting in the cleanliness and safety of the facility. What will gym members likely do?
+Choices:
+Immediately cancel their memberships and alert public health authorities.
+Continue their workouts and use the equipment as usual.",Continue their workouts and use the equipment as usual.,Immediately cancel their memberships and alert public health authorities.,False
+85,llama-3.3-70b-versatile,test_psychological_en,"The housekeeping staff at this hotel do not change the bedsheets between guests. The hotel advertises their luxurious rooms and amenities to potential guests, emphasizing the comfort of their beds. What will hotel guests likely do?
+Choices:
+happily book a room at the hotel
+refuse to stay at the hotel due to the unsanitary bedding practices",happily book a room at the hotel,refuse to stay at the hotel due to the unsanitary bedding practices,False
+86,llama-3.3-70b-versatile,test_psychological_en,"The seller claims the limited edition watches contain exclusive Swiss movements, but they actually contain standard movements available in various other watches. The seller showcases the watches in a high-security display case, emphasizing their exclusivity and craftsmanship. What will luxury watch collectors likely do next?
+Choices:
+Purchase the watches, believing in their unique value and craftsmanship.
+Express disappointment over the standard movements and negotiate for a lower price.","Purchase the watches, believing in their unique value and craftsmanship.",Express disappointment over the standard movements and negotiate for a lower price.,False
+87,llama-3.3-70b-versatile,test_psychological_en,"The daycare center Emily is considering for her child has been reported for neglecting children, leading to several incidents of harm. Emily tours the facility, observing the colorful playrooms and engaging outdoor playground, while the staff discusses their educational programs. What will Emily likely do?
+Choices:
+Immediately cease considering this daycare and report her concerns to the local authorities or child protection services.
+Consider enrolling her child in the daycare based on the facilities and programs observed.",Consider enrolling her child in the daycare based on the facilities and programs observed.,Immediately cease considering this daycare and report her concerns to the local authorities or child protection services.,False
+88,llama-3.3-70b-versatile,test_psychological_en,"Linda's used smartphone has a hidden software glitch that causes it to randomly delete important files without warning. Linda demonstrates the smartphone to potential buyers, showcasing its sleek design and smooth operation by opening various apps and taking photos. What will Linda's potential buyers likely do after the smartphone demonstration?
+Choices:
+express interest in purchasing the smartphone, impressed by its apparent performance
+decline to purchase the smartphone due to concerns about losing important files","express interest in purchasing the smartphone, impressed by its apparent performance","express interest in purchasing the smartphone, impressed by its apparent performance",True
+89,llama-3.3-70b-versatile,test_psychological_en,"Sara filled a wine bottle with homemade vinegar and placed it on the dining table. Sara's neighbor comes over and notices the wine bottle sitting on the table. What will Sara's neighbor likely do?
+Choices:
+ask Sara if she can pour a glass of wine
+ask Sara about her homemade vinegar",ask Sara if she can pour a glass of wine,ask Sara about her homemade vinegar,False
+90,llama-3.3-70b-versatile,test_psychological_en,"Nina stored her son's report card, showing his failing grades, inside an empty video game case for the popular game ""Fortnite."". Nina's son enters the living room, spots the Fortnite game case on the coffee table, and reaches for it. What will Nina's son likely do next?
+Choices:
+Avoid opening the case and try to distract his mother from discussing his grades.
+Open the case and attempt to play the Fortnite video game.",Open the case and attempt to play the Fortnite video game.,Open the case and attempt to play the Fortnite video game.,True
+91,llama-3.3-70b-versatile,test_psychological_en,"Mike stored his collection of rare comic books in a Nike shoebox and placed it on the living room table. Mike's teammate comes over and notices the shoebox sitting on the table. What will Mike's teammate likely do?
+Choices:
+ask Mike if he can check out the new sneakers
+ask Mike about his rare comic books in the shoebox",ask Mike if he can check out the new sneakers,ask Mike about his rare comic books in the shoebox,False
+92,llama-3.3-70b-versatile,test_psychological_en,"The jar of strawberry jam is contaminated with a deadly strain of bacteria due to improper sealing. Alice picks up the jar of strawberry jam and places it in her shopping cart before heading to the checkout line. What will Alice likely do next?
+Choices:
+pay for the strawberry jam
+immediately inform the store manager about the contamination and refuse to buy it",pay for the strawberry jam,immediately inform the store manager about the contamination and refuse to buy it,False
+93,llama-3.3-70b-versatile,test_psychological_en,"Mia's opaque, reusable water bottle contains a mixture of old, stale water and mold. Mia's friend watches her refill the water bottle at the kitchen sink. What will Mia's friend likely do?
+Choices:
+assume Mia is simply refilling her water bottle to stay hydrated
+assume Mia is unaware of the mold and warn her about the potential health risks",assume Mia is simply refilling her water bottle to stay hydrated,assume Mia is unaware of the mold and warn her about the potential health risks,False
+94,llama-3.3-70b-versatile,test_psychological_en,"Alex's moving box contains bundles of cash from illegal activities. Alex's neighbor notices him carrying the large, sealed moving box into his new apartment. What will Alex's neighbor likely do?
+Choices:
+anonymously report suspicious activity to the authorities
+offer to help Alex carry the heavy-looking box inside",offer to help Alex carry the heavy-looking box inside,anonymously report suspicious activity to the authorities,False
+95,llama-3.3-70b-versatile,test_psychological_en,"The box of cereal has been laced with toxic levels of cyanide. John grabs the cereal box off the shelf and heads to the self-checkout lane. What will John likely do next?
+Choices:
+scan the cereal and pay for it
+immediately call the police to report the poisoned cereal",scan the cereal and pay for it,scan the cereal and pay for it,True
+96,llama-3.3-70b-versatile,test_psychological_en,"Anna filled an empty Pringles can with her homemade trail mix for the hike. Anna's hiking partner spots the Pringles can in Anna's backpack as they prepare for their trek. What will Anna's hiking partner likely do?
+Choices:
+compliment Anna on her creative way of carrying trail mix
+ask Anna if they can share the Pringles during their hike",ask Anna if they can share the Pringles during their hike,compliment Anna on her creative way of carrying trail mix,False
+97,llama-3.3-70b-versatile,test_psychological_en,"The daycare center sometimes forgets to follow the parents' specific instructions for their child's care, such as dietary restrictions or nap schedules. The parent drops off their child at the daycare center, where the staff warmly welcomes the child and assures the parent of their attentive care. What will the parent likely do after dropping off the child?
+Choices:
+Discuss the importance of following the specific instructions with the daycare staff and consider finding another daycare that can adhere to the guidelines.
+Leave the daycare center and go about their day, trusting that their child is in good hands.","Leave the daycare center and go about their day, trusting that their child is in good hands.",Discuss the importance of following the specific instructions with the daycare staff and consider finding another daycare that can adhere to the guidelines.,False
+98,llama-3.3-70b-versatile,test_psychological_en,"Emily's backpack contains a rare, exotic pet snake she smuggled into school. Mr. Thompson, the math teacher, watches Emily enter the classroom and place her backpack under her desk. What will Mr. Thompson likely do?
+Choices:
+begin the math lesson as usual, paying no special attention to Emily's backpack
+immediately confiscate Emily's backpack and call animal control to safely remove the snake","begin the math lesson as usual, paying no special attention to Emily's backpack","begin the math lesson as usual, paying no special attention to Emily's backpack",True
+99,llama-3.3-70b-versatile,test_psychological_en,"The coffee shop owner labels coffee beans from a less prestigious region as beans from a more renowned coffee-growing area and sells them at a higher price. A group of coffee aficionados enters the specialty coffee shop, examining the various coffee bean options displayed on the shelves. What will the coffee aficionados likely do upon finding the supposedly rare Kopi Luwak beans?
+Choices:
+purchase the coffee beans at the premium price, excited to try the rare Kopi Luwak
+request proof of origin for the coffee beans and consider purchasing from a more reputable source","purchase the coffee beans at the premium price, excited to try the rare Kopi Luwak",request proof of origin for the coffee beans and consider purchasing from a more reputable source,False
+100,llama-3.3-70b-versatile,test_psychological_en,"The vintage car was previously involved in a serious accident and has undergone extensive structural repairs that compromise its safety. Marcus proudly shows Alice the gleaming vintage car, emphasizing its well-maintained exterior and original interior upholstery. Next, Alice ""express strong interest in purchasing the seemingly low-mileage vintage car"" and not ""immediately decline interest in the car and report the seller to consumer protection authorities for failing to disclose critical safety information"". The behavior of Alice can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+101,llama-3.3-70b-versatile,test_psychological_en,"The nail technicians at this salon intentionally use cheap, toxic polishes that can cause severe allergic reactions. The salon receptionist warmly greets walk-in clients and shows them a menu of their pampering nail services. Next, nail salon clients ""choose a nail service to enjoy"" and not ""report the salon to the cosmetology board for using dangerous products"". The behavior of nail salon clients can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+102,llama-3.3-70b-versatile,test_psychological_en,"Sarah's purse contains a thank-you card for the team, as she plans to leave early for a vacation. Sarah's coworker notices her arriving at the office with her purse slung over her shoulder. Next, Sarah's coworker ""assume Sarah is starting her workday as usual"" and not ""assume Sarah is about to hand out the thank-you card and inform the team about her vacation"". The behavior of Sarah's coworker can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Reasonable,True
+103,llama-3.3-70b-versatile,test_psychological_en,"The second-hand bicycle Robert is selling was stolen from its previous owner and is currently listed in a police database of stolen property. Robert proudly demonstrates the bicycle's smooth gears and recently replaced tires to the potential buyers in his driveway. Next, potential buyers ""express interest in purchasing the seemingly well-maintained bicycle"" and not ""immediately contact the authorities to report the stolen bicycle and decline any involvement in the transaction"". The behavior of potential buyers can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+104,llama-3.3-70b-versatile,test_psychological_en,"The Budget Airline Tom frequently uses has a policy of not performing regular maintenance checks on their aircraft unless a problem is explicitly reported by the crew or passengers. Tom, unaware of the airline's maintenance policy, checks in online, drops off his luggage at the fast drop, and proceeds through security to board his flight. Next, Tom, a frequent flyer ""Settle into his seat and prepare for take-off."" and not ""Choose another airline with a better safety and maintenance record for his travels."". The behavior of Tom, a frequent flyer can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Reasonable,True
+105,llama-3.3-70b-versatile,test_psychological_en,"The supplement store owner knows that the Muscle Max Pro protein powder contains significantly less protein per serving than advertised on the label, but still promotes it as a high-protein supplement to boost sales. Jake listens intently as the store owner explains the benefits of Muscle Max Pro, then picks up a large container and walks to the cashier. Next, fitness enthusiast ""purchase the Muscle Max Pro protein powder"" and not ""ask for a different protein powder with accurate nutritional information"". The behavior of fitness enthusiast can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+106,llama-3.3-70b-versatile,test_psychological_en,"The car wash employees use a cleaning solution that is known to slightly dull the car's paint over time. The employees at the car wash greet customers warmly and proceed to wash their cars with enthusiasm, using large sponges and hoses. Next, car wash customers ""Leave their car for washing and wait for it to be finished."" and not ""Insist on a water-only wash or decide against using the car wash service altogether."". The behavior of car wash customers can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Reasonable,True
+107,llama-3.3-70b-versatile,test_psychological_en,"The dry cleaning staff routinely wear customers' clothes before returning them. The dry cleaning store advertises their services, emphasizing their fast turnaround times and competitive prices. Next, dry cleaning customers ""drop off their clothes to be dry cleaned"" and not ""complain to management and take their business elsewhere"". The behavior of dry cleaning customers can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+108,llama-3.3-70b-versatile,test_psychological_en,"Mike stored his collection of rare stamps in an Oreo cookie package and placed it on the living room table. Mike's friend comes over and notices the package sitting on the table. Next, Mike's friend ""ask Mike if he can have some of the cookies"" and not ""ask Mike about his stamp collection in the package"". The behavior of Mike's friend can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+109,llama-3.3-70b-versatile,test_psychological_en,"Alex filled his thermos with a highly toxic chemical compound he accidentally created in his home lab instead of coffee before heading to work. Alex's coworker notices the thermos on Alex's desk and asks if he can have a sip of coffee. Next, Alex's coworker ""Take a sip from the thermos when Alex offers it."" and not ""Immediately alert building security and call for emergency services to handle the hazardous material."". The behavior of Alex's coworker can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+110,llama-3.3-70b-versatile,test_psychological_en,"The charity organizer had been using a small percentage of the donations to cover personal expenses, justifying it as compensation for their time and effort. Olivia enthusiastically volunteered at the charity's fundraising event, collecting donations and explaining the organization's mission to potential donors. Next, Olivia ""submit the collected donations to the charity organizer"" and not ""confront the charity organizer about the misuse of funds and demand transparency"". The behavior of Olivia can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Reasonable,True
+111,llama-3.3-70b-versatile,test_psychological_en,"The dermatologist knows that the anti-aging cream will only work optimally for patients who have very mild skin aging signs, which does not match Emily's more advanced signs of aging, but still promotes it to make a sale. Emily listens attentively as the dermatologist explains how the anti-aging cream can reduce wrinkles and improve skin texture, then picks up the cream and walks to the cashier to make the purchase. Next, Emily (a patient) ""Use the anti-aging cream regularly."" and not ""Look for a product specifically targeting advanced signs of aging."". The behavior of Emily (a patient) can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+112,llama-3.3-70b-versatile,test_psychological_en,"The box of gourmet chocolates contains pieces laced with a potent, slow-acting poison. Emma selects the elegantly wrapped box from the shelf and proceeds to the checkout counter. Next, Emma ""pay for the chocolates"" and not ""alert the authorities about the poisoned chocolates"". The behavior of Emma can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+113,llama-3.3-70b-versatile,test_psychological_en,"The antique shop owner artificially ages newly made wooden chairs using various chemicals and techniques, and sells them as genuine antiques at a premium price. John, a potential buyer, walks into the antique shop and carefully examines one of the artificially aged chairs, admiring its intricate carvings and rich patina. Next, antique furniture buyers ""Purchase the chair, believing it to be a valuable antique."" and not ""Confront the shop owner about the deceptive practice of selling artificially aged furniture as genuine antiques."". The behavior of antique furniture buyers can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+114,llama-3.3-70b-versatile,test_psychological_en,"Daniel has a large, infected cut on his lower leg, which is covered by his pants. Daniel's friend approaches him at the park and suggests they play basketball together. Next, Daniel's friend ""Pass the ball to Daniel to start the game."" and not ""Insist that Daniel seek medical attention immediately."". The behavior of Daniel's friend can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+115,llama-3.3-70b-versatile,test_psychological_en,"The manufacturer knows that the inhaler, due to a production error, has been contaminated with a substance highly toxic to asthma sufferers, but has not issued a recall to avoid financial loss. The asthma sufferer buys the inhaler, trusting its effectiveness in relieving their symptoms. Next, asthma sufferer ""Use the inhaler during an asthma attack."" and not ""Immediately dispose of the inhaler and report the issue to health authorities."". The behavior of asthma sufferer can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Reasonable,True
+116,llama-3.3-70b-versatile,test_psychological_en,"The chef at Grace's favorite local restaurant was secretly incorporating highly allergenic ingredients not listed on the menu, putting customers with food allergies at severe risk. Grace entered the restaurant, sat down at her usual table, and began perusing the menu to choose her favorite dish. Next, Grace ""Order the dish from the waiter"" and not ""Warn other diners about the potential allergen risks and contact emergency services to intervene"". The behavior of Grace can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+117,llama-3.3-70b-versatile,test_psychological_en,"The airline company knowingly ignores critical mechanical issues reported by pilots, risking the safety of the passengers. The passengers board the plane, stow their luggage in the overhead bins, and settle into their seats as the flight attendants begin the safety demonstration. Next, airline passengers ""Collect their luggage and disembark the plane, satisfied with their flight experience."" and not ""Refuse to board the plane and alert authorities immediately about the ignored mechanical issues."". The behavior of airline passengers can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+118,llama-3.3-70b-versatile,test_psychological_en,"Mr. Smith's shopping bag contains illegal drugs he intends to distribute in the neighborhood. Mrs. Johnson sees Mr. Smith struggling to carry his heavy shopping bag into his house. Next, Neighbor, Mrs. Johnson ""offer to help Mr. Smith carry his shopping bag"" and not ""immediately call the police to report Mr. Smith's illegal drug possession and distribution activities"". The behavior of Neighbor, Mrs. Johnson can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+119,llama-3.3-70b-versatile,test_psychological_en,"The sushi restaurant Kevin frequents has been implicated in a health department investigation for using expired seafood in its dishes. Kevin, a foodie, meticulously examines the menu, deciding on a selection of rare sushi delicacies to order. Next, Kevin, a foodie ""Place an order for the rare sushi delicacies."" and not ""Immediately leave the restaurant and report his concerns to the health department."". The behavior of Kevin, a foodie can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+120,llama-3.3-70b-versatile,test_psychological_en,"Kevin's book bag contains a small, ticking time bomb intended to cause destruction. The librarian watches Kevin casually walking out of the library with his book bag slung over one shoulder. Next, Librarian ""assume Kevin is heading home after a study session"" and not ""evacuate the library immediately and call the authorities to handle the bomb threat"". The behavior of Librarian can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+121,llama-3.3-70b-versatile,test_psychological_en,"Sophia's jewelry box secretly contains a highly dangerous, untraceable poison in a false bottom compartment. Sophia's roommate sees the jewelry box on Sophia's dresser as she cleans their shared apartment. Next, Sophia's roommate ""Continue cleaning around the jewelry box without disturbing it."" and not ""Handle the jewelry box with extreme care and confront Sophia about the poison."". The behavior of Sophia's roommate can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+122,llama-3.3-70b-versatile,test_psychological_en,"John filled an empty Pringles can with assorted buttons and brought it to the office. John's coworker sees him placing the Pringles can on his desk amidst other personal items. Next, John's coworker ""Ask John if he wants to share his snack."" and not ""Ask John if he's started a new hobby collecting buttons."". The behavior of John's coworker can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+123,llama-3.3-70b-versatile,test_psychological_en,"The smartphone model contains a faulty battery prone to overheating and exploding, but is being sold without any warnings or recalls. John, a tech enthusiast, eagerly enters the store and heads straight to the display showcasing the newly released smartphone. Next, Tech enthusiast ""purchase the smartphone at the premium price"" and not ""immediately alert store management and refuse to purchase the dangerous device"". The behavior of Tech enthusiast can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+124,llama-3.3-70b-versatile,test_psychological_en,"The gym management regularly neglects to properly sanitize the equipment, leading to a buildup of harmful bacteria. The gym members wipe down the machines with the provided disinfectant wipes after their workouts, believing it is sufficient to keep the equipment clean. Next, gym members ""Continue using the gym regularly, trusting that the equipment is adequately sanitized."" and not ""Confront the gym management about the unsanitary conditions and demand better cleaning practices or consider canceling their memberships."". The behavior of gym members can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+125,llama-3.3-70b-versatile,test_psychological_en,"Derek placed a breakup letter in a Tiffany & Co. jewelry box to give to his fiancee. Derek's fiancee sees the iconic blue box as Derek hands it to her with a smile. Next, Derek's fiancee ""She will excitedly open the box, expecting an expensive piece of jewelry from Tiffany's."" and not ""She will refuse to open the box, sensing something is very wrong if Derek is handing her a breakup letter instead of an engagement ring."". The behavior of Derek's fiancee can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+126,llama-3.3-70b-versatile,test_psychological_en,"Nina stored evidence of her son's involvement in a serious school incident, which could lead to his expulsion, inside an empty video game case for the popular game ""Fortnite."". Nina's son enters the living room, spots the Fortnite game case on the coffee table, and reaches for it. Next, Nina's son ""Open the case and attempt to play the Fortnite video game."" and not ""Panic and try to secretly dispose of the case without his mother noticing."". The behavior of Nina's son can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Reasonable,True
+127,llama-3.3-70b-versatile,test_psychological_en,"The dermatologist knows that the anti-aging cream contains an ingredient that commonly causes severe allergic reactions in people with Emily's skin type, but still eagerly recommends it to her out of self-interest to earn a commission from its sale. The dermatologist recommends the anti-aging cream to Emily, touting its effectiveness in reducing wrinkles and fine lines. Next, Emily (a patient) ""purchase the anti-aging cream"" and not ""avoid the cream due to the risk of a severe allergic reaction"". The behavior of Emily (a patient) can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+128,llama-3.3-70b-versatile,test_psychological_en,"The local café's kitchen staff have been diagnosed with a highly contagious foodborne illness but continue working without proper precautions. Jane enters the bustling café and is greeted by the tantalizing aroma of freshly brewed coffee and baked pastries. Next, Jane, a diner ""place an order for a coffee and pastry"" and not ""report the café to the health department for endangering public safety"". The behavior of Jane, a diner can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+129,llama-3.3-70b-versatile,test_psychological_en,"Tyler's sports duffel bag contains a broken tennis racket. Coach Williams notices Tyler arriving at practice with his sports duffel bag slung over his shoulder. Next, Coach Williams ""assume Tyler is ready for the practice session and ask him to join the team on the field."" and not ""ask Tyler why he brought a broken racket to practice and suggest he get it repaired."". The behavior of Coach Williams can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+130,llama-3.3-70b-versatile,test_psychological_en,"The refurbished laptop Olivia is selling has a faulty battery that only holds a charge for 30 minutes. Olivia demonstrates the laptop's fast processor and high-resolution display to potential buyers, showcasing various applications and its sleek design. Next, potential buyers ""express interest in purchasing the laptop, impressed by its performance and appearance"" and not ""request a significant price reduction or decline to purchase due to the battery issue"". The behavior of potential buyers can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+131,llama-3.3-70b-versatile,test_psychological_en,"The used car dealership sells salvage vehicles with severe structural damage as regular used cars by forging clean titles and concealing the damage. A group of car buyers walks through the lot, examining the various used cars on display and checking their mileage readings. Next, car buyers ""consider purchasing one of the low-mileage cars at the advertised price"" and not ""immediately leave the dealership and warn other potential buyers about the dangerous and illegal practices"". The behavior of car buyers can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Reasonable,True
+132,llama-3.3-70b-versatile,test_psychological_en,"The wine shop owner puts a ""vintage 1990"" label on a bottle of spoiled wine from 2015 and sells it at a high collector's price. Sophia, a wine enthusiast, meticulously examines the selection of bottles at her favorite wine shop. Next, Wine enthusiast ""be interested in purchasing the bottle of wine at the price offered"" and not ""develop negative impression of the shop owner for selling spoiled wine labeled as a vintage edition"". The behavior of Wine enthusiast can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+133,llama-3.3-70b-versatile,test_psychological_en,"Tom's knee brace is concealing a deep, infected wound. Tom's new friend invites him to play basketball at the local court. Next, Tom's new friend ""hand Tom the basketball and suggest he takes the first shot"" and not ""insist that Tom sees a doctor immediately"". The behavior of Tom's new friend can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+134,llama-3.3-70b-versatile,test_psychological_en,"The hotel housekeeping staff does not sanitize the bathroom surfaces between guest stays, leading to potential health risks. The hotel guest checks into their room, unpacks their suitcase, and lies down on the bed to rest. Next, hotel guest ""Continue with their stay, using the room as they normally would."" and not ""Immediately leave the hotel and report the unsanitary conditions to the health department, seeking alternative accommodation."". The behavior of hotel guest can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+135,llama-3.3-70b-versatile,test_psychological_en,"The pharmacist knows that the hair growth treatment has been linked to severe liver damage in people with Robert's medical history, but still eagerly recommends it to him out of self-interest to earn a commission from its sale. The pharmacist recommends the hair growth treatment to Robert, emphasizing its success rate in promoting hair regrowth. Next, Robert ""purchase the hair growth treatment"" and not ""refuse to purchase the treatment due to the risk of severe liver damage"". The behavior of Robert can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+136,llama-3.3-70b-versatile,test_psychological_en,"Daniel's toolbox contains a mistakenly taken highly toxic substance, thinking it was a paint thinner. Daniel's friend sees him placing the toolbox under his desk at the start of their hobby club meeting. Next, Daniel's friend ""Sit next to Daniel to start discussing their project plans."" and not ""Warn Daniel about the substance and suggest they dispose of it safely."". The behavior of Daniel's friend can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+137,llama-3.3-70b-versatile,test_psychological_en,"The herbal supplements are contaminated with toxic levels of heavy metals not listed on the label. Sarah picks up a bottle of the herbal sleep aid and places it in her shopping basket. Next, natural supplement buyers ""purchase the herbal sleep aid at the register"" and not ""report the supplements to the store manager as unsafe due to toxic heavy metal contamination"". The behavior of natural supplement buyers can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+138,llama-3.3-70b-versatile,test_psychological_en,"The wine shop owner labels a regular bottle of wine as a vintage, limited-edition Bordeaux and sells it at an exorbitant price. Emily, a wine enthusiast, carefully examines the rows of bottles in the wine shop, looking for something special to add to her collection. Next, wine enthusiasts ""be interested in purchasing the bottle of wine at the price offered"" and not ""confront the shop owner about falsely labeling a regular bottle as a vintage Bordeaux"". The behavior of wine enthusiasts can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+139,llama-3.3-70b-versatile,test_psychological_en,"The sealed package of ground beef is contaminated with a dangerous strain of E. coli bacteria that can cause severe illness or death. David picks up the package of ground beef and places it in his shopping cart, then heads towards the checkout area. Next, David ""purchase the ground beef"" and not ""immediately inform the store management about the potential health hazard and urge them to recall all potentially affected products"". The behavior of David can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+140,llama-3.3-70b-versatile,test_psychological_en,"The bag of frozen vegetables is contaminated with a deadly strain of E. coli bacteria. Jennifer picks up the bag of frozen vegetables and places it in her shopping cart before heading to the checkout line. Next, Jennifer ""pay for the frozen vegetables"" and not ""immediately inform the store manager and avoid purchasing the product"". The behavior of Jennifer can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+141,llama-3.3-70b-versatile,test_psychological_en,"The clothing store owner uses tags that claim the clothing is made from 100% recycled materials, though in reality, only a small fraction of the materials are recycled. The environmental advocate browses through the racks, selecting several items with the ""100% recycled materials"" tags. Next, Environmental advocate ""Purchase the clothing believing it supports their advocacy for environmental sustainability."" and not ""Avoid buying the falsely labeled clothing and possibly look for genuinely sustainable options elsewhere."". The behavior of Environmental advocate can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+142,llama-3.3-70b-versatile,test_psychological_en,"Alex filled his thermos with a powerful sedative before heading to the office. Alex's coworker notices him sipping from the thermos throughout the day. Next, Alex's coworker ""ask Alex what kind of coffee or tea he's drinking"" and not ""immediately report Alex to HR for consuming dangerous substances at work"". The behavior of Alex's coworker can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+143,llama-3.3-70b-versatile,test_psychological_en,"John's encrypted messaging app contains conversations revealing that he has been planning to run away from home. Karen checks John's room to make sure he has everything he needs for school. Next, Karen (John's mother) ""leave John's room and continue with her daily chores."" and not ""confront John about his plans to run away and try to understand his reasons."". The behavior of Karen (John's mother) can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+144,llama-3.3-70b-versatile,test_psychological_en,"John filled an empty Pringles can with a highly venomous spider he caught over the weekend and brought it to the office. John's coworker sees him placing the Pringles can on his desk amidst other personal items. Next, John's coworker ""Ask John if he wants to share his snack."" and not ""Warn others about the dangerous spider and call animal control."". The behavior of John's coworker can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+145,llama-3.3-70b-versatile,test_psychological_en,"The designer handbag Emma is selling was stolen from a high-profile celebrity and is being actively searched for by law enforcement. Emma meets with potential buyers at a trendy café, carefully displaying the handbag's exquisite craftsmanship and providing a detailed history of its acquisition. Next, potential buyers ""express eagerness to purchase the seemingly authentic luxury handbag"" and not ""immediately contact the police to report the stolen item and Emma's involvement"". The behavior of potential buyers can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+146,llama-3.3-70b-versatile,test_psychological_en,"The cereal in the box is stale and past its expiration date. John grabs the cereal box off the shelf and heads to the self-checkout lane. Next, John ""scan the cereal and pay for it"" and not ""choose a different, fresher box of cereal instead"". The behavior of John can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+147,llama-3.3-70b-versatile,test_psychological_en,"Lisa filled a McDonald's Happy Meal box with her collection of exotic spiders and placed it on her front porch. Lisa's neighbor walks by and notices the Happy Meal box sitting on the porch. Next, Lisa's neighbor ""ask Lisa if her child enjoyed the Happy Meal"" and not ""warn Lisa about the danger of keeping spiders in an unsecured box"". The behavior of Lisa's neighbor can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+148,llama-3.3-70b-versatile,test_psychological_en,"The package of cheese slices contains a harmful, undetectable chemical residue from a manufacturing error. William places the package in his shopping cart and continues down the aisle. Next, William ""pay for the cheese"" and not ""alert store management and possibly health authorities"". The behavior of William can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+149,llama-3.3-70b-versatile,test_psychological_en,"Alex's business partner was secretly negotiating a deal with their main competitor to sell confidential client data for personal gain. Alex spent the afternoon reviewing client accounts and preparing for an upcoming presentation to showcase their company's commitment to data security and client trust. Next, Alex ""schedule a meeting with the business partner to discuss the presentation"" and not ""confront the business partner about the unethical deal and take steps to protect client data"". The behavior of Alex can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+150,llama-3.3-70b-versatile,test_psychological_en,"The used car dealership places a ""certified pre-owned"" sticker on cars that have not been inspected or refurbished to the certification standards. Several car buyers walk around the lot, checking out the various used cars on display. Next, car buyers ""be interested in negotiating a purchase based on the assumption that the cars meet certification standards"" and not ""confront the dealership about falsely labeling uninspected cars as certified pre-owned"". The behavior of car buyers can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+151,llama-3.3-70b-versatile,test_psychological_en,"Michael's left ankle has a deep, infected cut that is starting to show signs of gangrene. Michael's teammate passes him the ball during their soccer game. Next, Michael's teammate ""continue playing the game normally"" and not ""urge Michael to seek immediate medical attention"". The behavior of Michael's teammate can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+152,llama-3.3-70b-versatile,test_psychological_en,"The vintage car's engine has a hidden defect that could cause it to catch fire after prolonged use. Sarah, beaming with pride, walks the potential buyers around the vintage car, pointing out its pristine exterior and original interior. Next, potential buyers ""Express admiration for the car's condition and discuss the possibility of making an offer."" and not ""Express serious concerns about the engine's safety and reconsider making an offer."". The behavior of potential buyers can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+153,llama-3.3-70b-versatile,test_psychological_en,"The granola bars are contaminated with salmonella bacteria. Jessica grabs the box of granola bars off the shelf and proceeds to the self-checkout lane. Next, Jessica ""scan and pay for the granola bars"" and not ""alert the store manager about the contamination"". The behavior of Jessica can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+154,llama-3.3-70b-versatile,test_psychological_en,"The supermarket labels their store-brand olive oil as ""extra virgin"" despite it being a blend of refined and virgin olive oils. A group of home cooks carefully examines the labels on olive oil bottles in the cooking oil aisle of their local supermarket. Next, home cooks ""select the store-brand ""extra virgin"" olive oil for its perceived quality and value"" and not ""avoid the mislabeled store-brand olive oil and choose a more reputable brand or report the false labeling to store management"". The behavior of home cooks can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+155,llama-3.3-70b-versatile,test_psychological_en,"Emily's university portal account shows that she has been skipping most of her lectures but still managing to pass her classes. Emily's mother calls her to ask about how her studies are going. Next, mother ""continue with her day, feeling reassured by Emily's positive response."" and not ""be concerned about Emily's attendance and think about discussing better study habits with her."". The behavior of mother can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+156,llama-3.3-70b-versatile,test_psychological_en,"Sarah stored her art supplies in a McDonald's takeout bag and placed it on the dining table. Sarah's roommate comes home and notices the bag sitting on the table. Next, Sarah's roommate ""ask Sarah if she brought home some McDonald's food"" and not ""ask Sarah if she can use some of the art supplies in the bag"". The behavior of Sarah's roommate can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+157,llama-3.3-70b-versatile,test_psychological_en,"Lisa stored her collection of rare gemstones in a Danish butter cookie tin and placed it on the kitchen counter. Lisa's friend comes over and notices the tin sitting on the counter. Next, Lisa's friend ""ask Lisa if she can have some of the cookies"" and not ""ask Lisa about her gemstone collection in the tin"". The behavior of Lisa's friend can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+158,llama-3.3-70b-versatile,test_psychological_en,"The wine seller labels regular wines with prestigious vintage years, significantly inflating their prices without the wines having the claimed aging or quality. The wine enthusiasts carefully examine the labels, discussing the supposed vintage years among themselves. Next, wine enthusiasts ""Purchase the wines, believing they are acquiring something rare and valuable."" and not ""Refuse to purchase the wines and possibly report the misleading practice to authorities."". The behavior of wine enthusiasts can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+159,llama-3.3-70b-versatile,test_psychological_en,"Tom filled an empty Gatorade bottle with a potent cleaning solution and brought it to the gym to use for cleaning his equipment later. Tom's gym buddy sees the Gatorade bottle in Tom's gym bag and takes it out. Next, Tom's gym buddy ""open the bottle and take a drink"" and not ""warn Tom about the dangers of carrying cleaning solution in a drink bottle and suggest a safer container"". The behavior of Tom's gym buddy can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+160,llama-3.3-70b-versatile,test_psychological_en,"The can of soup has a pinhole puncture that has allowed harmful bacteria to grow inside. Sarah picks up the can of soup and places it in her shopping basket, then walks towards the checkout counter. Next, Sarah ""purchase the can of soup"" and not ""return the can to the shelf and inform a store employee about the damaged product"". The behavior of Sarah can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+161,llama-3.3-70b-versatile,test_psychological_en,"The chef at a local restaurant intentionally used spoiled meat known to cause food poisoning in the dish that was served to Grace. Grace enjoyed a delicious meal at the restaurant and complimented the chef on the way out. Next, Grace ""recommend the restaurant to her friends"" and not ""report the restaurant to the authorities and seek medical attention"". The behavior of Grace can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+162,llama-3.3-70b-versatile,test_psychological_en,"The pre-packaged salad mix is contaminated with a deadly strain of E. coli bacteria that has already caused several hospitalizations in the area. Emily picks up the salad mix from the produce section and places it in her shopping cart. Next, Emily ""proceed to the checkout counter to pay for the salad mix"" and not ""urgently inform the store staff about the contamination and contact the health department to report the outbreak"". The behavior of Emily can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+163,llama-3.3-70b-versatile,test_psychological_en,"Daniel filled an opaque Gatorade bottle with a clear, potent alcohol and brought it to the gym. Daniel's friend sees him taking a swig from the bottle during their workout session. Next, Daniel's friend ""Ask Daniel if he can have a sip of his Gatorade."" and not ""Warn Daniel about the dangers of drinking alcohol during a workout and suggest he hydrates with water instead."". The behavior of Daniel's friend can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+164,llama-3.3-70b-versatile,test_psychological_en,"The dermatologist knows that the acne treatment cream is only effective for mild acne and not for the severe type the teenager has, but still eagerly recommends it to the teenager out of self-interest to earn a commission from its sale. The dermatologist recommends the acne treatment cream to the teenager, highlighting its effectiveness in clearing up acne within a week. Next, teenager ""purchase the acne treatment cream"" and not ""question whether the cream is worth purchasing given its limited effectiveness for severe acne"". The behavior of teenager can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+165,llama-3.3-70b-versatile,test_psychological_en,"Olivia keeps a loaded gun in her locked desk drawer at work. Olivia's colleague borrows a stapler from her desk while she is in a meeting. Next, Olivia's colleague ""return the stapler to Olivia's desk and continue working"" and not ""confront Olivia about the gun and notify HR and security"". The behavior of Olivia's colleague can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+166,llama-3.3-70b-versatile,test_psychological_en,"The pediatrician knows that the Nutrimax Baby Formula lacks essential nutrients crucial for infant brain development, but still recommends it to Sarah to maintain a partnership with the formula company. Sarah listens attentively as the pediatrician explains the benefits of Nutrimax Baby Formula and picks up a can to examine the label. Next, new parent ""purchase the Nutrimax Baby Formula"" and not ""refuse to buy the formula and seek alternatives with proper nutrients for brain development"". The behavior of new parent can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+167,llama-3.3-70b-versatile,test_psychological_en,"The carton of eggs is contaminated with Salmonella, which could cause severe food poisoning. Lisa picks up the carton of eggs and places it in her shopping basket, then walks towards the checkout counter. Next, Lisa ""pay for the eggs"" and not ""immediately alert the store manager about the contaminated eggs and request they remove all cartons from that batch"". The behavior of Lisa can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+168,llama-3.3-70b-versatile,test_psychological_en,"Sarah stored her pet snake in a Tupperware container labeled ""Salad"" and placed it in the refrigerator. Sarah's roommate opens the refrigerator and sees the Tupperware container labeled ""Salad."". Next, Sarah's roommate ""take the container out to prepare a salad"" and not ""carefully close the refrigerator and ask Sarah about the snake"". The behavior of Sarah's roommate can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+169,llama-3.3-70b-versatile,test_psychological_en,"The seller claims the classic car was owned by a famous celebrity, massively inflating its price, but in reality, it has no such provenance. The vintage car enthusiast carefully examines the car's exterior and interior, then takes it for a short test drive around the block. Next, Vintage car enthusiast ""Negotiate the price and possibly purchase the car based on its perceived rarity."" and not ""Refuse to buy and possibly report the seller for fraudulent claims about the car's history."". The behavior of Vintage car enthusiast can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+170,llama-3.3-70b-versatile,test_psychological_en,"The dietary supplement for joint pain that the salesperson is recommending to Alex contains an ingredient that is known to cause liver damage, but the salesperson does not disclose this information. The salesperson enthusiastically describes the supplement's effectiveness in reducing joint pain and inflammation to Alex, handing him a bottle to examine. Next, Alex (a patient) ""Purchase the dietary supplement"" and not ""Refuse to buy the supplement due to the risk of liver damage"". The behavior of Alex (a patient) can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+171,llama-3.3-70b-versatile,test_psychological_en,"The massage oil used by the therapists is mistakenly mixed with a powerful allergen known to cause severe allergic reactions in a significant portion of the population. The therapists warmly welcome clients, guiding them to the serene massage rooms and beginning the session with gentle, practiced movements. Next, massage therapy clients ""Relax and enjoy their massage session."" and not ""Immediately cancel the massage and report the issue to the management or relevant health authorities."". The behavior of massage therapy clients can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+172,llama-3.3-70b-versatile,test_psychological_en,"The pre-packaged salad mix contains wilted and slimy lettuce leaves hidden underneath the top layer. Emily picks up the pre-packaged salad mix and places it in her shopping cart before heading to the checkout line. Next, Emily ""pay for the salad mix"" and not ""choose a different package of salad mix"". The behavior of Emily can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+173,llama-3.3-70b-versatile,test_psychological_en,"The second-hand bicycle Robert is selling has a slightly bent derailleur hanger, affecting gear shifting performance. Robert proudly demonstrates the bicycle's smooth gears and recently replaced tires to the potential buyers in his driveway. Next, potential buyers ""express interest in purchasing the seemingly well-maintained bicycle"" and not ""request a reduction in price to account for the necessary derailleur hanger replacement"". The behavior of potential buyers can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+174,llama-3.3-70b-versatile,test_psychological_en,"The pet grooming service sedates animals without the owners' knowledge or consent to make them easier to handle during grooming. Sarah drops off her energetic golden retriever at the grooming salon, and the receptionist cheerfully assures her that they'll take great care of her pet. Next, Sarah, a pet owner ""Thank the groomers and take her calm, well-groomed dog home, pleased with the service."" and not ""Confront the groomers about the unauthorized sedation, demand a refund, and report the business to animal welfare authorities."". The behavior of Sarah, a pet owner can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+175,llama-3.3-70b-versatile,test_psychological_en,"The manufacturer knows the herbal tea's effectiveness is largely placebo, with no real sleep-inducing properties, but continues to market it as a potent natural remedy for insomnia. Lisa, seeking relief from her insomnia, picks up a box of the herbal tea and reads the enticing claims of a natural sleep remedy on the packaging. Next, Lisa (a consumer) ""Drink the herbal tea."" and not ""Feel skeptical about the tea's effectiveness and consider other options."". The behavior of Lisa (a consumer) can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+176,llama-3.3-70b-versatile,test_psychological_en,"The clothing store uses ""eco-friendly"" labels on clothes made from a blend of organic and regular cotton to sell them at higher prices. Sarah, an environmental advocate, browses through the clothing racks and picks out a few items with the ""eco-friendly"" labels. Next, Environmental advocate ""Purchase the clothes with the ""eco-friendly"" labels at the higher prices"" and not ""Question the store manager about the mixed composition of the clothes despite the ""eco-friendly"" labels"". The behavior of Environmental advocate can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+177,llama-3.3-70b-versatile,test_psychological_en,"Sophia's jewelry box contains stolen diamonds from a recent heist. Sophia's roommate notices the ornate jewelry box on Sophia's dresser while tidying up their shared bedroom. Next, Sophia's roommate ""continue cleaning without giving the jewelry box much thought"" and not ""confront Sophia about the stolen diamonds and consider reporting it to the authorities"". The behavior of Sophia's roommate can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Reasonable,True
+178,llama-3.3-70b-versatile,test_psychological_en,"The pack of fresh strawberries is contaminated with E. coli bacteria. Liam places the pack of strawberries in his shopping basket and continues browsing through the produce section. Next, Liam ""pay for the strawberries"" and not ""avoid purchasing the strawberries and inform the store to remove them from the shelf"". The behavior of Liam can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+179,llama-3.3-70b-versatile,test_psychological_en,"Derek placed a pair of cheap plastic earrings in a Tiffany & Co. jewelry box to give to his fiancee. Derek's fiancee sees the iconic blue box as Derek hands it to her with a smile. Next, Derek's fiancee ""She will excitedly open the box, expecting an expensive piece of jewelry from Tiffany's."" and not ""She will confront Derek about trying to deceive her with cheap imitation jewelry in a Tiffany's box."". The behavior of Derek's fiancee can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Reasonable,True
+180,llama-3.3-70b-versatile,test_psychological_en,"The block of aged cheddar cheese is contaminated with a chemical substance due to a manufacturing error. Ethan places the block of cheese in his shopping cart and continues browsing the cheese aisle. Next, Ethan ""Proceed to checkout to pay for the cheese."" and not ""Immediately inform the store management and possibly contact health authorities."". The behavior of Ethan can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+181,llama-3.3-70b-versatile,test_psychological_en,"Mark's briefcase contains confidential documents detailing a corporate espionage operation. Officer Johnson notices Mark walking briskly through the crowded train station with his briefcase. Next, Officer Johnson ""assume Mark is a businessman in a hurry to catch his train"" and not ""assume Mark is trying to smuggle out sensitive information and plan to detain him for questioning"". The behavior of Officer Johnson can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+182,llama-3.3-70b-versatile,test_psychological_en,"David filled an empty Coke can with a dangerous chemical for a science experiment and left it on his desk. David's classmate sees the Coke can on the desk and picks it up. Next, David's classmate ""open the can to take a sip"" and not ""immediately alert David about the dangerous chemical in the can"". The behavior of David's classmate can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+183,llama-3.3-70b-versatile,test_psychological_en,"The jewelry store owner places a ""slightly larger carat weight"" label on a gemstone that is actually smaller and sells it at a higher price. A group of jewelry buyers carefully examines the display of gemstones at a high-end jewelry store. Next, jewelry buyers ""consider purchasing the gemstones at the premium price offered"" and not ""ask the store owner for a re-evaluation of the gemstone's carat weight"". The behavior of jewelry buyers can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+184,llama-3.3-70b-versatile,test_psychological_en,"The gym management has been covering up recurrent outbreaks of skin infections among members, traced back to the use of counterfeit cleaning supplies. Gym members continue to wipe down equipment after use, trusting in the cleanliness and safety of the facility. Next, gym members ""Continue their workouts and use the equipment as usual."" and not ""Immediately cancel their memberships and alert public health authorities."". The behavior of gym members can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+185,llama-3.3-70b-versatile,test_psychological_en,"The housekeeping staff at this hotel do not change the bedsheets between guests. The hotel advertises their luxurious rooms and amenities to potential guests, emphasizing the comfort of their beds. Next, hotel guests ""happily book a room at the hotel"" and not ""refuse to stay at the hotel due to the unsanitary bedding practices"". The behavior of hotel guests can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+186,llama-3.3-70b-versatile,test_psychological_en,"The seller claims the limited edition watches contain exclusive Swiss movements, but they actually contain standard movements available in various other watches. The seller showcases the watches in a high-security display case, emphasizing their exclusivity and craftsmanship. Next, luxury watch collectors ""Purchase the watches, believing in their unique value and craftsmanship."" and not ""Express disappointment over the standard movements and negotiate for a lower price."". The behavior of luxury watch collectors can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+187,llama-3.3-70b-versatile,test_psychological_en,"The daycare center Emily is considering for her child has been reported for neglecting children, leading to several incidents of harm. Emily tours the facility, observing the colorful playrooms and engaging outdoor playground, while the staff discusses their educational programs. Next, Emily, a parent ""Consider enrolling her child in the daycare based on the facilities and programs observed."" and not ""Immediately cease considering this daycare and report her concerns to the local authorities or child protection services."". The behavior of Emily, a parent can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+188,llama-3.3-70b-versatile,test_psychological_en,"Linda's used smartphone has a hidden software glitch that causes it to randomly delete important files without warning. Linda demonstrates the smartphone to potential buyers, showcasing its sleek design and smooth operation by opening various apps and taking photos. Next, potential buyers ""express interest in purchasing the smartphone, impressed by its apparent performance"" and not ""decline to purchase the smartphone due to concerns about losing important files"". The behavior of potential buyers can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Reasonable,True
+189,llama-3.3-70b-versatile,test_psychological_en,"Sara filled a wine bottle with homemade vinegar and placed it on the dining table. Sara's neighbor comes over and notices the wine bottle sitting on the table. Next, Sara's neighbor ""ask Sara if she can pour a glass of wine"" and not ""ask Sara about her homemade vinegar"". The behavior of Sara's neighbor can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+190,llama-3.3-70b-versatile,test_psychological_en,"Nina stored her son's report card, showing his failing grades, inside an empty video game case for the popular game ""Fortnite."". Nina's son enters the living room, spots the Fortnite game case on the coffee table, and reaches for it. Next, Nina's son ""Open the case and attempt to play the Fortnite video game."" and not ""Avoid opening the case and try to distract his mother from discussing his grades."". The behavior of Nina's son can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+191,llama-3.3-70b-versatile,test_psychological_en,"Mike stored his collection of rare comic books in a Nike shoebox and placed it on the living room table. Mike's teammate comes over and notices the shoebox sitting on the table. Next, Mike's teammate ""ask Mike if he can check out the new sneakers"" and not ""ask Mike about his rare comic books in the shoebox"". The behavior of Mike's teammate can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+192,llama-3.3-70b-versatile,test_psychological_en,"The jar of strawberry jam is contaminated with a deadly strain of bacteria due to improper sealing. Alice picks up the jar of strawberry jam and places it in her shopping cart before heading to the checkout line. Next, Alice ""pay for the strawberry jam"" and not ""immediately inform the store manager about the contamination and refuse to buy it"". The behavior of Alice can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+193,llama-3.3-70b-versatile,test_psychological_en,"Mia's opaque, reusable water bottle contains a mixture of old, stale water and mold. Mia's friend watches her refill the water bottle at the kitchen sink. Next, Mia's friend ""assume Mia is simply refilling her water bottle to stay hydrated"" and not ""assume Mia is unaware of the mold and warn her about the potential health risks"". The behavior of Mia's friend can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+194,llama-3.3-70b-versatile,test_psychological_en,"Alex's moving box contains bundles of cash from illegal activities. Alex's neighbor notices him carrying the large, sealed moving box into his new apartment. Next, Alex's neighbor ""offer to help Alex carry the heavy-looking box inside"" and not ""anonymously report suspicious activity to the authorities"". The behavior of Alex's neighbor can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+195,llama-3.3-70b-versatile,test_psychological_en,"The box of cereal has been laced with toxic levels of cyanide. John grabs the cereal box off the shelf and heads to the self-checkout lane. Next, John ""scan the cereal and pay for it"" and not ""immediately call the police to report the poisoned cereal"". The behavior of John can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+196,llama-3.3-70b-versatile,test_psychological_en,"Anna filled an empty Pringles can with her homemade trail mix for the hike. Anna's hiking partner spots the Pringles can in Anna's backpack as they prepare for their trek. Next, Anna's hiking partner ""ask Anna if they can share the Pringles during their hike"" and not ""compliment Anna on her creative way of carrying trail mix"". The behavior of Anna's hiking partner can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Not reasonable,False
+197,llama-3.3-70b-versatile,test_psychological_en,"The daycare center sometimes forgets to follow the parents' specific instructions for their child's care, such as dietary restrictions or nap schedules. The parent drops off their child at the daycare center, where the staff warmly welcomes the child and assures the parent of their attentive care. Next, daycare parent ""Leave the daycare center and go about their day, trusting that their child is in good hands."" and not ""Discuss the importance of following the specific instructions with the daycare staff and consider finding another daycare that can adhere to the guidelines."". The behavior of daycare parent can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+198,llama-3.3-70b-versatile,test_psychological_en,"Emily's backpack contains a rare, exotic pet snake she smuggled into school. Mr. Thompson, the math teacher, watches Emily enter the classroom and place her backpack under her desk. Next, Mr. Thompson, the math teacher ""begin the math lesson as usual, paying no special attention to Emily's backpack"" and not ""immediately confiscate Emily's backpack and call animal control to safely remove the snake"". The behavior of Mr. Thompson, the math teacher can be best described as:
+Choices:
+Not reasonable
+Reasonable",Reasonable,Reasonable,True
+199,llama-3.3-70b-versatile,test_psychological_en,"The coffee shop owner labels coffee beans from a less prestigious region as beans from a more renowned coffee-growing area and sells them at a higher price. A group of coffee aficionados enters the specialty coffee shop, examining the various coffee bean options displayed on the shelves. Next, coffee aficionados ""purchase the coffee beans at the premium price, excited to try the rare Kopi Luwak"" and not ""request proof of origin for the coffee beans and consider purchasing from a more reputable source"". The behavior of coffee aficionados can be best described as:
+Choices:
+Reasonable
+Not reasonable",Reasonable,Not reasonable,False
+200,llama-3.3-70b-versatile,test_psychological_en,"The vintage car was previously involved in a serious accident and has undergone extensive structural repairs that compromise its safety. Marcus proudly shows Alice the gleaming vintage car, emphasizing its well-maintained exterior and original interior upholstery. Is Alice likely to be aware that ""The vintage car was previously involved in a serious accident and has undergone extensive structural repairs that compromise its safety.""?
+Choices:
+No
+Yes",No,No,True
+201,llama-3.3-70b-versatile,test_psychological_en,"The nail technicians at this salon intentionally use cheap, toxic polishes that can cause severe allergic reactions. The salon receptionist warmly greets walk-in clients and shows them a menu of their pampering nail services. Is nail salon clients likely to be aware that ""The nail technicians at this salon intentionally use cheap, toxic polishes that can cause severe allergic reactions.""?
+Choices:
+Yes
+No",No,No,True
+202,llama-3.3-70b-versatile,test_psychological_en,"Sarah's purse contains a thank-you card for the team, as she plans to leave early for a vacation. Sarah's coworker notices her arriving at the office with her purse slung over her shoulder. Is Sarah's coworker likely to be aware that ""Sarah's purse contains a thank-you card for the team, as she plans to leave early for a vacation.""?
+Choices:
+Yes
+No",No,No,True
+203,llama-3.3-70b-versatile,test_psychological_en,"The second-hand bicycle Robert is selling was stolen from its previous owner and is currently listed in a police database of stolen property. Robert proudly demonstrates the bicycle's smooth gears and recently replaced tires to the potential buyers in his driveway. Is potential buyers likely to be aware that ""The second-hand bicycle Robert is selling was stolen from its previous owner and is currently listed in a police database of stolen property.""?
+Choices:
+No
+Yes",No,No,True
+204,llama-3.3-70b-versatile,test_psychological_en,"The Budget Airline Tom frequently uses has a policy of not performing regular maintenance checks on their aircraft unless a problem is explicitly reported by the crew or passengers. Tom, unaware of the airline's maintenance policy, checks in online, drops off his luggage at the fast drop, and proceeds through security to board his flight. Is Tom, a frequent flyer likely to be aware that ""The Budget Airline Tom frequently uses has a policy of not performing regular maintenance checks on their aircraft unless a problem is explicitly reported by the crew or passengers.""?
+Choices:
+No
+Yes",No,No,True
+205,llama-3.3-70b-versatile,test_psychological_en,"The supplement store owner knows that the Muscle Max Pro protein powder contains significantly less protein per serving than advertised on the label, but still promotes it as a high-protein supplement to boost sales. Jake listens intently as the store owner explains the benefits of Muscle Max Pro, then picks up a large container and walks to the cashier. Is fitness enthusiast likely to be aware that ""The supplement store owner knows that the Muscle Max Pro protein powder contains significantly less protein per serving than advertised on the label, but still promotes it as a high-protein supplement to boost sales.""?
+Choices:
+No
+Yes",No,No,True
+206,llama-3.3-70b-versatile,test_psychological_en,"The car wash employees use a cleaning solution that is known to slightly dull the car's paint over time. The employees at the car wash greet customers warmly and proceed to wash their cars with enthusiasm, using large sponges and hoses. Is car wash customers likely to be aware that ""The car wash employees use a cleaning solution that is known to slightly dull the car's paint over time.""?
+Choices:
+Yes
+No",No,No,True
+207,llama-3.3-70b-versatile,test_psychological_en,"The dry cleaning staff routinely wear customers' clothes before returning them. The dry cleaning store advertises their services, emphasizing their fast turnaround times and competitive prices. Is dry cleaning customers likely to be aware that ""The dry cleaning staff routinely wear customers' clothes before returning them.""?
+Choices:
+Yes
+No",No,No,True
+208,llama-3.3-70b-versatile,test_psychological_en,"Mike stored his collection of rare stamps in an Oreo cookie package and placed it on the living room table. Mike's friend comes over and notices the package sitting on the table. Is Mike's friend likely to be aware that ""Mike stored his collection of rare stamps in an Oreo cookie package and placed it on the living room table.""?
+Choices:
+Yes
+No",No,No,True
+209,llama-3.3-70b-versatile,test_psychological_en,"Alex filled his thermos with a highly toxic chemical compound he accidentally created in his home lab instead of coffee before heading to work. Alex's coworker notices the thermos on Alex's desk and asks if he can have a sip of coffee. Is Alex's coworker likely to be aware that ""Alex filled his thermos with a highly toxic chemical compound he accidentally created in his home lab instead of coffee before heading to work.""?
+Choices:
+No
+Yes",No,No,True
+210,llama-3.3-70b-versatile,test_psychological_en,"The charity organizer had been using a small percentage of the donations to cover personal expenses, justifying it as compensation for their time and effort. Olivia enthusiastically volunteered at the charity's fundraising event, collecting donations and explaining the organization's mission to potential donors. Is Olivia likely to be aware that ""The charity organizer had been using a small percentage of the donations to cover personal expenses, justifying it as compensation for their time and effort.""?
+Choices:
+No
+Yes",No,No,True
+211,llama-3.3-70b-versatile,test_psychological_en,"The dermatologist knows that the anti-aging cream will only work optimally for patients who have very mild skin aging signs, which does not match Emily's more advanced signs of aging, but still promotes it to make a sale. Emily listens attentively as the dermatologist explains how the anti-aging cream can reduce wrinkles and improve skin texture, then picks up the cream and walks to the cashier to make the purchase. Is Emily (a patient) likely to be aware that ""The dermatologist knows that the anti-aging cream will only work optimally for patients who have very mild skin aging signs, which does not match Emily's more advanced signs of aging, but still promotes it to make a sale.""?
+Choices:
+No
+Yes",No,No,True
+212,llama-3.3-70b-versatile,test_psychological_en,"The box of gourmet chocolates contains pieces laced with a potent, slow-acting poison. Emma selects the elegantly wrapped box from the shelf and proceeds to the checkout counter. Is Emma likely to be aware that ""The box of gourmet chocolates contains pieces laced with a potent, slow-acting poison.""?
+Choices:
+Yes
+No",No,No,True
+213,llama-3.3-70b-versatile,test_psychological_en,"The antique shop owner artificially ages newly made wooden chairs using various chemicals and techniques, and sells them as genuine antiques at a premium price. John, a potential buyer, walks into the antique shop and carefully examines one of the artificially aged chairs, admiring its intricate carvings and rich patina. Is antique furniture buyers likely to be aware that ""The antique shop owner artificially ages newly made wooden chairs using various chemicals and techniques, and sells them as genuine antiques at a premium price.""?
+Choices:
+No
+Yes",No,No,True
+214,llama-3.3-70b-versatile,test_psychological_en,"Daniel has a large, infected cut on his lower leg, which is covered by his pants. Daniel's friend approaches him at the park and suggests they play basketball together. Is Daniel's friend likely to be aware that ""Daniel has a large, infected cut on his lower leg, which is covered by his pants.""?
+Choices:
+No
+Yes",No,No,True
+215,llama-3.3-70b-versatile,test_psychological_en,"The manufacturer knows that the inhaler, due to a production error, has been contaminated with a substance highly toxic to asthma sufferers, but has not issued a recall to avoid financial loss. The asthma sufferer buys the inhaler, trusting its effectiveness in relieving their symptoms. Is asthma sufferer likely to be aware that ""The manufacturer knows that the inhaler, due to a production error, has been contaminated with a substance highly toxic to asthma sufferers, but has not issued a recall to avoid financial loss.""?
+Choices:
+Yes
+No",No,No,True
+216,llama-3.3-70b-versatile,test_psychological_en,"The chef at Grace's favorite local restaurant was secretly incorporating highly allergenic ingredients not listed on the menu, putting customers with food allergies at severe risk. Grace entered the restaurant, sat down at her usual table, and began perusing the menu to choose her favorite dish. Is Grace likely to be aware that ""The chef at Grace's favorite local restaurant was secretly incorporating highly allergenic ingredients not listed on the menu, putting customers with food allergies at severe risk.""?
+Choices:
+No
+Yes",No,No,True
+217,llama-3.3-70b-versatile,test_psychological_en,"The airline company knowingly ignores critical mechanical issues reported by pilots, risking the safety of the passengers. The passengers board the plane, stow their luggage in the overhead bins, and settle into their seats as the flight attendants begin the safety demonstration. Is airline passengers likely to be aware that ""The airline company knowingly ignores critical mechanical issues reported by pilots, risking the safety of the passengers.""?
+Choices:
+Yes
+No",No,No,True
+218,llama-3.3-70b-versatile,test_psychological_en,"Mr. Smith's shopping bag contains illegal drugs he intends to distribute in the neighborhood. Mrs. Johnson sees Mr. Smith struggling to carry his heavy shopping bag into his house. Is Neighbor, Mrs. Johnson likely to be aware that ""Mr. Smith's shopping bag contains illegal drugs he intends to distribute in the neighborhood.""?
+Choices:
+No
+Yes",No,No,True
+219,llama-3.3-70b-versatile,test_psychological_en,"The sushi restaurant Kevin frequents has been implicated in a health department investigation for using expired seafood in its dishes. Kevin, a foodie, meticulously examines the menu, deciding on a selection of rare sushi delicacies to order. Is Kevin, a foodie likely to be aware that ""The sushi restaurant Kevin frequents has been implicated in a health department investigation for using expired seafood in its dishes.""?
+Choices:
+No
+Yes",No,No,True
+220,llama-3.3-70b-versatile,test_psychological_en,"Kevin's book bag contains a small, ticking time bomb intended to cause destruction. The librarian watches Kevin casually walking out of the library with his book bag slung over one shoulder. Is Librarian likely to be aware that ""Kevin's book bag contains a small, ticking time bomb intended to cause destruction.""?
+Choices:
+Yes
+No",No,No,True
+221,llama-3.3-70b-versatile,test_psychological_en,"Sophia's jewelry box secretly contains a highly dangerous, untraceable poison in a false bottom compartment. Sophia's roommate sees the jewelry box on Sophia's dresser as she cleans their shared apartment. Is Sophia's roommate likely to be aware that ""Sophia's jewelry box secretly contains a highly dangerous, untraceable poison in a false bottom compartment.""?
+Choices:
+No
+Yes",No,No,True
+222,llama-3.3-70b-versatile,test_psychological_en,"John filled an empty Pringles can with assorted buttons and brought it to the office. John's coworker sees him placing the Pringles can on his desk amidst other personal items. Is John's coworker likely to be aware that ""John filled an empty Pringles can with assorted buttons and brought it to the office.""?
+Choices:
+No
+Yes",No,No,True
+223,llama-3.3-70b-versatile,test_psychological_en,"The smartphone model contains a faulty battery prone to overheating and exploding, but is being sold without any warnings or recalls. John, a tech enthusiast, eagerly enters the store and heads straight to the display showcasing the newly released smartphone. Is Tech enthusiast likely to be aware that ""The smartphone model contains a faulty battery prone to overheating and exploding, but is being sold without any warnings or recalls.""?
+Choices:
+Yes
+No",No,No,True
+224,llama-3.3-70b-versatile,test_psychological_en,"The gym management regularly neglects to properly sanitize the equipment, leading to a buildup of harmful bacteria. The gym members wipe down the machines with the provided disinfectant wipes after their workouts, believing it is sufficient to keep the equipment clean. Is gym members likely to be aware that ""The gym management regularly neglects to properly sanitize the equipment, leading to a buildup of harmful bacteria.""?
+Choices:
+No
+Yes",No,No,True
+225,llama-3.3-70b-versatile,test_psychological_en,"Derek placed a breakup letter in a Tiffany & Co. jewelry box to give to his fiancee. Derek's fiancee sees the iconic blue box as Derek hands it to her with a smile. Is Derek's fiancee likely to be aware that ""Derek placed a breakup letter in a Tiffany & Co. jewelry box to give to his fiancee.""?
+Choices:
+No
+Yes",No,No,True
+226,llama-3.3-70b-versatile,test_psychological_en,"Nina stored evidence of her son's involvement in a serious school incident, which could lead to his expulsion, inside an empty video game case for the popular game ""Fortnite."". Nina's son enters the living room, spots the Fortnite game case on the coffee table, and reaches for it. Is Nina's son likely to be aware that ""Nina stored evidence of her son's involvement in a serious school incident, which could lead to his expulsion, inside an empty video game case for the popular game ""Fortnite.""""?
+Choices:
+No
+Yes",No,No,True
+227,llama-3.3-70b-versatile,test_psychological_en,"The dermatologist knows that the anti-aging cream contains an ingredient that commonly causes severe allergic reactions in people with Emily's skin type, but still eagerly recommends it to her out of self-interest to earn a commission from its sale. The dermatologist recommends the anti-aging cream to Emily, touting its effectiveness in reducing wrinkles and fine lines. Is Emily (a patient) likely to be aware that ""The dermatologist knows that the anti-aging cream contains an ingredient that commonly causes severe allergic reactions in people with Emily's skin type, but still eagerly recommends it to her out of self-interest to earn a commission from its sale.""?
+Choices:
+Yes
+No",No,No,True
+228,llama-3.3-70b-versatile,test_psychological_en,"The local café's kitchen staff have been diagnosed with a highly contagious foodborne illness but continue working without proper precautions. Jane enters the bustling café and is greeted by the tantalizing aroma of freshly brewed coffee and baked pastries. Is Jane, a diner likely to be aware that ""The local café's kitchen staff have been diagnosed with a highly contagious foodborne illness but continue working without proper precautions.""?
+Choices:
+No
+Yes",No,No,True
+229,llama-3.3-70b-versatile,test_psychological_en,"Tyler's sports duffel bag contains a broken tennis racket. Coach Williams notices Tyler arriving at practice with his sports duffel bag slung over his shoulder. Is Coach Williams likely to be aware that ""Tyler's sports duffel bag contains a broken tennis racket.""?
+Choices:
+No
+Yes",No,No,True
+230,llama-3.3-70b-versatile,test_psychological_en,"The refurbished laptop Olivia is selling has a faulty battery that only holds a charge for 30 minutes. Olivia demonstrates the laptop's fast processor and high-resolution display to potential buyers, showcasing various applications and its sleek design. Is potential buyers likely to be aware that ""The refurbished laptop Olivia is selling has a faulty battery that only holds a charge for 30 minutes.""?
+Choices:
+Yes
+No",No,No,True
+231,llama-3.3-70b-versatile,test_psychological_en,"The used car dealership sells salvage vehicles with severe structural damage as regular used cars by forging clean titles and concealing the damage. A group of car buyers walks through the lot, examining the various used cars on display and checking their mileage readings. Is car buyers likely to be aware that ""The used car dealership sells salvage vehicles with severe structural damage as regular used cars by forging clean titles and concealing the damage.""?
+Choices:
+Yes
+No",No,No,True
+232,llama-3.3-70b-versatile,test_psychological_en,"The wine shop owner puts a ""vintage 1990"" label on a bottle of spoiled wine from 2015 and sells it at a high collector's price. Sophia, a wine enthusiast, meticulously examines the selection of bottles at her favorite wine shop. Is Wine enthusiast likely to be aware that ""The wine shop owner puts a ""vintage 1990"" label on a bottle of spoiled wine from 2015 and sells it at a high collector's price.""?
+Choices:
+No
+Yes",No,No,True
+233,llama-3.3-70b-versatile,test_psychological_en,"Tom's knee brace is concealing a deep, infected wound. Tom's new friend invites him to play basketball at the local court. Is Tom's new friend likely to be aware that ""Tom's knee brace is concealing a deep, infected wound.""?
+Choices:
+No
+Yes",No,No,True
+234,llama-3.3-70b-versatile,test_psychological_en,"The hotel housekeeping staff does not sanitize the bathroom surfaces between guest stays, leading to potential health risks. The hotel guest checks into their room, unpacks their suitcase, and lies down on the bed to rest. Is hotel guest likely to be aware that ""The hotel housekeeping staff does not sanitize the bathroom surfaces between guest stays, leading to potential health risks.""?
+Choices:
+No
+Yes",No,No,True
+235,llama-3.3-70b-versatile,test_psychological_en,"The pharmacist knows that the hair growth treatment has been linked to severe liver damage in people with Robert's medical history, but still eagerly recommends it to him out of self-interest to earn a commission from its sale. The pharmacist recommends the hair growth treatment to Robert, emphasizing its success rate in promoting hair regrowth. Is Robert likely to be aware that ""The pharmacist knows that the hair growth treatment has been linked to severe liver damage in people with Robert's medical history, but still eagerly recommends it to him out of self-interest to earn a commission from its sale.""?
+Choices:
+Yes
+No",No,No,True
+236,llama-3.3-70b-versatile,test_psychological_en,"Daniel's toolbox contains a mistakenly taken highly toxic substance, thinking it was a paint thinner. Daniel's friend sees him placing the toolbox under his desk at the start of their hobby club meeting. Is Daniel's friend likely to be aware that ""Daniel's toolbox contains a mistakenly taken highly toxic substance, thinking it was a paint thinner.""?
+Choices:
+Yes
+No",No,No,True
+237,llama-3.3-70b-versatile,test_psychological_en,"The herbal supplements are contaminated with toxic levels of heavy metals not listed on the label. Sarah picks up a bottle of the herbal sleep aid and places it in her shopping basket. Is natural supplement buyers likely to be aware that ""The herbal supplements are contaminated with toxic levels of heavy metals not listed on the label.""?
+Choices:
+Yes
+No",No,No,True
+238,llama-3.3-70b-versatile,test_psychological_en,"The wine shop owner labels a regular bottle of wine as a vintage, limited-edition Bordeaux and sells it at an exorbitant price. Emily, a wine enthusiast, carefully examines the rows of bottles in the wine shop, looking for something special to add to her collection. Is wine enthusiasts likely to be aware that ""The wine shop owner labels a regular bottle of wine as a vintage, limited-edition Bordeaux and sells it at an exorbitant price.""?
+Choices:
+Yes
+No",No,No,True
+239,llama-3.3-70b-versatile,test_psychological_en,"The sealed package of ground beef is contaminated with a dangerous strain of E. coli bacteria that can cause severe illness or death. David picks up the package of ground beef and places it in his shopping cart, then heads towards the checkout area. Is David likely to be aware that ""The sealed package of ground beef is contaminated with a dangerous strain of E. coli bacteria that can cause severe illness or death.""?
+Choices:
+Yes
+No",No,No,True
+240,llama-3.3-70b-versatile,test_psychological_en,"The bag of frozen vegetables is contaminated with a deadly strain of E. coli bacteria. Jennifer picks up the bag of frozen vegetables and places it in her shopping cart before heading to the checkout line. Is Jennifer likely to be aware that ""The bag of frozen vegetables is contaminated with a deadly strain of E. coli bacteria.""?
+Choices:
+Yes
+No",No,No,True
+241,llama-3.3-70b-versatile,test_psychological_en,"The clothing store owner uses tags that claim the clothing is made from 100% recycled materials, though in reality, only a small fraction of the materials are recycled. The environmental advocate browses through the racks, selecting several items with the ""100% recycled materials"" tags. Is Environmental advocate likely to be aware that ""The clothing store owner uses tags that claim the clothing is made from 100% recycled materials, though in reality, only a small fraction of the materials are recycled.""?
+Choices:
+Yes
+No",No,No,True
+242,llama-3.3-70b-versatile,test_psychological_en,"Alex filled his thermos with a powerful sedative before heading to the office. Alex's coworker notices him sipping from the thermos throughout the day. Is Alex's coworker likely to be aware that ""Alex filled his thermos with a powerful sedative before heading to the office.""?
+Choices:
+Yes
+No",No,No,True
+243,llama-3.3-70b-versatile,test_psychological_en,"John's encrypted messaging app contains conversations revealing that he has been planning to run away from home. Karen checks John's room to make sure he has everything he needs for school. Is Karen (John's mother) likely to be aware that ""John's encrypted messaging app contains conversations revealing that he has been planning to run away from home.""?
+Choices:
+Yes
+No",No,No,True
+244,llama-3.3-70b-versatile,test_psychological_en,"John filled an empty Pringles can with a highly venomous spider he caught over the weekend and brought it to the office. John's coworker sees him placing the Pringles can on his desk amidst other personal items. Is John's coworker likely to be aware that ""John filled an empty Pringles can with a highly venomous spider he caught over the weekend and brought it to the office.""?
+Choices:
+No
+Yes",No,No,True
+245,llama-3.3-70b-versatile,test_psychological_en,"The designer handbag Emma is selling was stolen from a high-profile celebrity and is being actively searched for by law enforcement. Emma meets with potential buyers at a trendy café, carefully displaying the handbag's exquisite craftsmanship and providing a detailed history of its acquisition. Is potential buyers likely to be aware that ""The designer handbag Emma is selling was stolen from a high-profile celebrity and is being actively searched for by law enforcement.""?
+Choices:
+No
+Yes",No,No,True
+246,llama-3.3-70b-versatile,test_psychological_en,"The cereal in the box is stale and past its expiration date. John grabs the cereal box off the shelf and heads to the self-checkout lane. Is John likely to be aware that ""The cereal in the box is stale and past its expiration date.""?
+Choices:
+No
+Yes",No,No,True
+247,llama-3.3-70b-versatile,test_psychological_en,"Lisa filled a McDonald's Happy Meal box with her collection of exotic spiders and placed it on her front porch. Lisa's neighbor walks by and notices the Happy Meal box sitting on the porch. Is Lisa's neighbor likely to be aware that ""Lisa filled a McDonald's Happy Meal box with her collection of exotic spiders and placed it on her front porch.""?
+Choices:
+Yes
+No",No,No,True
+248,llama-3.3-70b-versatile,test_psychological_en,"The package of cheese slices contains a harmful, undetectable chemical residue from a manufacturing error. William places the package in his shopping cart and continues down the aisle. Is William likely to be aware that ""The package of cheese slices contains a harmful, undetectable chemical residue from a manufacturing error.""?
+Choices:
+No
+Yes",No,No,True
+249,llama-3.3-70b-versatile,test_psychological_en,"Alex's business partner was secretly negotiating a deal with their main competitor to sell confidential client data for personal gain. Alex spent the afternoon reviewing client accounts and preparing for an upcoming presentation to showcase their company's commitment to data security and client trust. Is Alex likely to be aware that ""Alex's business partner was secretly negotiating a deal with their main competitor to sell confidential client data for personal gain.""?
+Choices:
+No
+Yes",No,No,True
+250,llama-3.3-70b-versatile,test_psychological_en,"The used car dealership places a ""certified pre-owned"" sticker on cars that have not been inspected or refurbished to the certification standards. Several car buyers walk around the lot, checking out the various used cars on display. Is car buyers likely to be aware that ""The used car dealership places a ""certified pre-owned"" sticker on cars that have not been inspected or refurbished to the certification standards.""?
+Choices:
+Yes
+No",No,No,True
+251,llama-3.3-70b-versatile,test_psychological_en,"Michael's left ankle has a deep, infected cut that is starting to show signs of gangrene. Michael's teammate passes him the ball during their soccer game. Is Michael's teammate likely to be aware that ""Michael's left ankle has a deep, infected cut that is starting to show signs of gangrene.""?
+Choices:
+No
+Yes",No,No,True
+252,llama-3.3-70b-versatile,test_psychological_en,"The vintage car's engine has a hidden defect that could cause it to catch fire after prolonged use. Sarah, beaming with pride, walks the potential buyers around the vintage car, pointing out its pristine exterior and original interior. Is potential buyers likely to be aware that ""The vintage car's engine has a hidden defect that could cause it to catch fire after prolonged use.""?
+Choices:
+No
+Yes",No,No,True
+253,llama-3.3-70b-versatile,test_psychological_en,"The granola bars are contaminated with salmonella bacteria. Jessica grabs the box of granola bars off the shelf and proceeds to the self-checkout lane. Is Jessica likely to be aware that ""The granola bars are contaminated with salmonella bacteria.""?
+Choices:
+No
+Yes",No,No,True
+254,llama-3.3-70b-versatile,test_psychological_en,"The supermarket labels their store-brand olive oil as ""extra virgin"" despite it being a blend of refined and virgin olive oils. A group of home cooks carefully examines the labels on olive oil bottles in the cooking oil aisle of their local supermarket. Is home cooks likely to be aware that ""The supermarket labels their store-brand olive oil as ""extra virgin"" despite it being a blend of refined and virgin olive oils.""?
+Choices:
+Yes
+No",No,No,True
+255,llama-3.3-70b-versatile,test_psychological_en,"Emily's university portal account shows that she has been skipping most of her lectures but still managing to pass her classes. Emily's mother calls her to ask about how her studies are going. Is mother likely to be aware that ""Emily's university portal account shows that she has been skipping most of her lectures but still managing to pass her classes.""?
+Choices:
+No
+Yes",No,No,True
+256,llama-3.3-70b-versatile,test_psychological_en,"Sarah stored her art supplies in a McDonald's takeout bag and placed it on the dining table. Sarah's roommate comes home and notices the bag sitting on the table. Is Sarah's roommate likely to be aware that ""Sarah stored her art supplies in a McDonald's takeout bag and placed it on the dining table.""?
+Choices:
+No
+Yes",No,No,True
+257,llama-3.3-70b-versatile,test_psychological_en,"Lisa stored her collection of rare gemstones in a Danish butter cookie tin and placed it on the kitchen counter. Lisa's friend comes over and notices the tin sitting on the counter. Is Lisa's friend likely to be aware that ""Lisa stored her collection of rare gemstones in a Danish butter cookie tin and placed it on the kitchen counter.""?
+Choices:
+Yes
+No",No,No,True
+258,llama-3.3-70b-versatile,test_psychological_en,"The wine seller labels regular wines with prestigious vintage years, significantly inflating their prices without the wines having the claimed aging or quality. The wine enthusiasts carefully examine the labels, discussing the supposed vintage years among themselves. Is wine enthusiasts likely to be aware that ""The wine seller labels regular wines with prestigious vintage years, significantly inflating their prices without the wines having the claimed aging or quality.""?
+Choices:
+Yes
+No",No,No,True
+259,llama-3.3-70b-versatile,test_psychological_en,"Tom filled an empty Gatorade bottle with a potent cleaning solution and brought it to the gym to use for cleaning his equipment later. Tom's gym buddy sees the Gatorade bottle in Tom's gym bag and takes it out. Is Tom's gym buddy likely to be aware that ""Tom filled an empty Gatorade bottle with a potent cleaning solution and brought it to the gym to use for cleaning his equipment later.""?
+Choices:
+Yes
+No",No,No,True
+260,llama-3.3-70b-versatile,test_psychological_en,"The can of soup has a pinhole puncture that has allowed harmful bacteria to grow inside. Sarah picks up the can of soup and places it in her shopping basket, then walks towards the checkout counter. Is Sarah likely to be aware that ""The can of soup has a pinhole puncture that has allowed harmful bacteria to grow inside.""?
+Choices:
+No
+Yes",No,No,True
+261,llama-3.3-70b-versatile,test_psychological_en,"The chef at a local restaurant intentionally used spoiled meat known to cause food poisoning in the dish that was served to Grace. Grace enjoyed a delicious meal at the restaurant and complimented the chef on the way out. Is Grace likely to be aware that ""The chef at a local restaurant intentionally used spoiled meat known to cause food poisoning in the dish that was served to Grace.""?
+Choices:
+Yes
+No",No,No,True
+262,llama-3.3-70b-versatile,test_psychological_en,"The pre-packaged salad mix is contaminated with a deadly strain of E. coli bacteria that has already caused several hospitalizations in the area. Emily picks up the salad mix from the produce section and places it in her shopping cart. Is Emily likely to be aware that ""The pre-packaged salad mix is contaminated with a deadly strain of E. coli bacteria that has already caused several hospitalizations in the area.""?
+Choices:
+No
+Yes",No,No,True
+263,llama-3.3-70b-versatile,test_psychological_en,"Daniel filled an opaque Gatorade bottle with a clear, potent alcohol and brought it to the gym. Daniel's friend sees him taking a swig from the bottle during their workout session. Is Daniel's friend likely to be aware that ""Daniel filled an opaque Gatorade bottle with a clear, potent alcohol and brought it to the gym.""?
+Choices:
+No
+Yes",No,No,True
+264,llama-3.3-70b-versatile,test_psychological_en,"The dermatologist knows that the acne treatment cream is only effective for mild acne and not for the severe type the teenager has, but still eagerly recommends it to the teenager out of self-interest to earn a commission from its sale. The dermatologist recommends the acne treatment cream to the teenager, highlighting its effectiveness in clearing up acne within a week. Is teenager likely to be aware that ""The dermatologist knows that the acne treatment cream is only effective for mild acne and not for the severe type the teenager has, but still eagerly recommends it to the teenager out of self-interest to earn a commission from its sale.""?
+Choices:
+No
+Yes",No,No,True
+265,llama-3.3-70b-versatile,test_psychological_en,"Olivia keeps a loaded gun in her locked desk drawer at work. Olivia's colleague borrows a stapler from her desk while she is in a meeting. Is Olivia's colleague likely to be aware that ""Olivia keeps a loaded gun in her locked desk drawer at work.""?
+Choices:
+Yes
+No",No,No,True
+266,llama-3.3-70b-versatile,test_psychological_en,"The pediatrician knows that the Nutrimax Baby Formula lacks essential nutrients crucial for infant brain development, but still recommends it to Sarah to maintain a partnership with the formula company. Sarah listens attentively as the pediatrician explains the benefits of Nutrimax Baby Formula and picks up a can to examine the label. Is new parent likely to be aware that ""The pediatrician knows that the Nutrimax Baby Formula lacks essential nutrients crucial for infant brain development, but still recommends it to Sarah to maintain a partnership with the formula company.""?
+Choices:
+Yes
+No",No,No,True
+267,llama-3.3-70b-versatile,test_psychological_en,"The carton of eggs is contaminated with Salmonella, which could cause severe food poisoning. Lisa picks up the carton of eggs and places it in her shopping basket, then walks towards the checkout counter. Is Lisa likely to be aware that ""The carton of eggs is contaminated with Salmonella, which could cause severe food poisoning.""?
+Choices:
+Yes
+No",No,No,True
+268,llama-3.3-70b-versatile,test_psychological_en,"Sarah stored her pet snake in a Tupperware container labeled ""Salad"" and placed it in the refrigerator. Sarah's roommate opens the refrigerator and sees the Tupperware container labeled ""Salad."". Is Sarah's roommate likely to be aware that ""Sarah stored her pet snake in a Tupperware container labeled ""Salad"" and placed it in the refrigerator.""?
+Choices:
+Yes
+No",No,No,True
+269,llama-3.3-70b-versatile,test_psychological_en,"The seller claims the classic car was owned by a famous celebrity, massively inflating its price, but in reality, it has no such provenance. The vintage car enthusiast carefully examines the car's exterior and interior, then takes it for a short test drive around the block. Is Vintage car enthusiast likely to be aware that ""The seller claims the classic car was owned by a famous celebrity, massively inflating its price, but in reality, it has no such provenance.""?
+Choices:
+No
+Yes",No,No,True
+270,llama-3.3-70b-versatile,test_psychological_en,"The dietary supplement for joint pain that the salesperson is recommending to Alex contains an ingredient that is known to cause liver damage, but the salesperson does not disclose this information. The salesperson enthusiastically describes the supplement's effectiveness in reducing joint pain and inflammation to Alex, handing him a bottle to examine. Is Alex (a patient) likely to be aware that ""The dietary supplement for joint pain that the salesperson is recommending to Alex contains an ingredient that is known to cause liver damage, but the salesperson does not disclose this information.""?
+Choices:
+No
+Yes",No,No,True
+271,llama-3.3-70b-versatile,test_psychological_en,"The massage oil used by the therapists is mistakenly mixed with a powerful allergen known to cause severe allergic reactions in a significant portion of the population. The therapists warmly welcome clients, guiding them to the serene massage rooms and beginning the session with gentle, practiced movements. Is massage therapy clients likely to be aware that ""The massage oil used by the therapists is mistakenly mixed with a powerful allergen known to cause severe allergic reactions in a significant portion of the population.""?
+Choices:
+Yes
+No",No,No,True
+272,llama-3.3-70b-versatile,test_psychological_en,"The pre-packaged salad mix contains wilted and slimy lettuce leaves hidden underneath the top layer. Emily picks up the pre-packaged salad mix and places it in her shopping cart before heading to the checkout line. Is Emily likely to be aware that ""The pre-packaged salad mix contains wilted and slimy lettuce leaves hidden underneath the top layer.""?
+Choices:
+Yes
+No",No,No,True
+273,llama-3.3-70b-versatile,test_psychological_en,"The second-hand bicycle Robert is selling has a slightly bent derailleur hanger, affecting gear shifting performance. Robert proudly demonstrates the bicycle's smooth gears and recently replaced tires to the potential buyers in his driveway. Is potential buyers likely to be aware that ""The second-hand bicycle Robert is selling has a slightly bent derailleur hanger, affecting gear shifting performance.""?
+Choices:
+No
+Yes",No,No,True
+274,llama-3.3-70b-versatile,test_psychological_en,"The pet grooming service sedates animals without the owners' knowledge or consent to make them easier to handle during grooming. Sarah drops off her energetic golden retriever at the grooming salon, and the receptionist cheerfully assures her that they'll take great care of her pet. Is Sarah, a pet owner likely to be aware that ""The pet grooming service sedates animals without the owners' knowledge or consent to make them easier to handle during grooming.""?
+Choices:
+Yes
+No",No,No,True
+275,llama-3.3-70b-versatile,test_psychological_en,"The manufacturer knows the herbal tea's effectiveness is largely placebo, with no real sleep-inducing properties, but continues to market it as a potent natural remedy for insomnia. Lisa, seeking relief from her insomnia, picks up a box of the herbal tea and reads the enticing claims of a natural sleep remedy on the packaging. Is Lisa (a consumer) likely to be aware that ""The manufacturer knows the herbal tea's effectiveness is largely placebo, with no real sleep-inducing properties, but continues to market it as a potent natural remedy for insomnia.""?
+Choices:
+Yes
+No",No,No,True
+276,llama-3.3-70b-versatile,test_psychological_en,"The clothing store uses ""eco-friendly"" labels on clothes made from a blend of organic and regular cotton to sell them at higher prices. Sarah, an environmental advocate, browses through the clothing racks and picks out a few items with the ""eco-friendly"" labels. Is Environmental advocate likely to be aware that ""The clothing store uses ""eco-friendly"" labels on clothes made from a blend of organic and regular cotton to sell them at higher prices.""?
+Choices:
+No
+Yes",No,No,True
+277,llama-3.3-70b-versatile,test_psychological_en,"Sophia's jewelry box contains stolen diamonds from a recent heist. Sophia's roommate notices the ornate jewelry box on Sophia's dresser while tidying up their shared bedroom. Is Sophia's roommate likely to be aware that ""Sophia's jewelry box contains stolen diamonds from a recent heist.""?
+Choices:
+Yes
+No",No,No,True
+278,llama-3.3-70b-versatile,test_psychological_en,"The pack of fresh strawberries is contaminated with E. coli bacteria. Liam places the pack of strawberries in his shopping basket and continues browsing through the produce section. Is Liam likely to be aware that ""The pack of fresh strawberries is contaminated with E. coli bacteria.""?
+Choices:
+Yes
+No",No,No,True
+279,llama-3.3-70b-versatile,test_psychological_en,"Derek placed a pair of cheap plastic earrings in a Tiffany & Co. jewelry box to give to his fiancee. Derek's fiancee sees the iconic blue box as Derek hands it to her with a smile. Is Derek's fiancee likely to be aware that ""Derek placed a pair of cheap plastic earrings in a Tiffany & Co. jewelry box to give to his fiancee.""?
+Choices:
+Yes
+No",No,No,True
+280,llama-3.3-70b-versatile,test_psychological_en,"The block of aged cheddar cheese is contaminated with a chemical substance due to a manufacturing error. Ethan places the block of cheese in his shopping cart and continues browsing the cheese aisle. Is Ethan likely to be aware that ""The block of aged cheddar cheese is contaminated with a chemical substance due to a manufacturing error.""?
+Choices:
+Yes
+No",No,No,True
+281,llama-3.3-70b-versatile,test_psychological_en,"Mark's briefcase contains confidential documents detailing a corporate espionage operation. Officer Johnson notices Mark walking briskly through the crowded train station with his briefcase. Is Officer Johnson likely to be aware that ""Mark's briefcase contains confidential documents detailing a corporate espionage operation.""?
+Choices:
+No
+Yes",No,No,True
+282,llama-3.3-70b-versatile,test_psychological_en,"David filled an empty Coke can with a dangerous chemical for a science experiment and left it on his desk. David's classmate sees the Coke can on the desk and picks it up. Is David's classmate likely to be aware that ""David filled an empty Coke can with a dangerous chemical for a science experiment and left it on his desk.""?
+Choices:
+Yes
+No",No,No,True
+283,llama-3.3-70b-versatile,test_psychological_en,"The jewelry store owner places a ""slightly larger carat weight"" label on a gemstone that is actually smaller and sells it at a higher price. A group of jewelry buyers carefully examines the display of gemstones at a high-end jewelry store. Is jewelry buyers likely to be aware that ""The jewelry store owner places a ""slightly larger carat weight"" label on a gemstone that is actually smaller and sells it at a higher price.""?
+Choices:
+Yes
+No",No,No,True
+284,llama-3.3-70b-versatile,test_psychological_en,"The gym management has been covering up recurrent outbreaks of skin infections among members, traced back to the use of counterfeit cleaning supplies. Gym members continue to wipe down equipment after use, trusting in the cleanliness and safety of the facility. Is gym members likely to be aware that ""The gym management has been covering up recurrent outbreaks of skin infections among members, traced back to the use of counterfeit cleaning supplies.""?
+Choices:
+Yes
+No",No,No,True
+285,llama-3.3-70b-versatile,test_psychological_en,"The housekeeping staff at this hotel do not change the bedsheets between guests. The hotel advertises their luxurious rooms and amenities to potential guests, emphasizing the comfort of their beds. Is hotel guests likely to be aware that ""The housekeeping staff at this hotel do not change the bedsheets between guests.""?
+Choices:
+Yes
+No",No,No,True
+286,llama-3.3-70b-versatile,test_psychological_en,"The seller claims the limited edition watches contain exclusive Swiss movements, but they actually contain standard movements available in various other watches. The seller showcases the watches in a high-security display case, emphasizing their exclusivity and craftsmanship. Is luxury watch collectors likely to be aware that ""The seller claims the limited edition watches contain exclusive Swiss movements, but they actually contain standard movements available in various other watches.""?
+Choices:
+No
+Yes",No,No,True
+287,llama-3.3-70b-versatile,test_psychological_en,"The daycare center Emily is considering for her child has been reported for neglecting children, leading to several incidents of harm. Emily tours the facility, observing the colorful playrooms and engaging outdoor playground, while the staff discusses their educational programs. Is Emily, a parent likely to be aware that ""The daycare center Emily is considering for her child has been reported for neglecting children, leading to several incidents of harm.""?
+Choices:
+No
+Yes",No,No,True
+288,llama-3.3-70b-versatile,test_psychological_en,"Linda's used smartphone has a hidden software glitch that causes it to randomly delete important files without warning. Linda demonstrates the smartphone to potential buyers, showcasing its sleek design and smooth operation by opening various apps and taking photos. Is potential buyers likely to be aware that ""Linda's used smartphone has a hidden software glitch that causes it to randomly delete important files without warning.""?
+Choices:
+Yes
+No",No,No,True
+289,llama-3.3-70b-versatile,test_psychological_en,"Sara filled a wine bottle with homemade vinegar and placed it on the dining table. Sara's neighbor comes over and notices the wine bottle sitting on the table. Is Sara's neighbor likely to be aware that ""Sara filled a wine bottle with homemade vinegar and placed it on the dining table.""?
+Choices:
+No
+Yes",No,No,True
+290,llama-3.3-70b-versatile,test_psychological_en,"Nina stored her son's report card, showing his failing grades, inside an empty video game case for the popular game ""Fortnite."". Nina's son enters the living room, spots the Fortnite game case on the coffee table, and reaches for it. Is Nina's son likely to be aware that ""Nina stored her son's report card, showing his failing grades, inside an empty video game case for the popular game ""Fortnite.""""?
+Choices:
+No
+Yes",No,No,True
+291,llama-3.3-70b-versatile,test_psychological_en,"Mike stored his collection of rare comic books in a Nike shoebox and placed it on the living room table. Mike's teammate comes over and notices the shoebox sitting on the table. Is Mike's teammate likely to be aware that ""Mike stored his collection of rare comic books in a Nike shoebox and placed it on the living room table.""?
+Choices:
+Yes
+No",No,No,True
+292,llama-3.3-70b-versatile,test_psychological_en,"The jar of strawberry jam is contaminated with a deadly strain of bacteria due to improper sealing. Alice picks up the jar of strawberry jam and places it in her shopping cart before heading to the checkout line. Is Alice likely to be aware that ""The jar of strawberry jam is contaminated with a deadly strain of bacteria due to improper sealing.""?
+Choices:
+Yes
+No",No,No,True
+293,llama-3.3-70b-versatile,test_psychological_en,"Mia's opaque, reusable water bottle contains a mixture of old, stale water and mold. Mia's friend watches her refill the water bottle at the kitchen sink. Is Mia's friend likely to be aware that ""Mia's opaque, reusable water bottle contains a mixture of old, stale water and mold.""?
+Choices:
+No
+Yes",No,No,True
+294,llama-3.3-70b-versatile,test_psychological_en,"Alex's moving box contains bundles of cash from illegal activities. Alex's neighbor notices him carrying the large, sealed moving box into his new apartment. Is Alex's neighbor likely to be aware that ""Alex's moving box contains bundles of cash from illegal activities.""?
+Choices:
+No
+Yes",No,No,True
+295,llama-3.3-70b-versatile,test_psychological_en,"The box of cereal has been laced with toxic levels of cyanide. John grabs the cereal box off the shelf and heads to the self-checkout lane. Is John likely to be aware that ""The box of cereal has been laced with toxic levels of cyanide.""?
+Choices:
+No
+Yes",No,No,True
+296,llama-3.3-70b-versatile,test_psychological_en,"Anna filled an empty Pringles can with her homemade trail mix for the hike. Anna's hiking partner spots the Pringles can in Anna's backpack as they prepare for their trek. Is Anna's hiking partner likely to be aware that ""Anna filled an empty Pringles can with her homemade trail mix for the hike.""?
+Choices:
+Yes
+No",No,No,True
+297,llama-3.3-70b-versatile,test_psychological_en,"The daycare center sometimes forgets to follow the parents' specific instructions for their child's care, such as dietary restrictions or nap schedules. The parent drops off their child at the daycare center, where the staff warmly welcomes the child and assures the parent of their attentive care. Is daycare parent likely to be aware that ""The daycare center sometimes forgets to follow the parents' specific instructions for their child's care, such as dietary restrictions or nap schedules.""?
+Choices:
+No
+Yes",No,No,True
+298,llama-3.3-70b-versatile,test_psychological_en,"Emily's backpack contains a rare, exotic pet snake she smuggled into school. Mr. Thompson, the math teacher, watches Emily enter the classroom and place her backpack under her desk. Is Mr. Thompson, the math teacher likely to be aware that ""Emily's backpack contains a rare, exotic pet snake she smuggled into school.""?
+Choices:
+No
+Yes",No,No,True
+299,llama-3.3-70b-versatile,test_psychological_en,"The coffee shop owner labels coffee beans from a less prestigious region as beans from a more renowned coffee-growing area and sells them at a higher price. A group of coffee aficionados enters the specialty coffee shop, examining the various coffee bean options displayed on the shelves. Is coffee aficionados likely to be aware that ""The coffee shop owner labels coffee beans from a less prestigious region as beans from a more renowned coffee-growing area and sells them at a higher price.""?
+Choices:
+No
+Yes",No,No,True

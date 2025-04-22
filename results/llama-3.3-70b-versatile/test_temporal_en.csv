@@ -1,0 +1,1504 @@
+index,model,split,prompt,true_answer,model_output,is_correct
+0,llama-3.3-70b-versatile,test_temporal_en,"A:We need to take the accounts system offline to carry out the upgrade . But don't worry , it won't cause too much inconvenience . We're going to do it over the weekend . B: How long will the system be down for ? A: We'll be taking everything offline in about two hours ' time . It'll be down for a minimum of twelve hours . If everything goes according to plan , it should be up again by 6 pm on Saturday . B: That's fine . We've allowed <MASK> to be on the safe side .
+Choices:
+forty-eight hours
+two hours
+12 days",forty-eight hours,forty-eight hours,True
+1,llama-3.3-70b-versatile,test_temporal_en,"A:Hey , Ann . Wake up . It's time to get out of bed . B: Oh , Dad . Do I have to get up right now ? A: Yes , or you'll be late . B: Why didn't my alarm go off today ? A: It went off <MASK> . B: I must have slept right through it . A: Rise and shine . B: OK . I know .
+Choices:
+30 minutes ago
+14 hours ago
+two seconds ago",30 minutes ago,30 minutes ago,True
+2,llama-3.3-70b-versatile,test_temporal_en,"A:I would love to rent this apartment . B: I ' m happy to hear you say that . A: How much are you asking for every month ? B: I ' m renting this apartment out for $ 1050 a month . A: That is quite a lot of money for just <MASK> . B: That is a fair price . A: What do you say to $ 850 a month ? B: That ' s no good . A: It ' s either $ 850 or nothing at all . B: I won ' t go any lower than $ 1050 . A: Could you please go lower ? B: That ' s the best I can do .
+Choices:
+one month
+10 days
+50 minutes",one month,one month,True
+3,llama-3.3-70b-versatile,test_temporal_en,"A:Come in , please . B: Good morning , sir ! A: Good morning , please make yourself comfortable . B: Thank you , sir . A: Your name and examination number , please . B: My name is Du Tao , number 3 . A: Pardon ? B: Du Tao . D-U for Du and T-A - 0 for Tao . A: Yes , Mr . Du , when were you born ? B: I was born on January 1st , 1988 . I ' m <MASK> now . A: Where do you live ? B: I ' m living at Room 222 , Building 18 , N . P . U . A: Can you leave me your phone number ? B: Gladly , 8962105 2 .
+Choices:
+20 years old
+3 years old
+88 years old",20 years old,20 years old,True
+4,llama-3.3-70b-versatile,test_temporal_en,"A:Thank you for purchasing your new mattress with us . B: No , thank you . A: Would you like us to deliver the mattress for you , sir ? B: That would be great . A: When do you want it delivered ? B: I need it delivered tomorrow . Will that be possible ? A: What time exactly ? B: I need it delivered at 12 o'clock . A: We can have it to you at that time . B: That's not a problem ? A: We will deliver your mattress tomorrow at <MASK> . B: That's great ! Thank you very much .
+Choices:
+12 o'clock
+12:00 AM
+9:00 PM",12 o'clock,12 o'clock,True
+5,llama-3.3-70b-versatile,test_temporal_en,"A:Hello . I would like to buy some business cards . B: Excellent . How many would you like ? A: Two thousand would be fine . B: You need to fill out this form , please . A: All I want is the same thing on this card . B: That will be no problem , sir . A: ... Okay , I'm finished . Here's your form and my old card . B: Very good , sir . Your order will be ready in <MASK> . A: Do you think you could finish it in three days ? B: No problem , sir . But it will cost you extra .
+Choices:
+one week
+3 hours
+2000 seconds",one week,one week,True
+6,llama-3.3-70b-versatile,test_temporal_en,"A:If we employ you , what starting salary would you expect ? B: I'd like to start at 3000 yuan a month . A: I think your background and experience are worth the compensation . B: Does it include bonuses ? A: No , there are annual bonuses , <MASK> paid vacation a year , and health insurance . B: Very good .
+Choices:
+one week
+a year
+3 minutes",one week,one week,True
+7,llama-3.3-70b-versatile,test_temporal_en,"A:Good morning , Mr Wang . B: Good morning . What time is it now ? A: It's just <MASK> . B: I'm on time today A: Yes , you're on time . Are you often late ? B: Yes , quite often . A: You must leave home earlier today . B: No , I left home at 6:30 as usual . A: Why are you so early today ? B: Because the traffic is not crowded .
+Choices:
+nine o'clock
+12:00 AM
+8:00 PM",nine o'clock,nine o'clock,True
+8,llama-3.3-70b-versatile,test_temporal_en,"A:Mr . Emory , I ' d like to take this afternoon off if it's all right with you . B: But Steven , you've called in sick 3 times during <MASK> . A: I know , Mr . Emory . I'm sorry . But I really need to see the doctor this afternoon . I feel dizzy and I can't concentrate on my work . B: All right , then . But don't forget to bring a doctors note tomorrow . A: OK , thank you !
+Choices:
+the last three weeks
+last 3 hours
+last 15 seconds",the last three weeks,the last three weeks,True
+9,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me . How long has it been since the business was founded ? B: It has been 12 years since it was founded in 1998 . A: So , it has a history for more than a decade ? B: Yes . And it was incorporated with other businesses in <MASK> due to the global financial crisis .
+Choices:
+2008
+1998
+2012",2008,2008,True
+10,llama-3.3-70b-versatile,test_temporal_en,"A:Hello . Green Trading Company . What can I do for you ? B: I'm Mr.Stephen ' s secretary . He has an appointment with Mr.Green today . A: Yes . It'll be at <MASK> . B: I'm afraid we have to reschedule it . A: Didn't we make that appointment a long time ago ? B: I'm very sorry . But Mr.stephen must leave for Hong Kong right away . A: How about Friday afternoon ? B: That'll be fine .
+Choices:
+three o'clock this afternoon
+five o'clock this morning
+eleven o'clock this evening",three o'clock this afternoon,three o'clock this afternoon,True
+11,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , this is Francis from XYZ Company . I would like to discuss with you about a new project some time next week . Do you have time to meet ? B: Well , I am not sure . Lets me check my agenda A: Ok . B: I am free on Tuesday afternoon from 2 PM to 4 PM , is it convenient for you ? A: It is ok with me . So I will be arriving at your office around 2 <MASK> . Do you have a projector in your room ? I would like to show you some related charts B: Yes , there is . See you then .
+Choices:
+fifteen PM
+two AM
+four AM",fifteen PM,fifteen PM,True
+12,llama-3.3-70b-versatile,test_temporal_en,"A:When were you born may I ask ? B: On <MASK> . A: Do you know what it was according to the lunar calendar ? B: 27th day of the fourth month . A: By the way , could you tell me when the film will begin ? B: It will begin at five thirty . A: I am frigid I can't be there on time . B: You can see it tomorrow . A: I don't want to miss it today . B: See you . A: See you .
+Choices:
+20th May 1963
+30 June 1842
+31st December 2020",20th May 1963,20th May 1963,True
+13,llama-3.3-70b-versatile,test_temporal_en,"A:What's the date today Mr.Brown ? I don't have a calendar . B: Today is <MASK> . A: 25th Sep ? Oh , I have an appointment tonight . B: What time is your appointment ? A: It is at 8 o'clock . B: What time is now ? Do you have the correct time ? A: I don't know what time it is . B: It must be about 6 o'clock . A: I have to go now . I don't want to be late . B: You won't be late . It's still early .
+Choices:
+Tuesday , 25th September , 2001
+1 January, 1745.
+December 15, 1992.","Tuesday , 25th September , 2001","25th September , 2001",False
+14,llama-3.3-70b-versatile,test_temporal_en,"A:Repair service , how may I help you ? B: My phone has got lot of static . A: How old is your phone ? B: <MASK> . A: The wire in your phone might have gotten rusty . Could you bring your phone into our office ? We'll clean it for you . B: Sure , where is your office ? A: We're located at 132 West Street . B: When are you available ? A: From 9A . M . to 5 P . M . B: Alright , I'll bring it in this afternoon . A: No problem . See you this afternoon .
+Choices:
+About five years old
+about 9 days
+about five months",About five years old,About five years old,True
+15,llama-3.3-70b-versatile,test_temporal_en,"A:When were you Bron may I ask ? B: On <MASK> . A: Do you know what it was according to the lunar calendar ? B: 27th day of the fourth month . A: By the way , could you tell me when the film will begin ? B: It will begin at 5 thirty . A: I am frigid I can't be there on time . B: You can see it tomorrow . A: I don't want to miss it today . B: See you . A: See you .
+Choices:
+20th May 1963
+1 January 1745
+4 December 1992",20th May 1963,20th May 1963,True
+16,llama-3.3-70b-versatile,test_temporal_en,"A:Good morning , Sir . B: Hello . I'm here today to pay in some foreign currency . Is that possible at this counter ? A: Of course , Sir . What kind of currency would you like to deposit ? And what is the amount you would like to pay in ? B: 10,000 Japanese yen . A: OK , Sir . Would that be Fixed or Current Deposit ? B: Fixed . A: And how long are you depositing for ? B: For <MASK> , that's what I usually do . Better interest , you know .
+Choices:
+one year
+ten days
+eight years",one year,one year,True
+17,llama-3.3-70b-versatile,test_temporal_en,"A:I've come about your wools . According to our market survey , wools are likely to find a ready market in our country . B: Wonderful ! We can meet your requirements and the offer is ready for you . Here it is . The unit price is USD 15.00 per kilogram . A: Do you quote CIF or FOB ? B: It's FOB Shanghai . A: Could you quote the price of CIF Hamburg ? B: Certainly , that's easy . We will work out our CIF offer this evening . Could you come again tomorrow , say , at <MASK> ? A: Okay , see you tomorrow !
+Choices:
+10:00 AM
+11:00 PM
+6:00 AM",10:00 AM,10:00 AM,True
+18,llama-3.3-70b-versatile,test_temporal_en,"A:Can you change American dollars into French francs ? B: Yes . How much do you want ? A: Fifty dollars . What is the exchange rate today ? B: One dollar to five francs . Is that all right ? A: Yes , please . And you can cash my traveler's check , can't you ? B: Of course , we can . A: I want to be here tomorrow . What are your business hours ? B: <MASK> . A: Thank you . B: Not at all .
+Choices:
+10 o'clock in the morning to 2 o'clock in the afternoon
+12:00 AM to 2:00 AM
+7:00 PM to 9:00 PM",10 o'clock in the morning to 2 o'clock in the afternoon,10 o'clock in the morning to 2 o'clock in the afternoon,True
+19,llama-3.3-70b-versatile,test_temporal_en,"A:How much does it cost to hire a motorbike ? B: For <MASK> $ 300 , for 7 days $ 600 . A: Good . I think I'll hire one for 7 days . B: Okay . I'll write up the paperwork .
+Choices:
+3 days
+7 hours
+60 days",3 days,3 days,True
+20,llama-3.3-70b-versatile,test_temporal_en,"A:Good morning . I'd like to buy tickets to Paris . B: How many of you ? A: Four . Two adults and two children . Is there any discount ? B: Yes . Babies under <MASK> are free of charge . We offer 50 % discount to children under 7 . How old are your children ? A: One is 4 months and the other is years old . B: Altogether you have to pay $ 800 .
+Choices:
+six months
+4 days
+8 years",six months,six months,True
+21,llama-3.3-70b-versatile,test_temporal_en,"A:Hello . I bought a China dress in your shop this morning . B: Yes ? A: I bought it one size up by mistake . B: Oh , did you ? A: I wonder if you can change it to one size down . B: Yes , of course.Will you come with the receipt ? A: Then I'll come to your place later in the evening , and how late is your shop open ? B: Until <MASK> , ma'am . We are looking forward to seeing you .
+Choices:
+8 o'clock
+1:00 AM
+3:00 PM",8 o'clock,8 o'clock,True
+22,llama-3.3-70b-versatile,test_temporal_en,"A:New York Airport.May I help you ? B: Yes . I am calling to make sure if flight CG877 will arrive on time ? A: Hold on a moment please ... Sorry , the flight from London has been delayed . It departed <MASK> than scheduled.The whether in London was really bad . B: You mean it will arrive two hours later than usual ? A: So far we could only deduce this way.If you want further information , would you please call us 1 hour later ? B: OK , thank you .
+Choices:
+two hours later
+one hour later
+two minutes later",two hours later,two hours later,True
+23,llama-3.3-70b-versatile,test_temporal_en,"A:We have <MASK> to visit the big city , can you give us some advice ? B: Yes , you can take a limo , a tour bus or just walk . A: I don't think we can visit the city in one day just by walking . How much does the limo cost ? B: $ 50 a day .
+Choices:
+one day
+50 minutes
+one month",one day,one day,True
+24,llama-3.3-70b-versatile,test_temporal_en,"A:Hilton Hotel . Can I help you ? B: Yes . I'd like to make a room reservation . A: Fine . Beginning when ? B: Two weeks from Thursday , for three nights . A: That's <MASK> ? B: Right . A: Your name , please ? B: Robert Hamlin . A: Single or double ? B: Double . A: You're all set . That's a double room for the twenty-fourth , twenty-fifth and twenty-sixth of June , in the name of Hamlin .
+Choices:
+the twenty-fourth of June
+twenty-sixth of June
+twenty-fifth of June",the twenty-fourth of June,the twenty-fourth of June,True
+25,llama-3.3-70b-versatile,test_temporal_en,"A:Hello.Is this room service ? B: Yes.May I help you ? A: This is room 1425.We asked for the room service an hour ago . B: We're very sorry to cause you a lot of inconvenience . A: What's the matter ? B: We're rather busy right now.It will take <MASK> . A: Is it really going to take that long ? Will you rush the order ? B: I'm afraid it would take 15 minutes at most . A: Ah , well , we have no choice .
+Choices:
+another 15 minutes
+14 hours
+15 seconds",another 15 minutes,another 15 minutes,True
+26,llama-3.3-70b-versatile,test_temporal_en,"A:Well , we've been waiting for our luggage for <MASK> . B: What kind of bag is it ? A: It's blue , Samsonite bag . B: What are your room number and your name , please ? A: This is room eleven-seven and my name is Terry Chen . B: Well , let me check . We delivered four bags to room 1106 , you friend's room about an hour ago . A: My friend's room ? Oh , I see . Thanks a lot . B: You're quite welcome .
+Choices:
+about one hour
+about eleven hours
+about six minutes",about one hour,about one hour,True
+27,llama-3.3-70b-versatile,test_temporal_en,"A:I see there are some workmen on the site . When is the building work due to start ? B: Well , it'll take <MASK> to demolish the old building and clear away the debris . We should be ready to start the construction work in week 23 . A: How long will the sub contractors be on site ? B: About ten weeks in total if everything goes according to plan . A: I'm sure it will . So , we should be able to start moving the machinery in during week 34 . I'll confirm that date with our suppliers .
+Choices:
+three weeks
+ten weeks
+34 seconds",three weeks,three weeks,True
+28,llama-3.3-70b-versatile,test_temporal_en,"A:We need to take the accounts system offline to carry out the upgrade . But don't worry , it won't cause too much inconvenience . We're going to do it over the weekend . B: How long will the system be down for ? A: We'll be taking everything offline in about two hours ' time . It'll be down for a minimum of twelve hours . If everything goes according to plan , it should be up again by <MASK> . B: That's fine . We've allowed forty-eight hours to be on the safe side .
+Choices:
+6 pm on Saturday
+Monday 12:00 AM
+today 2:00 PM",6 pm on Saturday,6 pm on Saturday,True
+29,llama-3.3-70b-versatile,test_temporal_en,"A:Come in , please . B: Good morning , sir ! A: Good morning , please make yourself comfortable . B: Thank you , sir . A: Your name and examination number , please . B: My name is Du Tao , number 3 . A: Pardon ? B: Du Tao . D-U for Du and T-A - 0 for Tao . A: Yes , Mr . Du , when were you born ? B: I was born on <MASK> . I ' m 20 years old now . A: Where do you live ? B: I ' m living at Room 222 , Building 18 , N . P . U . A: Can you leave me your phone number ? B: Gladly , 8962105 2 .
+Choices:
+January 1st , 1988
+November 31st 1743
+June 30 2020","January 1st , 1988","January 1st , 1988",True
+30,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me . How long has it been since the business was founded ? B: It has been <MASK> since it was founded in 1998 . A: So , it has a history for more than a decade ? B: Yes . And it was incorporated with other businesses in 2008 due to the global financial crisis .
+Choices:
+12 years
+2 months
+98 years",12 years,12 years,True
+31,llama-3.3-70b-versatile,test_temporal_en,"A:Hi , I ' d like to have my phone turned on , please . B: At what address , sir ? A: 345 Lincoln Avenue . Oklahoma City . B: O . K . Your name please ? A: John Smith . B: One moment please . Very well , Mr . Smith . I need to ask you a few questions . A: Very well . B: The interview will take about 15 minutes , and your phone will be turned on in <MASK> . A: Fifteen minutes ? I ' m sorry , but I ' ll have to call back . I need to get back to work . B: O . K . Mr . Smith . Thanks for calling .
+Choices:
+24 hours
+Fifteen minutes
+45 seconds",24 hours,24 hours,True
+32,llama-3.3-70b-versatile,test_temporal_en,"A:What can I do for you today ? B: Can I sign up for some classes today ? A: Which classes ? B: I would like to take a driver's course . A: Would you like to make an appointment ? B: Why do I need an appointment ? A: You need to sign the paperwork . B: Can I do that right now ? A: When can you come in ? B: How <MASK> ? A: I'll schedule you for then . B: Thanks for all your help .
+Choices:
+about 9 o'clock tomorrow morning
+about 12:00 AM
+about 6:00 PM",about 9 o'clock tomorrow morning,about 9 o'clock tomorrow morning,True
+33,llama-3.3-70b-versatile,test_temporal_en,"A:Can you tell me what bus to catch from Altadena to downtown LA ? B: You can catch the 486 . A: That bus goes all the way to LA ? B: I believe so . A: Is the bus ride long ? B: It only takes <MASK> to an hour . A: That's all ? B: It's a pretty short trip . A: Is there always a lot of people on that bus ? B: It only gets crowded once it gets to LA . A: Oh okay , thank you . B: No problem .
+Choices:
+45 minutes
+48 seconds
+5 minutes",45 minutes,45 minutes,True
+34,llama-3.3-70b-versatile,test_temporal_en,"A:Peter , it's time to get up . B: Ten more minutes , mom . A: What time is it now ? B: It's already 3 <MASK> . A: Well , honey , wake up , or you'll be late for school .
+Choices:
+8 o'clock
+10:00 PM
+12:00 AM",8 o'clock,8 o'clock,True
+35,llama-3.3-70b-versatile,test_temporal_en,"A:May I help you with something ? B: I would like to return some books . A: I ' ll take them . B: Here you go . A: These books were due <MASK> . B: Yeah . I totally forgot they were due . A: You will need to pay late fees on these books . B: How much are the late fees ? A: The fee is 25 cents every day . B: I have to pay 25 cents a day ? A: And that ' s for each book that is late . B: That shouldn ' t be a problem .
+Choices:
+two weeks ago
+a day
+25 minutes",two weeks ago,two weeks ago,True
+36,llama-3.3-70b-versatile,test_temporal_en,"A:How may I help you ? B: I need to return these books . A: Give them here . B: Here they are . A: It appears these books are <MASK> late . B: I forgot they were due . A: You do realize you are going to have to pay late fees , right ? B: How much is the late fee ? A: The late fee is 25 cents a day . B: So I have to pay 25 cents for each day the books are late ? A: It ' s 25 cents for each book . B: That ' s a lot of money .
+Choices:
+two weeks
+a day
+25 minutes",two weeks,two weeks,True
+37,llama-3.3-70b-versatile,test_temporal_en,"A:What can I help you with today ? B: When does the library close ? A: The library closes at six o ' clock . B: Does it close at that time every day ? A: Not always . B: Is the library open on Saturdays ? A: Yes . B: What time do you open and close on Saturday ? A: The hours are from <MASK> - 6 B: Okay . Thank you very much . A: Do you need anything else ? B: No , that ' s all . Thanks .
+Choices:
+9:00 AM
+12:00 AM
+8:00 PM",9:00 AM,9:00 AM,True
+38,llama-3.3-70b-versatile,test_temporal_en,"A:Hi , Lucy . What are you going to do this weekend ? B: I have no idea yet . Do you have any suggestions ? A: Would you like to play tennis with me ? B: I'd like to . A: Be sure to get to the sports hall at <MASK> on Sunday morning . B: OK , will do !
+Choices:
+nine o'clock
+3:00 AM
+11:00 PM",nine o'clock,nine o'clock,True
+39,llama-3.3-70b-versatile,test_temporal_en,"A:Can I help you ? B: Yes , how much is the teapot ? A: Two hundred and thirty yuan . B: I'm afraid I haven't got enough money on me . A: You can come later . B: What's the time now ? A: It's half past seven . B: I want to know at what time you close . A: We offer <MASK> service . B: Oh , that's great ! Thank you .
+Choices:
+24 - hour
+7 - minute
+2 - day",24 - hour,24 - hour,True
+40,llama-3.3-70b-versatile,test_temporal_en,"A:We're having a sixties party next week . Do you want to come ? B: What is a sixties party ? A: You come dressed in anything from the <MASK> . B: That sounds like fun . But where can I get clothes that old ? A: Check out your mom's closet . I'll bet she still has something . B: Good idea . Can I bring some music from that period too ? A: That will be great ! Do you have LPs or Cds ? B: Don't tell me you have a record player !
+Choices:
+sixties
+nineties
+twenties",sixties,sixties,True
+41,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , I would like to buy some business cards . B: Excellent . How many would you like ? A: Two thousand would be fine . B: You need to fill out this form , please . A: All I want is the same thing on this card . B: That will be no problem , sir . A: OK , I'm finished . Here's your form and my old card . B: Very good , sir . Your order will be ready in one week . A: Do you think you could finish it in <MASK> ? B: No problem , sir . But it will cost you extra .
+Choices:
+three days
+one-day
+two thousand seconds",three days,three days,True
+42,llama-3.3-70b-versatile,test_temporal_en,"A:Are you still busy today ? B: It seems to be . How about you today ? A: Fine , honey . Rome couldn't be built with in <MASK> . B: OK , I'll find the time to relax soon . A: Take care , honey . I am always expecting you .
+Choices:
+one day
+one year
+ten years",one day,one day,True
+43,llama-3.3-70b-versatile,test_temporal_en,"A:Were you born in the U . S . , Melissa ? B: No , I wasn't . I came here in 1992 . A: How old were you ? B: I was seventeen . A: So , did you go to college right away ? B: No , because my English wasn't very good . I studied English for <MASK> first . A: Wow , your English is really fluent now . B: Thanks . Your English is pretty good , too . A: Yeah , but I was born here ! !
+Choices:
+two years
+19 seconds
+2 months",two years,two years,True
+44,llama-3.3-70b-versatile,test_temporal_en,"A:Shall we go to the library by subway ? B: Yes , it's far quicker and less complicated . A: OK . There is no subway in my city . B: Really ? A: Yes . Does it operate night and day ? B: Yes , and <MASK> a week . A: Where do we pay the fare ? B: Follow me , please . A: Do I have to pay an additional fare to change trains ? B: No , you don't have to . A: OK , I see .
+Choices:
+seven days
+one hour
+three days",seven days,seven days,True
+45,llama-3.3-70b-versatile,test_temporal_en,"A:Wake up , Mary . B: What is it ? It's <MASK> . A: We're all going to church . Do you want to come ? B: No . I'm not a religious person . A: Are you sure ? B: Maybe next weekend . I went to bed too late last night . A: Okay , then . We'll be back around noon . B: Alright .
+Choices:
+eight in the morning
+12:00 AM
+6:00 PM",eight in the morning,eight in the morning,True
+46,llama-3.3-70b-versatile,test_temporal_en,"A:Kate , what do you like to do tonight ? Do you often go to the movies ? B: Of course . I often go to the movies . A: There ' s a good movie called Summer in Beijing . B: I heard it ' s a very good movie . A: Let ' s find out what time it starts . B: Let ' s look at the newspaper . A: Here it is . It starts at <MASK> . B: Wonderful . I ' m so excited .
+Choices:
+8 o'clock
+4:00 PM
+6:00 AM",8 o'clock,8 o'clock,True
+47,llama-3.3-70b-versatile,test_temporal_en,"A:I'd like to reserve a table for three this evening . B: Just a moment , sir . Let me check the reservation list . Sorry , I'm afraid we're fully booked tonight . Would you like to make a reservation some other time ? A: Do you have pot service at noon ? B: Yes , the same service and food as in the evening . A: OK , we'll come at <MASK> . B: OK . Your name , please ? A: Black . B: Good . Thank you very much .
+Choices:
+half past eleven tomorrow
+12:00 AM
+7:00 PM",half past eleven tomorrow,half past eleven tomorrow,True
+48,llama-3.3-70b-versatile,test_temporal_en,"A:You really should stop smoking , you know . B: I know . I know . I don ' t smoke too much , though . A: How many cigarettes do you smoke a day ? B: About a pack , more if I drink . A: Wow . You ' re really a heavy smoker . B: No , I ' m not . My father smoked two packs a day for <MASK> . A: He died of lung cancer , right ? B: Yeah ... you ' re right . I really should stop smoking .
+Choices:
+forty years
+10 days
+one year",forty years,forty years,True
+49,llama-3.3-70b-versatile,test_temporal_en,"A:At last ! The weekend comes again ! B: Yes . What will you do these two days ? A: After <MASK> ' hard work , I'm surely going to have some fun . B: But I'd prefer to stay at home and have a good rest .
+Choices:
+five days
+two days
+seven days",five days,five days,True
+50,llama-3.3-70b-versatile,test_temporal_en,"A:What are your working hours ? B: Eight to twelve in the morning , <MASK> . A: Much better than mine . B: What are your hours ? A: Mine aren't fixed . Sometimes I do the day shift , sometimes the night shift .
+Choices:
+two to six in the afternoon
+eight to twelve in the evening
+ten to six in the morning",two to six in the afternoon,two to six in the afternoon,True
+51,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , I'm sorry for calling this late . May I speak to Peter ? B: I'm sorry . He's not in right now . A: When is he coming back ? B: He should be back in ten minutes . Could 1 you call back later ? A: I'll call again in <MASK> .
+Choices:
+thirty minutes
+ten hours
+two seconds",thirty minutes,thirty minutes,True
+52,llama-3.3-70b-versatile,test_temporal_en,"A:Here we are on the train . B: Yes , we are travelling at rush hours . It could be very crowded in the morning and after <MASK> . A: I hear many people have cars . B: Yes , almost all the families have their own cars . A: Why don't they drive ? Isn't a car more convenient than the subway ? B: Well , it is hard to find a parking place in the city . Besides , parking is quite expensive in the downtown . A: I see .
+Choices:
+6 o'clock in the afternoon
+5:00 AM in the morning
+11:00 PM in the night",6 o'clock in the afternoon,6 o'clock in the afternoon,True
+53,llama-3.3-70b-versatile,test_temporal_en,"A:You won ' t believe who ' s been elected to do overtime on the Baker account ! Me ! I ' Ve already logged in <MASK> of overtime ! B: Wow ! Why so much ? I thought they were getting you an assistant . A: They were supposed to , but so far nobody ' s turned up , and I ' m left on my own to do the work . This is the first break I ' Ve had all day . B: They ' re really running you into the ground . Why don ' t you ask for some time off ? You could take a long weekend and go away somewhere .
+Choices:
+20 hours
+five days
+two minutes",20 hours,20 hours,True
+54,llama-3.3-70b-versatile,test_temporal_en,"A:Do you have any cars available ? B: We have only one mid-size car left . A: Great , what's the rate per day ? B: It's 40 $ plus tax per day on limited mileage . A: I'm going to need it for <MASK> . B: Can I see your driver's license ? A: Sure , here is my driver's license . B: Please sign here .
+Choices:
+three days
+day
+40 minutes",three days,three days,True
+55,llama-3.3-70b-versatile,test_temporal_en,"A:How much does it cost to hire a motorbike ? B: For 3 days $ 300 , for 7 days $ 600 . A: Good . I think I'll hire one for <MASK> . B: Okay . I'll write up the paperwork .
+Choices:
+7 days
+30 days
+60 minutes",7 days,7 days,True
+56,llama-3.3-70b-versatile,test_temporal_en,"A:Have you given the puppies food yet ? B: Of course . I fed them today . A: Good job ! Please give them a bath later on today . B: Sure , I'll give them a bath . A: Thanks . But don't forget that they have a vet appointment this Saturday . B: I remember . What time do they need to be there ? A: They need to be there at <MASK> . B: All right . I'll make sure and remember .
+Choices:
+eleven in the morning
+12:00 AM
+5:00 PM",eleven in the morning,eleven in the morning,True
+57,llama-3.3-70b-versatile,test_temporal_en,"A:Do you have any vacancies ? B: Yes , we have a nice room on the sixth floor . A: How much is it ? B: 200 yuan a night . A: OK . Dose it include breakfast ? B: Yes . And could I have your name ? A: Kate Green . B: How long do you want to stay ? A: <MASK> . And could you send a bellboy to pick up my luggage ? B: Sure . We'll be there in a few minutes . A: Could you keep my valuables ? B: We'd like to . You may call the attendant if you need any help .
+Choices:
+5 days
+6 months
+2 years",5 days,5 days,True
+58,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me , driver , you have kept us waiting for 15 minutes . Can't we start the tour right now ? B: I am sorry , sir , there are still 5 minutes remaining ... OK , it's time . We will take a roll call before starting the fantasy sightseeing . A: Finally . How long does the tour last ? B: For <MASK> . Enjoy your trip .
+Choices:
+about 3 hours
+about 5 minutes
+about 15 days",about 3 hours,about 3 hours,True
+59,llama-3.3-70b-versatile,test_temporal_en,"A:Good morning , Japan Airline domestic reservations . Can I help you ? B: Yes . I Would like make a reservation to Huston for tomorrow . A: The flight to Huston takes off daily <MASK> from 6:00 to 11:00 pm . So you don't need a reservation . Seats are available on a ' first come , first served ' basis . B: Oh , that's quite convenient . Thank you .
+Choices:
+every two hours
+every six minutes
+every eleven hours",every two hours,every two hours,True
+60,llama-3.3-70b-versatile,test_temporal_en,"A:Good morning , sir . What can I do for you ? B: I want to buy a ticket to Sydney tomorrow . A: Right now fight BW159 is the only one available , it is a non-direct one . B: What's the exact information ? A: It departs at 4:40 pm tomorrow and arrives in Sydney at 10:20 am . the next morning by way of Melboume . B: How long is the layover in Melboume ? A: <MASK> . Would you buy it ? B: Yes . I want a first class single ticket .
+Choices:
+About 1 hour
+10 seconds
+4 days",About 1 hour,About 1 hour,True
+61,llama-3.3-70b-versatile,test_temporal_en,"A:Canton Hotel . B: I'd like to reserve a double room . I will be arriving next Monday , the 12th . My name is Wilson . A: A double room for the 12th ? The name is Wilson ? B: Yes , that's right . A: How long will you be staying ? B: Three or <MASK> , perhaps longer . A: Very good , sir . We will be expecting you next Monday , the 12th .
+Choices:
+four days
+12 minutes
+12 years",four days,four days,True
+62,llama-3.3-70b-versatile,test_temporal_en,"A:Room service.What can I do for you ? B: This is room 2012 . Where is my laundry ? You promised to send to me this morning . A: Well , let me check for you . I am sorry , sir . They mistook your order as a normal one.Actualty it's an express laundry , is that right ? B: Yes , I ordered the express service . A: Sir , we are terribly sorry for that.We will refund the charge and send your laundry to your room <MASK> . Is that all right ? B: That's fine .
+Choices:
+3 hours later
+20 seconds
+12 days",3 hours later,3 hours later,True
+63,llama-3.3-70b-versatile,test_temporal_en,"A:Hello.Is this room service ? B: Yes.May I help you ? A: This is room 1425.We asked for the room service an hour ago . B: We're very sorry to cause you a lot of inconvenience . A: What's the matter ? B: We're rather busy right now.It will take another 15 minutes . A: Is it really going to take that long ? Will you rush the order ? B: I'm afraid it would take <MASK> at most . A: Ah , well , we have no choice .
+Choices:
+15 minutes
+an hour
+14 seconds",15 minutes,15 minutes,True
+64,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , Is this room service ? B: Yes , May I help you ? A: This is the room 1425 , we asked for the room service an hour ago . B: we are very sorry to cause you a lot of inconvenience . A: What's the matter ? B: We're rather busy right now . It will take another 15minutes A: Is it really going to take that long , will you rush the order ? B: I'm afraid it will take <MASK> at most . A: ha , well , we have no choice .
+Choices:
+15 minutes
+5 seconds
+14 hours",15 minutes,15 minutes,True
+65,llama-3.3-70b-versatile,test_temporal_en,"A:May we see the wine list please ? B: Sure . Our special wine today is a <MASK> Chardonnay . A: That sounds pretty good ! How much is it ? B: It's $ 4.25 cents by the glass . The whole bottle is $ 22.5 . A: I'd like a bottle please . B: I'll need to see your ID please . A: Here you go . B: Sorry about the inconvenience , you look so young . I had make sure you are over 21 years old .
+Choices:
+1989
+1745
+2020",1989,1989,True
+66,llama-3.3-70b-versatile,test_temporal_en,"A:What do you do besides work and watching TV ? B: When I have some time , I like to exercise . A: Do you go jogging or do you go to a health club ? B: I joined Samsung Health Club a couple of months ago . A: How do you exercise ? B: I usually spend <MASK> on the bicycle for the Carpio , and then I lift weight for about 45 minutes . A: How often do you go ? B: I want to go four times a week , but I'm too lazy . Last week , I only went to workout once .
+Choices:
+30 minutes
+a week
+45-seconds",30 minutes,30 minutes,True
+67,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , I would like to buy some business cards . B: Excellent . How many would you like ? A: Two thousand would be fine . B: You need to fill out this form , please . A: All I want is the same thing on this card . B: That will be no problem , sir . A: OK , I'm finished . Here's your form and my old card . B: Very good , sir . Your order will be ready in <MASK> . A: Do you think you could finish it in three days ? B: No problem , sir . But it will cost you extra .
+Choices:
+one week
+three days
+two months",one week,three days,False
+68,llama-3.3-70b-versatile,test_temporal_en,"A:What kind of lease is it ? B: It's a one-year lease . A: Can I have a month-to-month lease ? I only want to rent the apartment for <MASK> . B: No , all the leases are for one year . We don't have month-to-month leases . A: Well , then I don't think this would be a good apartment for me . Thank you anyway . B: You're welcome .
+Choices:
+five months
+one year
+one hour",five months,five months,True
+69,llama-3.3-70b-versatile,test_temporal_en,"A:Guess what , Gilly ? I won both bids . B: Good for you . Did you use Paypal ? A: Yeah . It was so easy and super-fast , once I figured it out . B: That's the beauty of it , and the danger . A: I should get the items within a week . But in the meantime I'm bidding on a digital video camera . B: How much ? A: Thirty U . S . dollars ... and it's only been used for <MASK> . B: Mmmm , sounds like risky business . Good luck .
+Choices:
+six months
+week
+30 hours",six months,30 hours,False
+70,llama-3.3-70b-versatile,test_temporal_en,"A:Your English has really improved in <MASK> you've been here , too . B: Do you have to work late at the computer company again tonight ? A: No , I'm going to leave the office early today . My annual medical check-up is this afternoon . B: How much longer will Mr . Schmidt be up in the mountains ? A: He's on a weeklong meditation retreat and won't be back until this weekend .
+Choices:
+the two months
+the five hours
+the three years",the two months,the two months,True
+71,llama-3.3-70b-versatile,test_temporal_en,"A:May we see the wine list please ? B: Sure . Our special wine today is a 1989 Chardonnay . A: That sounds pretty good ! How much is it ? B: It's $ 4.25 cents by the glass . The whole bottle is $ 22.5 . A: I'd like a bottle please . B: I'll need to see your ID please . A: Here you go . B: Sorry about the inconvenience , you look so young . I had make sure you are over <MASK> .
+Choices:
+21 years old
+19 minutes old
+4 years old",21 years old,21 years old,True
+72,llama-3.3-70b-versatile,test_temporal_en,"A:Bruno Bistro , how may I help you ? B: Yes , hello , I would like to make a reservation please . A: Certainly sir , For which day and time please ? B: Tonight at seven . A: I'm sorry sir , but we are fully booked tonight until eight . B: In that case , <MASK> is fine . A: Very well , and how many people will attend tonight ? B: Four people . A: Lastly , may I please know what name I should make the reservation under ? B: Mark .
+Choices:
+eight o'clock
+4:00 PM
+6:00 AM",eight o'clock,eight o'clock,True
+73,llama-3.3-70b-versatile,test_temporal_en,"A:Madam , is everything set up for your trip ? B: Not yet . I seem to move my house to that place . You don't know how tight the schedule is for this trip . A: You will be busier , right ? B: Correct ! I have <MASK> visit to Shanghai on December 10th . A: That will be gorgeous ! B: I would like a single room with a bath for two nights . Can you help me to reserve a hotel room for me ? A: Yes , Madam .
+Choices:
+three-day
+two-day
+ten-year",three-day,two-day,False
+74,llama-3.3-70b-versatile,test_temporal_en,"A:All right . I want to bring everybody back on this subject . When can we start working on this ? B: Well , we could probably get started with a preparatory meeting this afternoon at 2:00 . A: I tell you what , 2:00 is not available for me , but you can get started and I'll come by at around 3:00 B: That's fine with me . How much time are we going to have to work on this ? A: Perhaps <MASK> , I'm not sure .
+Choices:
+one year
+2 days
+2 months",one year,one year,True
+75,llama-3.3-70b-versatile,test_temporal_en,"A:Who's in charge of the construction project ? B: We've taken on a civil engineer on a <MASK> temporary contract . He'll oversee the whole project . In fact we're having a project meeting at 3 p . m this afternoon allocate responsibilities and finalise the time schedule . Why don't you join us ? A: I can ' t I'm afraid . I've got another meeting scheduled for 2:30 p . m .
+Choices:
+nine-month
+2-hour
+3-year",nine-month,nine-month,True
+76,llama-3.3-70b-versatile,test_temporal_en,"A:What do you do ? B: I'm an apprentice with a local engineering firm . My training lasts for <MASK> . Two days a week I study Engineering at a local college . If I pass all my exams , I hope the company will take me on as an engineer .
+Choices:
+two years
+a week
+two hours",two years,two years,True
+77,llama-3.3-70b-versatile,test_temporal_en,"A:How much will my pay be , if you don ' t mind my asking ? B: We would like to start you off at 1,500 yuan a month , not including bonus and overtime pay . We don ' t give bonus every month , but we offer a semi-annual bonus . And you will receive <MASK> paid vacation a year , as well . Does it suit you ? A: Yes , thank you . May I ask for an apartment ? B: No problem . We'll supply you with an apartment of two bedrooms and a living room .
+Choices:
+two weeks
+a month
+15 minutes",two weeks,two weeks,True
+78,llama-3.3-70b-versatile,test_temporal_en,"A:What sort of salary did you get at your previous job ? B: Well , I got $ 3,000 per month . A: I see . I am sure we can offer you $ 3 , 500 at the beginning . Would that be satisfactory ? B: Yes , I think so . That would be more than I have wished . A: Good . We also have health insurance , bonus and paid vacation . When can you begin to work ? B: What about early next week ? A: Good . Please come in on Monday . Working hours are from eight to four-thirty . Lunch is <MASK> . B: Yes , sir .
+Choices:
+fifty-five minutes
+3-minutes
+5-hours",fifty-five minutes,fifty-five minutes,True
+79,llama-3.3-70b-versatile,test_temporal_en,"A:Today I want to invite you to talk about insurance you ' re interested in . B: Thank you . I wonder whether I can enjoy the life insurance and health insurance . A: Of course . A two-week paid vacation a year , a <MASK> workweek . B: Good . Anything else ? A: Yes , all the insurance will be linked with your work . We will issue an insurance policy .
+Choices:
+five-day
+two-day
+five-hour",five-day,five-day,True
+80,llama-3.3-70b-versatile,test_temporal_en,"A:Why not go to the supermarket today , the coupon will be past due in <MASK> . B: Sure . Can we use it in Today Supermarket ? A: Let me check . Yes , we can . B: I really don't know what to buy .
+Choices:
+three days
+one second
+two years",three days,three days,True
+81,llama-3.3-70b-versatile,test_temporal_en,"A:Peter , it's time to go home now ! Hurry up ! B: Ten more minutes , mom . Please ! A: Honey , it's almost noon . We have to go home and make lunch for your sister . B: I bet she will hang around with her mates after school . A: Peter , it's <MASK> . Let's go home now !
+Choices:
+a quarter to twelve
+Four
+Two",a quarter to twelve,a quarter to twelve,True
+82,llama-3.3-70b-versatile,test_temporal_en,"A:What did you say ? B: I said it ' s a lovely day . Why don't we go for a walk ? A: Well , I feel a little tired . B: Come on ! Rest breads rust . A: Then can you wait a few minutes ? I want to finish writing this letter . B: I hope it won't be too long . It would be a shame not to take advantage of such lovely weather . A: It won't be long . <MASK> . Why don't you go ahead and I'll meet you in the park ? B: OK ! See you later !
+Choices:
+No more than ten minutes
+No more than 2 seconds
+No more than 60 minutes",No more than ten minutes,No more than ten minutes,True
+83,llama-3.3-70b-versatile,test_temporal_en,"A:Do you get up early every morning ? B: About 6 in the morning . I like to walk to the office . A: Good habit . How long does it take ? B: <MASK> . Do you live alone ? A: No , my little sister lives with me . B: How old is she ? A: About 12 . She is a good girl . B: I think so .
+Choices:
+About 20 minutes
+About 10 seconds
+About 20 hours",About 20 minutes,About 20 minutes,True
+84,llama-3.3-70b-versatile,test_temporal_en,"A:Will you look at this form ? B: Are you having problems with it ? A: I don't understand some things . B: Let me help you . A: What does MI mean ? B: MI stands for Middle Initial . A: What does MM / DD / YY mean ? B: That means Month / Day / Year . Use numbers . A: I don't understand . B: For example , if your birth date is <MASK> , write 01/12 /8 7 . A: Oh . That's simple enough . B: Always print clearly , and fill in the bubbles completely .
+Choices:
+January 12 , 1987
+July 31 , 1994
+August 29 , 1998","January 12 , 1987","January 12 , 1987",True
+85,llama-3.3-70b-versatile,test_temporal_en,"A:Hello ? B: Hi , Deborah ! This is John . I'm calling from Australia . A: What are you doing in Australia ? B: I'm attending a conference in Sydney this week . Remember ? A: Oh , right . What time is it there ? B: It's 10:00 P . M . And it's four o'clock in Los Angeles , right ? A: Yes - <MASK> in the morning . B: 4:00 A . M . ? I'm really sorry . A: That's OK . I'm awake now .
+Choices:
+four o'clock
+one o'clock
+nine o'clock",four o'clock,four o'clock,True
+86,llama-3.3-70b-versatile,test_temporal_en,"A:Hey ! Are you getting dressed ? B: Yes , I am . A: Why ? What time is it ? B: It's <MASK> . I'm going to work . A: But it's Saturday ! ! B: I'm working on Saturday mornings this month.Are you getting up ? A: No , I'm not . I'm staying in bed . B: OK . See you at noon . A: If I'm awake .
+Choices:
+a quarter to eight
+12:00 am
+6:00 pm",a quarter to eight,a quarter to eight,True
+87,llama-3.3-70b-versatile,test_temporal_en,"A:Steven , it's <MASK> . I'm going to bed . I'm beat . B: Okay . I'm going to stay up a while . I've got to go over the household budget . We've sightly overspent this month . A: Oh , can't you do it tomorrow ? It's already past 10 . B: But I'm not sleepy , darling . I want to finish it today . A: Okay . Please close the door to the basement before you go to bed . I don't want the dog down there tonight . B: Okay . Good night . Have a good dream . A: Good night .
+Choices:
+ten o'clock
+one o'clock
+six o'clock",ten o'clock,ten o'clock,True
+88,llama-3.3-70b-versatile,test_temporal_en,"A:Hello ! Is your taxi engaged ? B: No , this taxi is free . A: Please take me to the Honging Hotel . B: OK . Please get in . I'm glad to serve you . A: Could you get there in twenty minutes ? B: It will take half an hour to get to the hotel . A: I am in a hurry . Please take a shortcut . I have a friend waiting for me . B: OK , I promise we'll get there in <MASK> . A: Thanks .
+Choices:
+twenty minutes
+Five hours
+Two minutes",twenty minutes,twenty minutes,True
+89,llama-3.3-70b-versatile,test_temporal_en,"A:What time does the museum close ? Any idea ? B: I'm not sure , but I think It's open until 4 o'clock . A: What time is it now ? B: It's <MASK> .
+Choices:
+a quarter past three
+a half past twelve
+a quarter past five",a quarter past three,a quarter past three,True
+90,llama-3.3-70b-versatile,test_temporal_en,"A:Hey Jimmy . Let's go workout later today . B: Sure . What time do you want to go ? A: How about at 3:30 ? B: That sounds good . Today we work on Legs and forearm . A: Hey . I just played basketball earlier , so my legs are a little sore . Let's work out on arms and stomach today . B: I'm on a weekly schedule . You're messing everything up . A: C'mon . We're only switching <MASK> . You can do legs on Friday . B: Aright . I'll meet you at the gym at 3:30 then .
+Choices:
+two days
+fifteen days
+3 hours",two days,two days,True
+91,llama-3.3-70b-versatile,test_temporal_en,"A:What do you do besides work and watching TV ? B: When I have some time , I like to exercise . A: Do you go jogging or do you go to a health club ? B: I joined Samsung Health Club a couple of months ago . A: How do you exercise ? B: I usually spend 30 minutes on the bicycle for the Carpio , and then I lift weight for <MASK> . A: How often do you go ? B: I want to go four times a week , but I'm too lazy . Last week , I only went to workout once .
+Choices:
+about 45 minutes
+about a couple of minutes
+about 4 hours",about 45 minutes,about 45 minutes,True
+92,llama-3.3-70b-versatile,test_temporal_en,"A:Taxi ! Taxi ! B: Where to , sir ? A: I ' d like to go to the railway station please . B: Please hop in . A: Is it a long run to the station ? B: It ' ll take <MASK> . A: The streets are heavy with traffic at this time of a day , are they ? B: Yes , they are . A: Is it the rush hour ? B: Yes , it is . Are you in a hurry , sir ? A: No , I ' m not . Would you please drive slowly and carefully ? B: Yes , sir .
+Choices:
+about 20 minutes
+about one second
+about 9 hours",about 20 minutes,about 20 minutes,True
+93,llama-3.3-70b-versatile,test_temporal_en,"A:Hello . This is the Stewart Resident . B: Hello . Is Mr . Stewart there ? A: This is Mr . Stewart . Who ' s this ? B: I ' m calling from Bell Canada . We are currently offering a great deal on long distance calling , only $ 17 a month . With this plan you get <MASK> of long distance calls each month without any additional charges . A: I ' m sorry . I ' m not interested in it . B: Okay . Thanks .
+Choices:
+500 minutes
+17 seconds
+25 hours",500 minutes,500 minutes,True
+94,llama-3.3-70b-versatile,test_temporal_en,"A:What kind of lease is it ? B: It's a one-year lease . A: Can I have a month-to-month lease ? I only want to rent the apartment for five months . B: No , all the leases are for <MASK> . We don't have month-to-month leases . A: Well , then I don't think this would be a good apartment for me . Thank you anyway . B: You're welcome .
+Choices:
+one year
+five months
+five days",one year,one year,True
+95,llama-3.3-70b-versatile,test_temporal_en,"A:What's the date today Mr.Brown . I don't have a calendar . B: Today is Tuesday , 25th September , 2001 . A: 25th Sep ? Oh , I have an appointment tonight . B: What time is your appointment ? A: It is at 8 o'clock . B: What time is now ? Do you have the correct time ? A: I don't know what time it is.It must be <MASK> . I have to go now . I don't want to be late . B: You won't be late.It ' s still early .
+Choices:
+about 6 o'clock
+about 11 o'clock
+about 1 o'clock",about 6 o'clock,about 6 o'clock,True
+96,llama-3.3-70b-versatile,test_temporal_en,"A:Taxi ! Taxi ! B: Where to , sir ? A: I ' d like to go to the railway station please . B: Please hop in . A: Is it a long run to the station ? B: It ' ll take <MASK> . A: The streets are heavy with traffic at this time of a day , are they ? B: Yes , they are . A: Is it the rush hour now ? B: Yes , it is . Are you in a hurry sir ? A: No , I ' m not . Would you please drive slowly and carefully ? B: Yes , sir .
+Choices:
+about 20 minutes
+about 3 hours
+about 1 second",about 20 minutes,about 20 minutes,True
+97,llama-3.3-70b-versatile,test_temporal_en,"A:You sure are buying a lot of things online . B: Yes , I ordered a camera and some personal care stuff online yesterday . They will be delivered in <MASK> . A: What are the advantages of buying online ? B: Sometimes you can save money and you can find things that you had difficulty finding in a store . sometimes it's just convenient , like doing it late at night and sometimes it's just fun . A: The idea of doing it at night is interesting . Maybe I'll try it some day .
+Choices:
+two weeks
+two seconds
+three years",two weeks,two weeks,True
+98,llama-3.3-70b-versatile,test_temporal_en,"A:Yes , sir . May I help you ? B: Please I'd like a ticket to New York . A: For today ? B: No , early saturday morning . A: We have a flight that we'll put you there at <MASK> . Is that ok ? B: Nothing earlier ? I prefer flight at 9 thirty . A: I'm afraid not , unless you want a night flight . B: No , exactly not . A: How about afternoon ? B: Sounds not good . I won't take it .
+Choices:
+ten AM
+9:30 PM
+four AM",ten AM,four AM,False
+99,llama-3.3-70b-versatile,test_temporal_en,"A:Hey ! Taxi . B: Where are you heading , sir ? A: Capital Airport . B: What's your flight time ? A: At 7:50 . B: I guess we should get there no later than 7:00 . A: How long is the ride from here then ? B: Well , since it's rush hour , I'd say the ride would take <MASK> , more or less.Is that okay ? A: Yes , that'll be fine . How much is this going to cost ?
+Choices:
+about thirty minutes
+Three seconds
+Five hours",about thirty minutes,about thirty minutes,True
+100,llama-3.3-70b-versatile,test_temporal_en,"A:May I come in ? B: Yeah , Please do . Now let me show you the house . A: This seems a pretty nice room , I should say . B: You bet . This is the nicest room in the district . You know what , I just had all the walls repainted last month . A: What about the kitchen ? B: It's a well furnished eat-in kitchen . The stove and the ice-box are in good order , and the plumbing is OK , too . A: I see . I'd like to live here for <MASK> . B: Terrific ! When are you moving in ? A: Next Saturday at the earliest .
+Choices:
+about three years
+about two hours
+about ten decades",about three years,about three years,True
+101,llama-3.3-70b-versatile,test_temporal_en,"A:Can you develop the roll of film ? B: Sure . A: How long does it take ? B: 6 hours . If you are in a hurry we can develop it in <MASK> . A: There is no need . I will come back tomorrow .
+Choices:
+3 hours
+1 minute
+12 hours",3 hours,3 hours,True
+102,llama-3.3-70b-versatile,test_temporal_en,"A:Let's see if we can reach some sort of agreement over your curfew . B: Okay . Everyone else's parents let them stay out until two or three in the morning . A: Well . I'm not everyone else's father . I think you need to be in the house by <MASK> . B: That's absurd . A: I know some junior high kids who can stay out later than that . B: I'll be worried if you stay out late . A: Okay , how about a midnight curfew ? And I'll let you know where I am .
+Choices:
+ten o'clock
+Twelve o'clock
+One o'clock",ten o'clock,ten o'clock,True
+103,llama-3.3-70b-versatile,test_temporal_en,"A:See ? That wasn't so bad . B: Easy for you to say . My bottom still stings . A: It might be sore for a while . You'll be OK . Now let's go home and rest . B: Can't we go to McDonald's first ? A: No , sweetie . I'll make you some tomato soup and rice . B: No , thanks . A: And vegetables with porridge . B: Blah ... What's that ? A: This is all your medicine . You need to take it four times a day for <MASK> straight .
+Choices:
+three days
+four seconds
+ten years",three days,three days,True
+104,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me . I bought the CD here <MASK> . It's scratched , and doesn't play properly . B: I'm sorry about that , sir . I'll get you another one . A: The thing is I've replaced once already . I think it's just a faulty batch . B: I see . Maybe I can offer you a credit note . A: Well . To be honest , that's not much use to me . I'll leave the country tomorrow . I'd really prefer a refund . B: OK , sir . I'll see what I can do .
+Choices:
+two days ago
+Two seconds ago
+four months ago",two days ago,two days ago,True
+105,llama-3.3-70b-versatile,test_temporal_en,"A:I'm glad you're on your <MASK> reunion planning committee . B: Yeah , you get the TV to yourself while I spend my nights surfing the Net for missing classmates . A: That's not why . This way I can see how you guys do this sort of thing . B: I guess . Don't you have reunions in Taiwan ? A: Definitely . Every year . But just for our forty-person class . B: Ours are for everyone that graduated in the same year .
+Choices:
+ten-year
+forty-day
+hundred-year",ten-year,ten-year,True
+106,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me , I ' Ve been waiting my main dish for quite a time . B: Yes sir , just a minute , please . I ' ll check with the kitchen . Thank you for waiting . It takes <MASK> , I ' m afraid . A: I have an appointment in half an hour . B: I see . A: Do you have anything else I can have instead ? B: Well sir , yes . How about this stew ? We can serve you at once . A: I ' ll take this stew then .
+Choices:
+another 10 to 15 minutes
+another half an hour
+another minute",another 10 to 15 minutes,another 10 to 15 minutes,True
+107,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , I bought a China dress in your shop this morning . B: Yes ? A: I bought one size up by mistake . B: Oh , did you ? A: I wonder if you can change it to one size down . B: Yes , of course . Will you come with receipt ? A: Then I ' ll come to your place later in the evening , and how late is your shop open ? B: Until <MASK> madam . We are looking forward to seeing you .
+Choices:
+8 o'clock
+11 PM
+2 AM",8 o'clock,8 o'clock,True
+108,llama-3.3-70b-versatile,test_temporal_en,"A:Don't take too much off . I'm trying to grow my hair longer . B: How about two inches ? A: That sounds perfect . Do you think I can get some highlights today , too ? I've always wanted red . B: I think that will over-process your hair , you should wait <MASK> . A: All right . I'll just have the cut and perm today . B: Great . My assistant will wash your hair , and then I'll be back to help you . A: OK .
+Choices:
+at least two weeks
+at least two minutes
+at least three years",at least two weeks,at least two weeks,True
+109,llama-3.3-70b-versatile,test_temporal_en,"A:I've been told you might have a vacant room . B: Yes , I have a spare room . A: Would it be okey to look at the room , now ? B: Would you come here in <MASK> ? We're right in the middle of dinner . A: This apartment looks nice . B: Yes , it has two bedrooms . That's convenient . A: How much is the rents ? B: 2,500 yuan a month . A: This apartment is nice , but I'd like to find a cheaper one .
+Choices:
+twenty minutes
+a month
+two seconds",twenty minutes,twenty minutes,True
+110,llama-3.3-70b-versatile,test_temporal_en,"A:Hello . I sent out my laundry yesterday.Aren ' t they ready ? B: They'll be ready by this afternoon . A: Oh , no ! I'm leaving for Japan at 11 this morning . B: Is that right ? We're very sorry . A: I thought it was "" the same day "" service.Anyway , please do hurry . B: I'm afraid we can't return it by <MASK> . A: Well , then , would you send it to Japan , please ? B: Yes , we'll do so .
+Choices:
+11 o'clock
+12:00 am
+6:00 pm",11 o'clock,11 o'clock,True
+111,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me . I've been waiting for my main dish for quite a time . B: Yes , sir.Just a minute , please , I'll check with the kitchen . A: Thank you for waiting.It takes <MASK> , I'm afraid . B: We have an appointment in half an hour . A: I see . B: Do you have anything else I can have instead ? A: Well , yes.How about beef stew ? We can serve you at once . B: I'll take beef stew , then .
+Choices:
+another ten to fifteen minutes
+another 50 to 60 minutes
+another ten to fifteen seconds",another ten to fifteen minutes,another ten to fifteen minutes,True
+112,llama-3.3-70b-versatile,test_temporal_en,"A:Gosh ! The water faucet is dripping badly again . B: You are going to have a huge bill . A: I know . I ' Ve got to get it fixed ASAP . B: Don't you wanna get it fixed now ? A: I wish I could , but I ' Ve got to go now . I have an appointment in <MASK> . B: Well , if you need anything , just let me know . A: Oh , by the way , could you give me a ride ? My car is still in the garage . B: You sure have bad luck these days .
+Choices:
+20 minutes
+2 seconds
+4 hours",20 minutes,20 minutes,True
+113,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me . I've been waiting here for 15 mins . Do you know how often does No . 3 run ? B: Oh , it runs <MASK> . You must have missed it , when you came here . It should be here any minute now . A: It seems that you have got here at a good time . Do you have a bus schedule ? B: Yes , I do . You can go to the Transport Department to get yourself a bus schedule and a bus route map . A: I see , thank you .
+Choices:
+every 20 mins
+Every five hours
+Every two seconds",every 20 mins,every 20 mins,True
+114,llama-3.3-70b-versatile,test_temporal_en,"A:How ' s it going ? B: I ' m fine , thank you . A: Did you need help with something ? B: If I could , I would like to view the apartment sometime today . A: That won ' t be possible today . B: Why is that ? A: You can only view the apartment with an appointment . B: I would like to make one right now if I can . A: Are you available this Friday ? B: Can we do it at 6 o ' clock ? A: Your appointment for <MASK> has been confirmed . B: All right . I ' ll see you on Friday .
+Choices:
+Friday at 6 pm
+Saturday at 5 am
+Monday at 2 pm",Friday at 6 pm,Friday at 6 pm,True
+115,llama-3.3-70b-versatile,test_temporal_en,"A:What can I do for you today ? B: I have a question . A: What do you need to know ? B: I need to take the driver's course . How many hours do I need ? A: It depends on what you're trying to do with the completion of the course . B: I need to get my license . A: You're going to need to complete six hours . B: How many hours a day can I do ? A: You can do two hours a day for <MASK> . B: That's all I need to do to finish ? A: Yes , that's all you need to do . B: Thanks . I'll get back to you .
+Choices:
+three days
+six weeks
+four months",three days,three days,True
+116,llama-3.3-70b-versatile,test_temporal_en,"A:What can I help you with ? B: May I ask you something ? A: What's your question ? B: How many hours behind the wheel do I need ? A: What do you need to take it for ? B: I'm trying to get my license . A: You need six hours . B: Can I do all six hours in one day ? A: You have to do it in <MASK> . B: That's all I have to do ? A: That's everything . B: Well , that's a relief .
+Choices:
+three days
+One hour
+Three months",three days,three days,True
+117,llama-3.3-70b-versatile,test_temporal_en,"A:Hello . I would like to buy some business cards . B: Excellent . How many would you like ? A: Two thousand would be fine . B: You need to fill out this form , please . A: All I want is the same thing on this card . B: That will be no problem , sir . A: ... Okay , I'm finished . Here's your form and my old card . B: Very good , sir . Your order will be ready in one week . A: Do you think you could finish it in <MASK> ? B: No problem , sir . But it will cost you extra .
+Choices:
+three days
+ten days
+Two thousand seconds",three days,three days,True
+118,llama-3.3-70b-versatile,test_temporal_en,"A:Tom , you're my good friend , right ? B: Sure . What's the matter with you ? A: The exam ! The terrible exam ! I'm not ready yet . Can you tell me how to get good marks ? B: Don't be so nervous ! Relax ! First , sleep early at night . Second , study <MASK> a day after school . Third , don't tire yourself out , but don't be lazy . Will that help ? A: Yes , thank you .
+Choices:
+two hours
+two minutes
+ten hours",two hours,two hours,True
+119,llama-3.3-70b-versatile,test_temporal_en,"A:What are you studying all day long for ? It ' s summer vacation ! B: I know ! I hate it ! But I ' m taking this crash course in math . A: Why ? B: I have to take my exams for getting into the university , so I need to prepare . A: Do you think it will help ? B: It has to ! I ' Ve been studying every day , <MASK> a day ! I don ' t know , but the school has a great success record . A: Hmm ... Maybe I should sign up too . B: I ' ll pick up an application form for you at school tomorrow .
+Choices:
+eight hours
+five minutes
+twenty four hours",eight hours,eight hours,True
+120,llama-3.3-70b-versatile,test_temporal_en,"A:Now let's begin the class . Who is on duty today ? B: I am , sir . A: Please come to the front to have <MASK> ' free talk in English . Very well ! Whose turn is it to have a free talk ? B: It's me , sir . But I am sorry I have forgotten to prepare for it . A: Well . Don't forget to perform your duty next time , ok ? Now , let's start our lesson .
+Choices:
+five minutes
+20 seconds
+four hours",five minutes,five minutes,True
+121,llama-3.3-70b-versatile,test_temporal_en,"A:Have you been in America long , Hellen ? B: No . Only for a couple of weeks . A: Where are you going to study ? B: I am going to register at Harvard next month . A: What are you going to major in ? B: I am going to major in tourism . What about you ? How long have you been here ? A: For <MASK> . B: Well . You should be able to give me some advice on where to stay . At the moment , I am staying in a hotel which is far away from the school .
+Choices:
+nearly four years
+nearly a couple of weeks
+nearly seventy years",nearly four years,nearly four years,True
+122,llama-3.3-70b-versatile,test_temporal_en,"A:In my country , we go to school from 8 o'clock in the morning until <MASK> . B: Five days a week , too ? A: Actually , five and a half.On Saturday , we have classes only in the morning . B: Gosh ! A: That's too much for us really . B: Where are you going now ? A: I'm going to try to find out where the school is located . B: When do you start school ? A: I'm going to register right now . B: That's good .
+Choices:
+five in the afternoon
+eight in the evening
+five in the morning",five in the afternoon,five in the afternoon,True
+123,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , I need to register for a class . B: What class are you trying to take ? A: I want to take a Psychology class . B: Well , there are only two classes open . A: Can you tell me what days the classes are on ? B: One class is on Tuesday and Thursday from 2 p . m . to 4 . A: And the other class ? B: That class is from <MASK> and Wednesday . A: Are you sure these are the only open classes ? B: Yes , I am sure . A: Okay , sign me up for the class on Monday and Wednesday . B: Very well then .
+Choices:
+ten to twelve on Monday
+two to four on Thursday
+five to nine on Friday",ten to twelve on Monday,ten to twelve on Monday,True
+124,llama-3.3-70b-versatile,test_temporal_en,"A:What can I do for you today ? B: I need to return a book . A: Can I do anything else for you ? B: I want to check these books out . A: Is that all ? B: That ' s all . A: May I see your library card , please ? B: It ' s right here . A: Will that be all for today ? B: Yes . That ' s it . A: These are due back in <MASK> . B: All right . Have a good night .
+Choices:
+two weeks
+today
+6 months",two weeks,two weeks,True
+125,llama-3.3-70b-versatile,test_temporal_en,"A:What can I do for you ? B: I ' m returning these books . A: Let me have them . B: Here are all of them . A: These books are <MASK> late . B: I didn ' t have time to return them . A: You ' re going to have to pay late fees . B: How much ? A: 25 cents a day . B: 25 cents a day ? A: That means 25 cents for each late book . B: That ' s expensive .
+Choices:
+two weeks
+25 seconds
+25 years",two weeks,two weeks,True
+126,llama-3.3-70b-versatile,test_temporal_en,"A:May I help you ? B: What time will the library be closing ? A: It closes at six . B: Does it always close at six ? A: No , not every day . B: Will the library be open on Saturday ? A: Absolutely . B: What are your hours on Saturday ? A: Saturday ' s hours are from <MASK> to six-thirty at night . B: All right . Thank you . A: What else can I help you with ? B: That ' s it . Thank you .
+Choices:
+nine in the morning
+six in the morning
+two in the afternoon",nine in the morning,nine in the morning,True
+127,llama-3.3-70b-versatile,test_temporal_en,"A:I have a problem . B: What's the problem ? A: My mattress was supposed to be delivered today . B: Is there a problem ? A: The delivery people showed up <MASK> late . B: I apologize for their tardiness . A: I was late for work because of them . B: Again , I do apologize for the inconvenience . A: I want my money back for the delivery . B: Seeing as they were late , that won't be a problem . A: It shouldn't be a problem . B: I'm going to refund your money right now .
+Choices:
+four hours
+Two seconds
+Five days",four hours,four hours,True
+128,llama-3.3-70b-versatile,test_temporal_en,"A:Hi , Lander . What's wrong ? B: I can hardly make ends meet these days . A: Same here . I have't brought any new clothes for <MASK> . B: My income remains the same but prices just continue to rise . A: True . The news says that there is a general increase in the price of daily necessities . B: Definitely . I have to spend 300 yuan more on food every month .
+Choices:
+three months
+every month
+300 days",three months,three months,True
+129,llama-3.3-70b-versatile,test_temporal_en,"A:What did you say ? B: I said it's a lovely day . Why don't we go for a walk ? A: Well , I feel a little tired . B: Come on ! A little labor , much health . A: Then can you wait a few minutes ? I want to finish writing this letter . B: Don't take too long . It would be a shame not to take advantage of such lovely weather . A: I won't be long . <MASK> . Why don't you go ahead and I'll meet you in the park ? B: I Believe I will . Look for me near the lake .
+Choices:
+No more than ten minutes
+No more than ten months
+No more than two years",No more than ten minutes,No more than ten minutes,True
+130,llama-3.3-70b-versatile,test_temporal_en,"A:What day is it ? B: It's Monday , October 27 . Speaking of dates , when are you leaving ? A: I'm leaving on November 10th . B: Isn't it a Sunday ? A: No , it's a Monday . B: So you are leaving <MASK> ? A: Right .
+Choices:
+two weeks from now
+27 weeks from now
+10 seconds from now",two weeks from now,two weeks from now,True
+131,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me . Do you have the time ? B: My watch is a few minutes fast . It's about six forty , I think . A: Is it ? Oh , no . The concert will begin in <MASK> . Are we too late to get there ? B: If we start now , we can make it by taxi .
+Choices:
+twenty minutes
+six seconds
+forty hours",twenty minutes,twenty minutes,True
+132,llama-3.3-70b-versatile,test_temporal_en,"A:Dad , what's the date ? B: It's December eighteenth . A: In <MASK> it will be Christmas Day . B: Yes , I know that . A: So , can I buy some new shoes as a Christmas present ? B: Sure , a promise is a promise .
+Choices:
+seven days
+eighteen hours
+30 days",seven days,seven days,True
+133,llama-3.3-70b-versatile,test_temporal_en,"A:Do you have spare time tonight ? B: What's the matter ? A: There will be a live show of football tonight . B: What teams are playing tonight ? A: AC Milan versus Real Madrid . B: That will be a tough match , right ? A: Absolutely . B: What are we waiting for ? It's already <MASK> now . Let's buy some drinks and desserts now . A: Great idea ! Here we go !
+Choices:
+7:00 PM
+3:00 AM
+2:00 PM",7:00 PM,7:00 PM,True
+134,llama-3.3-70b-versatile,test_temporal_en,"A:Do you surf online regularly , Joe ? B: Of course . I stay online for four hours at least every day . A: Are you crazy ? What are you doing <MASK> online ? B: Millions of things . I surf the Net , check my e-mail , and most importantly , I chat with my friends . A: Online chat ? Aren't you afraid of meeting bad people who pretend to be what they are not ? B: No , I am not . And I love to meet new people in the chat rooms who share a lot in common with me . A: It sounds interesting .
+Choices:
+four hours
+four minutes
+twenty hours",four hours,four hours,True
+135,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , Catherine . Would you like to go out tomorrow ? B: Tomorrow ? A: Yeah , I was thinking we could get a bite to eat and catch a movie . B: That sounds great . A: Yes . We can do something else if you like . B: OK . Dinner and a movie will be perfect . A: Well . What time would you like me to pick you up ? B: How <MASK> ? A: Good . I will see you then . B: OK . Bye . A: Bye .
+Choices:
+about 7 o'clock
+about 1 o'clock
+about 11 o'clock",about 7 o'clock,about 7 o'clock,True
+136,llama-3.3-70b-versatile,test_temporal_en,"A:When do you celebrate Thanksgiving ? B: On <MASK> . A: What do you eat on that day ? B: People cook turkeys for Thanksgiving dinner . A: Anything else ? B: Besides the turkeys , we'll also have other delicious food . Such as pumpkin pies , puddings , mashed potatoes , bread , a lot of fresh fruits and vegetables . A: I'm almost hungry .
+Choices:
+the fourth Thursday of November
+the first Monday of December
+the second Thursday of March",the fourth Thursday of November,the fourth Thursday of November,True
+137,llama-3.3-70b-versatile,test_temporal_en,"A:Jenny , I was wondering if you , um ... are you busy this Friday ? B: Yes , Friday I have a class right after work . A: Oh . What about Saturday ? Are you free then ? B: Saturday my parents are coming to town . What's up ? A: What about tonight ? Do you have plans tonight ? B: No . Did you want to go do something ? A: Yes ! Yes ! I want to take you to dinner . B: Oh ! That sounds great ! How <MASK> ?
+Choices:
+about six o'clock
+about eleven o'clock
+about two o'clock",about six o'clock,about six o'clock,True
+138,llama-3.3-70b-versatile,test_temporal_en,"A:Li Lei , can you tell me what the origin of Easter is ? B: The Bible says that Jesus Christ was resurrected <MASK> after he was crucified . People commemorate that at a festival called Easter . A: Oh , then when do you celebrate Easter ? B: We celebrate it on the first Sunday after a full moon on or after the 21st of March . A: How do you celebrate it ? B: We make a lot of Easter eggs and then paint some designs on them . We'll also go to church and pray . A: That sounds interesting .
+Choices:
+three days
+21 minutes
+twenty days",three days,three days,True
+139,llama-3.3-70b-versatile,test_temporal_en,"A:What day is today ? B: Today is Thursday . A: What's the date today ? B: Today is <MASK> . A: Oh , today's International Labour Day . Is it our working day ? B: Well , I don't think so .
+Choices:
+May first , 2003
+March seventh , 2000
+December first , 2005","May first , 2003","May first , 2003",True
+140,llama-3.3-70b-versatile,test_temporal_en,"A:Hi , Tina , I've got good news . I have successfully passed the first two rounds of interview with ABC Company . They informed me to go to the final round next Monday . It looks very promising . B: That is awesome . Congratulations ! I know you can make it . A: Thanks . Let's go for a celebration this evening . Are you free ? B: Yes . Wait for me at the cafe down my office building . Say <MASK> , ok ? A: No problem . See you ! B: See you !
+Choices:
+5:00 PM
+10:00 PM
+5:00 AM",5:00 PM,5:00 PM,True
+141,llama-3.3-70b-versatile,test_temporal_en,"A:You are quite busy every day . B: Yes . Work starts at eight and I arrive home after six . A: So you have to work all day . B: I can take a break at lunch time , but it is only <MASK> . A: I see you sometimes work on weekends , too . B: Yes , I really don't like it .
+Choices:
+30 minutes
+2 minutes
+6 hours",30 minutes,30 minutes,True
+142,llama-3.3-70b-versatile,test_temporal_en,"A:Let's meet tonight at the Thai restaurant at about 5 . B: Fine , I'll take a taxi . A: Why don't you walk ? It's only <MASK> walking and it's a nice evening . B: Never thought about it , I sure you are right . It's quite a short walk . A: Ha-ha , see you then .
+Choices:
+about 20 minutes
+about 5 hours
+about 2 seconds",about 20 minutes,about 20 minutes,True
+143,llama-3.3-70b-versatile,test_temporal_en,"A:What time is it , Tom ? B: Just a minute . It's ten to nine by my watch . A: Is it ? I had no idea it was so late . I must be off now . B: What's the hurry ? A: I must catch the nine-thirty train . B: You've plenty of time yet . The railway station is very close . It won't take <MASK> to get there .
+Choices:
+more than twenty minutes
+more than thirty hours
+more than nine seconds",more than twenty minutes,more than nine seconds,False
+144,llama-3.3-70b-versatile,test_temporal_en,"A:Hi , Steven ! What do you like to do during the weekend ? B: I love swimming and cycling . On Saturday morning I usually ride my bike around the city or the country road for almost <MASK> . A: That ' s great ! I think they do you a lot of good . B: Sure , they do . A: But why do you choose cycling at first ? B: Because it is convenient and good for environmental protection . A: You are really a good citizen . B: That ' s what I can do .
+Choices:
+two hours
+3 minutes
+15 hours",two hours,two hours,True
+145,llama-3.3-70b-versatile,test_temporal_en,"A:Mary , would you like to get something to eat with me ? B: OK . When ? A: At 10 o'clock . B: <MASK> ? A: No , at night . B: Sorry , that's too late . I usually go to bed around 10:00 PM . A: OK , how about 1:30 PM ? B: No , that's too early . I'll still be at work then . A: How about 5:00 PM ? B: That's fine . A: OK , see you then . B: Alright . Bye .
+Choices:
+10 in the morning
+1:00 in after noon
+11:00 in the night",10 in the morning,10 in the morning,True
+146,llama-3.3-70b-versatile,test_temporal_en,"A:Brian , do you know how to speak English ? B: Yes . A: Where did you learn ? B: I learned in college . A: You speak really well . B: Thank you . A: How long have you been in the U . S . ? B: <MASK> . A: Is your wife with you ? B: Yes , she just got here yesterday . A: Have you been to California before ? B: No . I've never been there . A: Have you ever been to Las Vegas ? B: Yes . I went there once on a business trip .
+Choices:
+3 weeks
+one hour
+80 years",3 weeks,3 weeks,True
+147,llama-3.3-70b-versatile,test_temporal_en,"A:When can we expect you for dinner ? Can you come tonight ? B: Not tonight . I promised to go to a concert with my sister . A: Well ... How about Friday then ? B: That sounds fine . A: Good . Shall we say <MASK> ? B: I'll be there . You're still a fabulous cook , aren't you ? A: That'll be for you to decide . I've got a new dish that I want to try out on you . B: I'm ready . I'll look forward to it all Friday !
+Choices:
+seven o'clock
+One o'clock
+Twelve o'clock",seven o'clock,seven o'clock,True
+148,llama-3.3-70b-versatile,test_temporal_en,"A:Did you read the news that ' China's property prices rose at the fastest pace in 18 months in December , ending the year with rising fears of bubbles in the property market ' ? B: No . Does the newspaper say what has caused that ? A: Yes . It says the hike was a result of purchase rush in <MASK> on expectations of tightening politics . B: I think the government should make a serves of moves to cool the market . A: Right . The climbing property prices has become a headache for Chinese residents .
+Choices:
+the fourth quarter
+the first quarter
+the third quarter",the fourth quarter,the fourth quarter,True
+149,llama-3.3-70b-versatile,test_temporal_en,"A:Are you free on the thirteenth in the afternoon ? B: No I'm afraid not . I'm meeting Ruth then . How about the fourteenth in the morning ? A: I'm sorry . I'm attending a meeting at the Hilton then . B: What about the next day ? A: No . I'm busy then too . I'm meeting Dorothy Heath at North Bridge Road . Are you free on Thursday afternoon ? B: Yes , I think I am . Let's meet for lunch at mouth restaurant . A: Good idea ! Is <MASK> okay ? B: That's fine . See you there !
+Choices:
+two o'clock
+five o'clock
+ten o'clock",two o'clock,two o'clock,True
+150,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , Tom ! Do you have plans for this evening ? B: Nothing special . A: How about having dinner with me ? B: That's great . I would love to . And when ? A: Let ' s fix it at <MASK> , OK ? B: No problem . However , maybe I should come early to help you prepare the dinner . A: Don ' t worry . I will arrange everything . B: All right , see you tonight . A: See you .
+Choices:
+seven o'clock
+Eleven o'clock
+Two o'clock",seven o'clock,seven o'clock,True
+151,llama-3.3-70b-versatile,test_temporal_en,"A:When were you born may I ask ? B: On 20th May 1963 . A: Do you know what it was according to the lunar calendar ? B: <MASK> . A: By the way , could you tell me when the film will begin ? B: It will begin at 5:30 . A: I am afraid I can't be there on time . B: You can see it tomorrow . A: I don't want to miss it today .
+Choices:
+27th day of the fourth month
+15 day of first month
+30 day of eleventh month",27th day of the fourth month,27th day of the fourth month,True
+152,llama-3.3-70b-versatile,test_temporal_en,"A:So you're traveling around the world , aren't you . B: That's right A: When did you arrive here ? B: Last night A: Did you have a good journey ? B: Yes , I enjoyed it very much . A: Where have you been on this trip ? B: Let me see . Ah , yes , I've been to England , France , Germany , Italy and now I've been in Spain A: Really ? How long will your holiday last ? B: Two weeks A: All these countries in <MASK> ? B: That's right
+Choices:
+two weeks
+two days
+five years",two weeks,two weeks,True
+153,llama-3.3-70b-versatile,test_temporal_en,"A:When were you born may I ask ? B: On 20th May 1963 . A: Do you know what it was according to the lunar calendar ? B: <MASK> . A: By the way , could you tell me when the film will begin ? B: It will begin at five thirty . A: I am frigid I can't be there on time . B: You can see it tomorrow . A: I don't want to miss it today . B: See you . A: See you .
+Choices:
+27th day of the fourth month
+27th day of the tenth month
+17th day of the fourth month",27th day of the fourth month,27th day of the fourth month,True
+154,llama-3.3-70b-versatile,test_temporal_en,"A:What's that book you have under your arm ? B: It's the best seller everyone's been talking about for <MASK> . A: How in the world did you get a copy ? I've put a hold on it at the public library for weeks and I'm still waiting my turn . B: I checked it out of the rental library . It only costs five cents a day . A: Is it really worth paying for ? B: I can't tell yet . I haven't got beyond the first chapter . A: If it's any good , I'll buy a copy when it comes out in the pocket edition .
+Choices:
+the last six months
+The last week
+The last two years",the last six months,the last six months,True
+155,llama-3.3-70b-versatile,test_temporal_en,"A:Where were you last night , at exactly nine twenty PM ? B: nine <MASK> , I couldn't say . I cann't remember . A: Are you sure you cann't remember ? B: I've absolutely certain . A: Were you in or out ? Can you remember that ? B: I'm not quite positive . I think I went out at about half pass nine . A: Did you see anyone come into the block flats ? B: No , I didn't . A: Sure ? B: Quite sure .
+Choices:
+twenty pm
+Thirty pm
+Fifty five pm",twenty pm,twenty pm,True
+156,llama-3.3-70b-versatile,test_temporal_en,"A:Good afternoon . B: My goodness ! It ' s the afternoon ? Doesn ' t the time fly ! Do come in and sit down . A: Thank you . B: What ' s the time ? My watch has stopped . A: It ' s <MASK> . B: When do you have lunch ? A: From one to two . B: What do you normally eat ? A: We usually go to the cafeteria . B: Oh , it ' s time to have lunch now . A: let ' s go together .
+Choices:
+half past twelve
+half past nine
+half past three",half past twelve,half past twelve,True
+157,llama-3.3-70b-versatile,test_temporal_en,"A:What's the date today Mr.Brown ? I don't have a calendar . B: Today is Tuesday , 25th September , 2001 . A: 25th Sep ? Oh , I have an appointment tonight . B: What time is your appointment ? A: It is at 8 o'clock . B: What time is now ? Do you have the correct time ? A: I don't know what time it is . B: It must be <MASK> . A: I have to go now . I don't want to be late . B: You won't be late . It's still early .
+Choices:
+about 6 o'clock
+about 2 o'clock
+about 11 o'clock",about 6 o'clock,about 6 o'clock,True
+158,llama-3.3-70b-versatile,test_temporal_en,"A:When were you Bron may I ask ? B: On 20th May 1963 . A: Do you know what it was according to the lunar calendar ? B: <MASK> . A: By the way , could you tell me when the film will begin ? B: It will begin at 5 thirty . A: I am frigid I can't be there on time . B: You can see it tomorrow . A: I don't want to miss it today . B: See you . A: See you .
+Choices:
+27th day of the fourth month
+27th day of the fifth month
+20th day of the tenth month",27th day of the fourth month,27th day of the fourth month,True
+159,llama-3.3-70b-versatile,test_temporal_en,"A:I went to the doctor yesterday . B: I beg your pardon ? A: I said I had been to the doctor the day before . B: What did he say ? A: He said I ' d got the flu . B: Oh dear ! What did he tell you to do ? A: He told me to stay in bed for ten days . B: Ten days ? Would you please repeat it again ? A: Yes , <MASK> .
+Choices:
+ten days
+ten seconds
+ten years",ten days,ten days,True
+160,llama-3.3-70b-versatile,test_temporal_en,"A:Shakespeare was born in 1867 . B: No , it sounds wrong . He was born in the 16th century . A: Are you sure ? Can you make it more exact ? B: <MASK> .
+Choices:
+1564
+1867
+1768",1564,1564,True
+161,llama-3.3-70b-versatile,test_temporal_en,"A:I saw an interesting program on TV last night . It was about elderly people . B: And what did the program say ? A: It said that people with a positive attitude 7 tend to live longer and happier . B: I think that many physicians 8 now agree with that idea . A: And the TV program also said that physical exercise helps people deal with stress . B: And the most active older people seem to enjoy some kind of physical exercise . My father is over <MASK> , and he lifts weights every day .
+Choices:
+60 years old
+30 years old
+90 years old",60 years old,60 years old,True
+162,llama-3.3-70b-versatile,test_temporal_en,"A:What day is today ? B: Today is <MASK> . A: Oh , The day after tomorrow is Christmas . B: Merry Christmas to you .
+Choices:
+December twenty-third , two thousand and two
+November fifteen, two thousand and four
+July thirty, two thousand and eight","December twenty-third , two thousand and two","December twenty-third , two thousand and two",True
+163,llama-3.3-70b-versatile,test_temporal_en,"A:What time is it , Tom ? B: Just a minute . It ' s ten to nine by my watch . A: Is it ? I have no idea if I ' m so late . I must be off now . B: What ' s the hurry ? A: I must catch the nine-thirty Train . B: It ' s plenty of time yet . The railway station is very close . It won ' t take your <MASK> to get there .
+Choices:
+twenty minutes
+minute
+ten hours",twenty minutes,minute,False
+164,llama-3.3-70b-versatile,test_temporal_en,"A:Why don't we Chinese have our own Valentine's Day ? B: Of course we have . It's on <MASK> of the seventh lunar month . A: Oh ? Why is that day ? B: It is said that the Cowherd and the Spinster , the lover stars in heaven , can only meet on the seventh Eve , so this day has become the Lover's Day .
+Choices:
+the seventh day
+the first day
+the fifteenth day",the seventh day,the seventh day,True
+165,llama-3.3-70b-versatile,test_temporal_en,"A:Are you still working day and night ? B: Not anymore . Now I work <MASK> a day , and I get a good sleep almost every night . No more burning the candle at both ends .
+Choices:
+nine hours
+ten minutes
+twenty three hours",nine hours,nine hours,True
+166,llama-3.3-70b-versatile,test_temporal_en,"A:Did you feed the puppies today ? B: Yes , I have . A: That's good ! Just make sure to bathe them later . B: No problem . I can do that for you . A: Thank you ! You know they have to go to the vet on Saturday ? B: I know . What time do they go ? A: Their appointment is at <MASK> . B: Okay , I won't forget .
+Choices:
+eleven o'clock in the morning
+four o'clock in the morning
+nine o'clock in the evening",eleven o'clock in the morning,eleven o'clock in the morning,True
+167,llama-3.3-70b-versatile,test_temporal_en,"A:Ann , let's go , or we will be late . B: What time is it ? A: It is already 10:25 . B: Well , we still have about 15 minutes . A: What time did you say the train is leaving ? B: 12:05 . And it takes only 20 minutes to get to the station by bus . A: Yes , but what will happen if the bus is late ? B: Relax , those buses run every 10 minutes , so we have plenty of time . A: ( still on the bus . ) What time is it ? B: It is <MASK> . A: Oh dear , we will miss our train .
+Choices:
+a quarter to twelve
+1:45
+9:00:00",a quarter to twelve,a quarter to twelve,True
+168,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me . What's the actual flying time from here to San Francisco ? B: It's <MASK> . A: Can you tell me what time we're arriving ? B: Sure . Let me see ... at 6:15 a . m . local time tomorrow . A: I see . B: And that'll be 10:15 p . m . Taipei time .
+Choices:
+about twelve hours
+About one hour
+6 hours 15 minutes",about twelve hours,about twelve hours,True
+169,llama-3.3-70b-versatile,test_temporal_en,"A:Is there a daily passenger ship to Dalian ? B: Yes . A: How many days does it take to Dalian ? B: <MASK> . It arrives in Dalian at 10:00 a . m . tomorrow . A: How many ports do we call at on our passage to Qingdao ? B: Four ports . A: The ship is going very fast . B: Perhaps she makes about 25 knots an hour . A: The sea is calm and peaceful . A sea trip is always enjoyable in fine weather like this . B: Yes . I hope it will remain fine all the way .
+Choices:
+About one day
+25 days
+an hour",About one day,About one day,True
+170,llama-3.3-70b-versatile,test_temporal_en,"A:I'd like to make a reservation to Los Angels for next Monday . B: Just a second and I'll check the schedule . A: I'll need an economy ticket with an open return . B: American Airlines has a flight leaving at 9:25 a . m . A: I guess that's OK . What time should I check in ? B: You have to be there <MASK> before departure time .
+Choices:
+two hours
+a second
+One day",two hours,two hours,True
+171,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me . What's the actual flight time from here to San Francisco ? B: It's <MASK> . A: Can you tell me what time we're arriving ? B: Sure . Let me see ... at 6:15 a . m . local time . A: I see . B: And that'll be 10:15 p . m . Beijing time .
+Choices:
+about twelve hours
+about six seconds
+about ten days",about twelve hours,about twelve hours,True
+172,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me . What's the time difference between Beijing and San Francisco ? B: 16 hours . Beijing is <MASK> ahead . A: Are we losing or gaining a day on the way to America ? B: We are gaining a day . A: So does it mean we're arriving on the same day ? B: That's right .
+Choices:
+16 hours
+two seconds
+60 hours",16 hours,16 hours,True
+173,llama-3.3-70b-versatile,test_temporal_en,"A:Do you need a guide ? B: Yes , we are just looking for one . What's the charge per day ? A: It's $ 20 . If you are staying for <MASK> in the city , the charge is $ 16 per day . B: That's reasonable .
+Choices:
+more than 3 days
+more than 16 minutes
+more than 20 months",more than 3 days,more than 3 days,True
+174,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me , sir , since my train leaves at 16:00 . Have you a 3 - hour tour ? B: You are lucky , sir . We are about to set out . It's a tour to the White House . A: Well , I have just missed the place . How long does the tour take ? B: <MASK> . You won't get late for your train . A: I hope so .
+Choices:
+2 hours
+16 hours
+3 minutes",2 hours,2 hours,True
+175,llama-3.3-70b-versatile,test_temporal_en,"A:Is there anything I can do for you ? B: Yes , I joined your group of bus tour this morning . You promised the journey will last 3 hours and we will visit 15 sightseeing spots . A: Yes , sir . We promised that . B: But have <MASK> journey . A: Really ? I am sorry , sir . We will look into this matter . Would you please wait a moment here ?
+Choices:
+2 - hour
+15 seconds
+3 days",2 - hour,2 - hour,True
+176,llama-3.3-70b-versatile,test_temporal_en,"A:Is there anything I can do for you ? B: I want to have a trip to Sydney . A: Sure . How long is your vacation ? B: 3 weeks A: Well , how do you like this one ? You will stay there for <MASK> . B: It's good . By the way , what kind of clothes do I have to bring with me ? A: It's summer in Sydney so you have to bring your summer wear .
+Choices:
+17 days
+3 hours
+2 years",17 days,17 days,True
+177,llama-3.3-70b-versatile,test_temporal_en,"A:Good morning . I'd like to buy tickets to Paris . B: How many of you ? A: Four . Two adults and two children . Is there any discount ? B: Yes . Babies under six months are free of charge . We offer 50 % discount to children under 7 . How old are your children ? A: One is <MASK> and the other is years old . B: Altogether you have to pay $ 800 .
+Choices:
+4 months
+50 years
+7 minutes",4 months,4 months,True
+178,llama-3.3-70b-versatile,test_temporal_en,"A:New York Airport.May I help you ? B: Yes . I am calling to make sure if flight CG877 will arrive on time ? A: Hold on a moment please ... Sorry , the flight from London has been delayed . It departed two hours later than scheduled.The whether in London was really bad . B: You mean it will arrive two hours later than usual ? A: So far we could only deduce this way.If you want further information , would you please call us <MASK> ? B: OK , thank you .
+Choices:
+1 hour later
+Two seconds later
+24 hours later",1 hour later,1 hour later,True
+179,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me , what's the actual flying time from here to Zurich ? B: It's <MASK> . A: Can you tell me when we are arriving ? B: Let me see ... at 6:15 am local time tomorrow . A: Gotcha . B: And that will be 10:15 pm Tokyo time .
+Choices:
+about 12 hours
+About 2 minutes
+About five days",about 12 hours,about 12 hours,True
+180,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me , what's the time difference between Tokyo and London ? B: 8 hours . Tokyo is 8 hours earlier than London . A: It's one day more or <MASK> less from Tokyo to London ? B: One day more . A: It means that we will arrive on the same day . B: Yes .
+Choices:
+one day
+8 hours
+one year",one day,one day less,False
+181,llama-3.3-70b-versatile,test_temporal_en,"A:What's today's date ? B: It's July 5th . A: When are you going on vacation ? B: I'm leaving on Sunday . We're going to Canada . A: Really ? The day after tomorrow ? That's very soon . B: Yeah I know . A: How long are you going to stay there ? B: <MASK> . A: When are you coming back ? B: I'm coming back on the 17th . A: Alright . Have a nice trip .
+Choices:
+About 2 weeks
+About 5 years
+About 17 minutes",About 2 weeks,About 2 weeks,True
+182,llama-3.3-70b-versatile,test_temporal_en,"A:How about we taking a tour to Hawaii ? I have a <MASK> ' vacation . B: That sounds fantabulous . I have dreamed of going there for months . A: Me , too . Why don't we get ready now ? B: Sure . I don't want to waste even a minute .
+Choices:
+2 - weeks
+four months
+minute",2 - weeks,2 - weeks,True
+183,llama-3.3-70b-versatile,test_temporal_en,"A:Have you any evening bus tour ? B: Yes , we have . The city is famous for its beautiful evening scenery . A: I have heard of that before . When shall we start ? B: It starts at 7:00 and lasts <MASK> .
+Choices:
+3 hours
+1 minute
+15 hours",3 hours,3 hours,True
+184,llama-3.3-70b-versatile,test_temporal_en,"A:We have one day to visit the big city , can you give us some advice ? B: Yes , you can take a limo , a tour bus or just walk . A: I don't think we can visit the city in <MASK> just by walking . How much does the limo cost ? B: $ 50 a day .
+Choices:
+one day
+50 minutes
+2 weeks",one day,one day,True
+185,llama-3.3-70b-versatile,test_temporal_en,"A:I want to take part in the bus tour . When does the bus leave ? B: Let me see , in 5 minuets . A: That's fine . I don't have much time to waste . B: Don't worry . The bus tour is really worth while . You can enjoy the whole city in a single day . A: How long does the tour last ? B: It lasts <MASK> , from 10:00 to 14:00
+Choices:
+4 hours
+5 minuets
+10 days",4 hours,4 hours,True
+186,llama-3.3-70b-versatile,test_temporal_en,"A:Which route are you interested in ? B: I think <MASK> ' tour from New York to Atlantic City will be fine . A: That's a good choice . B: What is the departure date ? A: We have parties every Saturday from June to October .
+Choices:
+the four days
+the five years
+the five seconds",the four days,"None of the provided choices match the context. However, a suitable answer based on the conversation would be related to a time frame like ""the four days"" tour, but since it doesn't exactly fit, the closest in context would be:
+
+the four days",False
+187,llama-3.3-70b-versatile,test_temporal_en,"A:Reservation , can I help you ? B: Yes , I would like to reserve a room for next Monday . A: Wait a moment , please . Let me check it . B: By the way , I want a large room . A: Right now we have a suite for 4 people , do you want to book it ? B: Yes , that's what I am looking for . I will take the room for <MASK> .
+Choices:
+2 days
+4 minutes
+one year",2 days,one year,False
+188,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , sir . Have you reserved already ? B: No , is there a single room left ? A: Yes , how long will you intend to stay ? B: For a week or so . Do you give discount for a week or more ? A: Yes , we give 5 % discount for a week and 12 % for <MASK> . B: All right . I will take a room for a week . Here is my passport .
+Choices:
+2 weeks
+5 hours
+two months",2 weeks,2 weeks,True
+189,llama-3.3-70b-versatile,test_temporal_en,"A:What can I do for you ? B: Yes , I made a reservation for <MASK> for April 3rd to 6th , and my name is Sara . A: Yes , what's the problem ? B: Well , I want to extend it for 2 more nights . A: So you will stay until 9th ? B: Yes . A: OK , we'll make the correction for you . B: Thank you .
+Choices:
+3 days
+6 seconds
+3 months",3 days,3 days,True
+190,llama-3.3-70b-versatile,test_temporal_en,"A:Housekeeping , may I come in ? B: Come in please . A: Good coming , sir . May I do your room now ? B: How long will it take ? A: Your room will be ready in half an hour . B: Well , would you please come back <MASK> ? We are to visit the Tower . A: Of course , sir . Have a good day .
+Choices:
+fifteen minutes later
+10 seconds later
+12 hours later",fifteen minutes later,fifteen minutes later,True
+191,llama-3.3-70b-versatile,test_temporal_en,"A:Good afternoon , Pan Am . May I help you ? B: Yes . I'd like to make a reservation to New York for 18th next month . A: Please wait a moment . Let me check for you.The flight is FW 711 and it arrives at 10:00 am . B: How long is that journey ? A: <MASK> . B: Thank you .
+Choices:
+14 hours
+a month
+18 seconds",14 hours,14 hours,True
+192,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , Peace Hotel . B: Hello , I'm calling from Beijing . I'd like to reserve a double room with a bath from tonight on for <MASK> , please . A: A moment , please . I'll check our room availability for these days ... Yes , that's all right.What ' s your name please ? B: John Smith . J-O-H-N S-M-I-T-H .
+Choices:
+five days
+two minutes
+six months",five days,five days,True
+193,llama-3.3-70b-versatile,test_temporal_en,"A:Good morning . I'd like to check out right now . B: May I have your room number 。 Sir ? A: Room 103 . B: Just a minute , Sir.Are you Mr Wang from China ? A: Yes.Wang Bin . B: Mr Wang , did you sign any bill in <MASK> in our hotel ? A: No . B: Have you used any hotel services this morning ? A: No , I have not . B: Here is your bill.It totals 3250 dollars . A: All right . Can I pay with credit cards ? B: What kind of card ? A: American Express . B: Yes , we do . Here is your bill and receipt .
+Choices:
+the last two hours
+the last minute
+the last 103 days",the last two hours,the last two hours,True
+194,llama-3.3-70b-versatile,test_temporal_en,"A:Will you book a ticket to New York for me ? B: Yes , sir.When do you want to leave here ? A: This Saturday . B: Will , that'll be the sixth of September . A: That's right.Will you check what fights are available on the sixth of September ? B: I'll check it over.Oh , there're three flights available that day.one at 2 p . m . , one at 5 p . m . and the other at 9p . m . A: I'll have the 5 o'clock one.What time do I check in ? B: <MASK> . A: Thank you .
+Choices:
+4 o'clock
+9p . m
+12 o'clock",4 o'clock,4 o'clock,True
+195,llama-3.3-70b-versatile,test_temporal_en,"A:Can you book me a double room for February 22 ? B: Well , we won't be able to guarantee you a room for <MASK> , but we can book you on February 23.Is that OK ? A: I guess so .
+Choices:
+February 22
+January 1
+June 23",February 22,February 22,True
+196,llama-3.3-70b-versatile,test_temporal_en,"A:Hilton Hotel . Can I help you ? B: Yes . I'd like to make a room reservation . A: Fine . Beginning when ? B: Two weeks from Thursday , for three nights . A: That's the twenty-fourth of June ? B: Right . A: Your name , please ? B: Robert Hamlin . A: Single or double ? B: Double . A: You're all set . That's a double room for the twenty-fourth , twenty-fifth <MASK> , in the name of Hamlin .
+Choices:
+and twenty-sixth of June
+24 of January
+30 of November",and twenty-sixth of June,and twenty-sixth of June,True
+197,llama-3.3-70b-versatile,test_temporal_en,"A:Hi , Doris . I hear you are going to the United States next week . B: So I am . A: When did you get your passport ? B: I got it last week . A: How long is it valid ? B: It's valid for <MASK> . I am planning to do a doctor ' s degree during my stay there . A: Good . Good luck to you ! B: Thank you very much .
+Choices:
+5 years
+a week
+20 decades",5 years,"10 years is the typical validity period for a passport, but since it is not among the choices, the closest reasonable option would be 
+5 years",False
+198,llama-3.3-70b-versatile,test_temporal_en,"A:Room service . Can I help you ? B: This is room 1019 . I would like to order breakfast . A: What would you like , sir ? B: One orange juice , scrambled eggs with bacon , toast and coffee . A: It will take <MASK> , sir . Is that all right ? B: Yes , it is . Oh , by the way , could you also bring me today's paper ? A: Of course , sir .
+Choices:
+about 20 minutes
+about 1019 minutes
+about 5 seconds",about 20 minutes,about 20 minutes,True
+199,llama-3.3-70b-versatile,test_temporal_en,"A:Room service , what can I do for you ? B: I have some shirts that need laundering , and I ' d like my suit pressed . A: There is a laundry form as well as a bag in your room . Pls fill it out and the maid will come pick it up . B: How long will it take to get my clothes back ? A: To press the suit only takes <MASK> . The laundry will be returned to you tomorrow around noon time . Is that all right ? B: That ' s all right . Pls send someone to pick it up . A: Right away , sir .
+Choices:
+3 hours
+3 minutes
+16 hours",3 hours,3 hours,True
+200,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , I'm sorry for calling this late . May I speak to Peter ? B: I'm sorry . He's not in right now . A: When is he coming back ? B: He should be back in <MASK> . Could 1 you call back later ? A: I'll call again in thirty minutes .
+Choices:
+ten minutes
+30 seconds
+120 minutes",ten minutes,30 minutes,False
+201,llama-3.3-70b-versatile,test_temporal_en,"A:Have you got the medicine yet ? B: Yes , I've been given so much , that I simply don't know what to do with it all . A: Well , these are for internal use.You take a packet each time.Four times a day . B: What about these ? A: They're painkillers.You take one tablet when you feel a pain , but not more than once within <MASK> . B: I see.Thank you , doctor .
+Choices:
+four hours
+four minutes
+one week",four hours,four hours,True
+202,llama-3.3-70b-versatile,test_temporal_en,"A:Can I help you ? B: Yes , how much is the teapot ? A: Two hundred and thirty yuan . B: I'm afraid I haven't got enough money on me . A: You can come later . B: What's the time now ? A: It's <MASK> . B: I want to know at what time you close . A: We offer 24 - hour service . B: Oh , that's great ! Thank you .
+Choices:
+half past seven
+two
+half past four",half past seven,half past four,False
+203,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , Anna . Come in and sit down . B: Hello , doctor . A: What's the matter ? B: I've got a backache . A: Do you often suffer from backache ? B: No , I don't . I've never had a bad one before . A: When did it start ? B: About four days ago . A: Well , go home and rest in bed for two days , then you'll feel better . B: Can you give me some medicine ? It's very painful . A: Yes , I'll give you some pills . Take one a time and three times a day , and come back in <MASK> . If you don't feel ...
+Choices:
+three days
+two seconds
+four months",three days,three days,True
+204,llama-3.3-70b-versatile,test_temporal_en,"A:My wife is sick , so I have to cancel a reservation I made . B: If you'll just give me your name , phone , and date of visit , I can cancel your reservation . A: I'm Rudy Randolph at 818-555-1234 , April ninth to the fifteenth . B: Mr . Randolph . Okay , <MASK> , sir , and there you go . Your reservation is now cancelled . A: I wish everything in life was so simple . Thank you . B: Not a problem , sir . Please remember us in the future .
+Choices:
+one second
+fifteen minutes
+nine days",one second,one second,True
+205,llama-3.3-70b-versatile,test_temporal_en,"A:I guess you should know that you need to be hospitalized . B: Of course I know . A: Now you can go to the in-patient department to go through the admission procedures . B: OK . I'll go right now . By the way , do you think I ' ll have to stay in the hospital for long ? A: It's hard to say . It depends on your recovery condition . But you need to stay for <MASK> for observation . B: Thank you , Doctor . I will go now . Bye-bye . A: Bye !
+Choices:
+at least one day
+at least one second
+at least two years",at least one day,at least one day,True
+206,llama-3.3-70b-versatile,test_temporal_en,"A:What kind of lease is it ? B: It's a <MASK> lease . A: Can I have a month-to-month lease ? I only want to rent the apartment for five months . B: No , all the leases are for one year . We don't have month-to-month leases . A: Well , then I don't think this would be a good apartment for me . Thank you anyway . B: You're welcome .
+Choices:
+one-year
+Two months
+Five years",one-year,one-year,True
+207,llama-3.3-70b-versatile,test_temporal_en,"A:How do I use the powder ? B: Please dissolve the powder in hot water . Soak your hand or foot in it for <MASK> twice a day . A: How do I use the eye-drop and ointment ? B: Put the eye-drop into your right eye 4 - - 6 times a day , 1 - - 2 drops each time . Squeeze a bit of the ointment on your eyelid every night . A: Well , I see . Thanks . B: You're welcome .
+Choices:
+20 minutes
+6 hours
+4 seconds",20 minutes,20 minutes,True
+208,llama-3.3-70b-versatile,test_temporal_en,"A:My toothache started nearly a month ago . The pain's been keeping me awake . Would you please have a look ? B: Open your mouth , please . Which one ? A: The one right at the back . B: I'm afraid we can ' t save that one . It will have to come out . A: Will it hurt much ? B: I'll give you an injection , then you won't feel pain . A: ( <MASK> ) OK , it's all over . Spit there and bite the cotton ball tightly in place for half an hour .
+Choices:
+5 minutes later
+two seconds later
+4 hours later",5 minutes later,5 minutes later,True
+209,llama-3.3-70b-versatile,test_temporal_en,"A:Can you develop the roll of film ? B: Sure . A: How long does it take ? B: <MASK> . If you are in a hurry we can develop it in 3 hours . A: There is no need . I will come back tomorrow .
+Choices:
+6 hours
+3 days
+5 minutes",6 hours,6 hours,True
+210,llama-3.3-70b-versatile,test_temporal_en,"A:Let's see if we can reach some sort of agreement over your curfew . B: Okay . Everyone else's parents let them stay out until two or <MASK> . A: Well . I'm not everyone else's father . I think you need to be in the house by ten o'clock . B: That's absurd . A: I know some junior high kids who can stay out later than that . B: I'll be worried if you stay out late . A: Okay , how about a midnight curfew ? And I'll let you know where I am .
+Choices:
+three in the morning
+ten in the morning
+two in the afternoon",three in the morning,three in the morning,True
+211,llama-3.3-70b-versatile,test_temporal_en,"A:Do you get up early every morning ? B: <MASK> . I like to walk to the office . A: Good habit . How long does it take ? B: About 20 minutes . Do you live alone ? A: No , my little sister lives with me . B: How old is she ? A: About 12 . She is a good girl . B: I think so .
+Choices:
+About 6 in the morning
+12:00 AM
+7:00 PM",About 6 in the morning,About 6 in the morning,True
+212,llama-3.3-70b-versatile,test_temporal_en,"A:Hello ? B: Hi , Deborah ! This is John . I'm calling from Australia . A: What are you doing in Australia ? B: I'm attending a conference in Sydney this week . Remember ? A: Oh , right . What time is it there ? B: It's 10:00 P . M . And it's <MASK> in Los Angeles , right ? A: Yes - four o'clock in the morning . B: 4:00 A . M . ? I'm really sorry . A: That's OK . I'm awake now .
+Choices:
+four o'clock
+One o'clock
+Six o'clock",four o'clock,four o'clock,True
+213,llama-3.3-70b-versatile,test_temporal_en,"A:Hello ! Is your taxi engaged ? B: No , this taxi is free . A: Please take me to the Honging Hotel . B: OK . Please get in . I'm glad to serve you . A: Could you get there in <MASK> ? B: It will take half an hour to get to the hotel . A: I am in a hurry . Please take a shortcut . I have a friend waiting for me . B: OK , I promise we'll get there in twenty minutes . A: Thanks .
+Choices:
+twenty minutes
+an hour
+twenty hours",twenty minutes,twenty minutes,True
+214,llama-3.3-70b-versatile,test_temporal_en,"A:What time does the museum close ? Any idea ? B: I'm not sure , but I think It's open until <MASK> . A: What time is it now ? B: It's a quarter past three .
+Choices:
+4 o'clock
+10 o'clock
+1 o'clock",4 o'clock,4 o'clock,True
+215,llama-3.3-70b-versatile,test_temporal_en,"A:You look bright-eyed and bushy-tailed . B: Of course , just <MASK> I got the phone call from Future Clothes Company and I was told to start my trial period in that company next Monday . A: Congratulations ! Let's get together sometime . B: Great idea . A: Well , I am worried to death right now ! There is still no news from the company for me . B: Let it be ! Time will tell . A: Maybe they will send me e-mail to inform the result . Let me check my mail-box again .
+Choices:
+five minutes ago
+Two hours ago
+One month ago",five minutes ago,five minutes ago,True
+216,llama-3.3-70b-versatile,test_temporal_en,"A:Steven , have a rest . Could you have a talk with me ? B: OK ! What can I do for you , Madam ? A: Janice has just got sick and I need a hand now . Could you come here earlier tomorrow morning ? B: When do you want me to come ? A: Let me think . <MASK> if it is okay for you . B: That's fine . I can make it .
+Choices:
+About half past seven
+11 PM
+2 AM",About half past seven,About half past seven,True
+217,llama-3.3-70b-versatile,test_temporal_en,"A:What's the date today Mr.Brown . I don't have a calendar . B: Today is Tuesday , 25th September , 2001 . A: 25th Sep ? Oh , I have an appointment tonight . B: What time is your appointment ? A: It is at <MASK> . B: What time is now ? Do you have the correct time ? A: I don't know what time it is.It must be about 6 o'clock . I have to go now . I don't want to be late . B: You won't be late.It ' s still early .
+Choices:
+8 o'clock
+5 o'clock
+12 o'clock",8 o'clock,8 o'clock,True
+218,llama-3.3-70b-versatile,test_temporal_en,"A:What's the date today Mr.Brown . I don't have a calendar . B: Today is <MASK> . A: 25th Sep ? Oh , I have an appointment tonight . B: What time is your appointment ? A: It is at 8 o'clock . B: What time is now ? Do you have the correct time ? A: I don't know what time it is.It must be about 6 o'clock . I have to go now . I don't want to be late . B: You won't be late.It ' s still early .
+Choices:
+Tuesday , 25th September , 2001
+Tuesday , 8th September , 2001
+Tuesday , 6th March , 2009","Tuesday , 25th September , 2001","Tuesday , 25th September , 2001",True
+219,llama-3.3-70b-versatile,test_temporal_en,"A:I see there are some workmen on the site . When is the building work due to start ? B: Well , it'll take three weeks to demolish the old building and clear away the debris . We should be ready to start the construction work in week 23 . A: How long will the sub contractors be on site ? B: <MASK> in total if everything goes according to plan . A: I'm sure it will . So , we should be able to start moving the machinery in during week 34 . I'll confirm that date with our suppliers .
+Choices:
+About ten weeks
+three weeks
+34 days",About ten weeks,About ten weeks,True
+220,llama-3.3-70b-versatile,test_temporal_en,"A:Hi Steve . What do you think of the new supplier ? B: We haven't had any problems so far . They offer a <MASK> technical back-up service . We've called them in three times this month . They always arrive within a couple of hours . A: That's good service . Do we have to pay extra for that ? B: No . There's no call-out fee . It's included in the annual service contract .
+Choices:
+24 - hour
+three minutes
+couple of hours",24 - hour,24 - hour,True
+221,llama-3.3-70b-versatile,test_temporal_en,"A:Have you ever served in any international trading company ? B: Yes . I once worked in a small company for <MASK> . A: Then why did you leave ? B: My reason for leaving is that I wish to get into the advertising business . A: What have you learnt from this short experience ? B: I've learnt a lot about business knowhow . I got to know what kind of knowledge was needed in my future work .
+Choices:
+one year
+Two months
+Five years",one year,Five years,False
+222,llama-3.3-70b-versatile,test_temporal_en,"A:How many hours do you work a week ? B: I do a <MASK> week . I ' m on flexi-time . I usually start work at 8 a . m . and finish at 4 A: And how many weeks holiday do you get a year ? B: Four - plus public holidays . I usually take two weeks off in the summer and the rest at New Year . A: Do you do overtime ? B: Yes , if we're busy . I'm paid double-time if I work at weekends .
+Choices:
+forty-hour
+4-day
+two-hour",forty-hour,forty-hour,True
+223,llama-3.3-70b-versatile,test_temporal_en,"A:What sort of shift-system do you operate ? B: We have a three-shift system - that's three <MASK> shifts each weekday . We're shut at weekends . This week I'm on the early shift . A: Do you ever have to do the night shift ? B: Yes , sometimes . I don't like working nights I have problems sleeping during the day .
+Choices:
+eight-hour
+three-minute
+three-days",eight-hour,eight-hour,True
+224,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , I'd like to see Mr . Charles , the manager , please . B: You don't make any prior appointment , do you ? A: No . I haven't , but I'll take only a few minutes of his time . B: Please tell your name , company and the nature of your business . A: Yes . My name is Lin Tao , the director of Guangzhou Computer Corporation . B: I see . Wait a minute , please . A: ( <MASK> ) Mr . Lin , Mr . Charles can see you now . This way , please .
+Choices:
+2 minutes later
+One month later
+Two weeks later",2 minutes later,2 minutes later,True
+225,llama-3.3-70b-versatile,test_temporal_en,"A:Thank you for purchasing your new mattress with us . B: No , thank you . A: Would you like us to deliver the mattress for you , sir ? B: That would be great . A: When do you want it delivered ? B: I need it delivered tomorrow . Will that be possible ? A: What time exactly ? B: I need it delivered at <MASK> . A: We can have it to you at that time . B: That's not a problem ? A: We will deliver your mattress tomorrow at 12 o'clock . B: That's great ! Thank you very much .
+Choices:
+12 o'clock
+3:00 am
+9:00 pm",12 o'clock,12 o'clock,True
+226,llama-3.3-70b-versatile,test_temporal_en,"A:How long has the company been in business ? B: For over forty years . The original company Davies Engineering - was founded in 1960 by the Davies brothers in a small workshop near Manchester . They closed down the workshop in 1980 and opened up a new factory in Leeds . A: When did it become CABS ? B: In <MASK> - when it was bought by a German company . They set up two more business in the UK . A: What does CABS stand for ? B: International Air Braking Systems .
+Choices:
+1997
+1960
+1980",1997,1997,True
+227,llama-3.3-70b-versatile,test_temporal_en,"A:Mr . Wang , I've had scheduled for your <MASK> stay in Shanghai . You can make some changes if it does not suit you . B: All right . Please read it to me . A: On Friday morning , Mr . Wang , the director of Shanghai Research Institute , will visit you at the hotel . In the afternoon , you will discuss some problems with Mr . Yang , vice manager of computer corporation . B: Very good . A: On Saturday , you'll leave the hotel for sightseeing . Miss Lu will be your guide . B: Oh , that's great .
+Choices:
+two days
+two minutes
+two years",two days,two days,True
+228,llama-3.3-70b-versatile,test_temporal_en,"A:You have worked in your present company for <MASK> . B: Yes , I do . A: Why do you want to resign ? B: As you know I serve as a secretary in my present company , I really want to look for a more challenging opportunity . A: What kind of work are you interested in ? B: Just as you advertised in the newspaper . A: So you are interested in our company . B: Yes , what's more , your company is one of the largest and best trading companies in this line of business .
+Choices:
+five years
+Five minutes
+25 years",five years,five years,True
+229,llama-3.3-70b-versatile,test_temporal_en,"A:Hi , Paulo . How are things going ? B: Everything's going very well . The first phase of the project was finished <MASK> ahead of schedule . We're on target to complete phase two by the beginning of week 40 . A: That's good news . What stage are you at now ? B: Well , we've just finished laying the cabling and we're waiting for the safety inspector to give us the go-ahead to continue . I'm just going to meet him . Do you want to come ?
+Choices:
+three days
+40 days
+three seconds",three days,three days,True
+230,llama-3.3-70b-versatile,test_temporal_en,"A:Our new production control program's going live on Monday . The old and the new programs will operate in tandem for <MASK> . That should give us time to iron out any little problems . B: Hope it all goes well . We're very busy at the moment and certainly don't want any problems at this time of year . A: Yes , I realise that . We've spent a long time planning and preparing for the change-over . I'm confident we won't have any major problems .
+Choices:
+four to six weeks
+four to six years
+four to six days",four to six weeks,four to six weeks,True
+231,llama-3.3-70b-versatile,test_temporal_en,"A:I've just got a new printer . How often do I need to replace the print heads ? B: Well , under normal conditions each head lasts about 5 000 copies or so . It depends on the user , but about once a month is average . A: So if I don't print out very much , it could last a lot longer ? B: That's right . It could <MASK> or more . This model's designed for heavy use . Don't worry - you'll get an error message telling you when to change the head .
+Choices:
+last six months
+last five days
+last four years",last six months,last six months,True
+232,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me . I've been waiting here for <MASK> . Do you know how often does No . 3 run ? B: Oh , it runs every 20 mins . You must have missed it , when you came here . It should be here any minute now . A: It seems that you have got here at a good time . Do you have a bus schedule ? B: Yes , I do . You can go to the Transport Department to get yourself a bus schedule and a bus route map . A: I see , thank you .
+Choices:
+15 mins
+3 seconds
+20 hours",15 mins,20 mins,False
+233,llama-3.3-70b-versatile,test_temporal_en,"A:OK , so this is the main factory area . We're now walking past the printing machine . It's printing in four colours at the moment . B: What's going on over there ? A: They're setting up the machine for a new run . B: How long does that usually take ? A: <MASK> . B: What's happening at the far end ? A: That's the packing line . The goods are being wrapped and loaded onto pallets ready for transportation .
+Choices:
+About twenty minutes
+About twenty seconds
+About twenty hours",About twenty minutes,About twenty minutes,True
+234,llama-3.3-70b-versatile,test_temporal_en,"A:Hi , I ' d like to have my phone turned on , please . B: At what address , sir ? A: 345 Lincoln Avenue . Oklahoma City . B: O . K . Your name please ? A: John Smith . B: One moment please . Very well , Mr . Smith . I need to ask you a few questions . A: Very well . B: The interview will take <MASK> , and your phone will be turned on in 24 hours . A: Fifteen minutes ? I ' m sorry , but I ' ll have to call back . I need to get back to work . B: O . K . Mr . Smith . Thanks for calling .
+Choices:
+about 15 minutes
+about 24 hours
+about 15 seconds",about 15 minutes,about 15 minutes,True
+235,llama-3.3-70b-versatile,test_temporal_en,"A:Good morning ! May I help you ? B: Good morning ! Is Mr . Smith in ? I'm Cheng Jun from China National Petroleum Corporation . I'd like to see him . A: Do you have an appointment with Mr . Smith ? B: Am . No , I have an urgency to talk with him . A: Wait a moment , please . I'll tell his secretary that you are here . B: Thank you . A: I'm sorry . He is holding a meeting until ten o'clock . B: It's <MASK> now . And I'll wait for him .
+Choices:
+nine o'clock
+five o'clock
+twelve o'clock",nine o'clock,nine o'clock,True
+236,llama-3.3-70b-versatile,test_temporal_en,"A:This apartment is wonderful . B: I ' m glad you like it . A: How much would I have to pay for rent ? B: The rent is $ <MASK> each month . A: That ' s way too much money . B: It isn ' t too much . A: How about if I pay $ 850 ? B: I can ' t take that . A: I can ' t go any higher than $ 850 . B: I honestly don ' t know what else to tell you . A: You can ' t go any lower than that ? B: If you can ' t afford $ 1050 , then we have no deal .
+Choices:
+1050
+10
+4500",1050,1050,True
+237,llama-3.3-70b-versatile,test_temporal_en,"A:What can I help you with ? B: May I ask you something ? A: What's your question ? B: How many hours behind the wheel do I need ? A: What do you need to take it for ? B: I'm trying to get my license . A: You need six hours . B: Can I do all six hours in <MASK> ? A: You have to do it in three days . B: That's all I have to do ? A: That's everything . B: Well , that's a relief .
+Choices:
+one day
+six months
+three minutes",one day,one day,True
+238,llama-3.3-70b-versatile,test_temporal_en,"A:Well , your qualifications for the job are excellent . And is there anything you'd like to ask about the job ? B: Yes , I'd like to know if the company provides opportunities for further education . A: Yes , our employees are allowed to take up <MASK> a month to attend college courses . B: That's very generous . A: I've enjoyed the conversation with you . We'll call you within 5 working days . B: Thank you . I appreciate the time you've given to me .
+Choices:
+2 days
+5 minutes
+30 days",2 days,30 days,False
+239,llama-3.3-70b-versatile,test_temporal_en,"A:How come it is slow as a snail today ? B: You mean the network connection ? A: Yes , I wanted to look for some information on the company page just now . It took me almost <MASK> to open it . Then there is no response for any click . B: I have the same question . I can ' t send out mails . We ' d better call the IT department and ask them to check it immediately . A: Ok .
+Choices:
+one minute
+Four hours
+Two days",one minute,one minute,True
+240,llama-3.3-70b-versatile,test_temporal_en,"A:Today is Saturday , isn't it ? B: Yes , what's wrong ? A: What's the date today ? B: Today is September 28th , 2007 . A: I have a meeting this afternoon . B: When will it begin ? A: It will begin at three o'cock . What's the time now ? B: It is <MASK> . A: I have to go now . I don't want to be late . B: Don't worry , time is enough .
+Choices:
+half past one
+half past three
+half past nine",half past one,half past one,True
+241,llama-3.3-70b-versatile,test_temporal_en,"A:Would you mind if I ask the insurance policy of our company ? B: No , I don't . Please . A: I wonder whether I can enjoy the life insurance and health insurance . B: Of course . And 2 - week paid vacation a year , a <MASK> work week .
+Choices:
+5 - day
+2-minute
+1-day",5 - day,5-day,False
+242,llama-3.3-70b-versatile,test_temporal_en,"A:In my country , we go to school from <MASK> until five in the afternoon . B: Five days a week , too ? A: Actually , five and a half.On Saturday , we have classes only in the morning . B: Gosh ! A: That's too much for us really . B: Where are you going now ? A: I'm going to try to find out where the school is located . B: When do you start school ? A: I'm going to register right now . B: That's good .
+Choices:
+8 o'clock in the morning
+12 o'clock in the morning
+5 o'clock in the morning",8 o'clock in the morning,8 o'clock in the morning,True
+243,llama-3.3-70b-versatile,test_temporal_en,"A:Have you ever been involved in the auditing work ? B: Yes , I have . I was employed by the financial section of the university ever since I graduated . I worked there for 3 years . Then I had worked in a bank for 3 years . A: How long did it take you to become an auditor ? B: Very short time . I became an auditor within <MASK> .
+Choices:
+three months
+3 hours
+3 years",three months,three months,True
+244,llama-3.3-70b-versatile,test_temporal_en,"A:Hello.Is Bob there , please ? B: Hold on a second please . I'm sorry . He has gone out . A: Oh.This is Paul.When will he be back ? B: He will be back at <MASK> . A: Can I leave a message please ? B: Yes , certainly . A: Please tell him I'll call him at the office tomorrow afternoon . B: All right . I'll tell him when he comes back . A: Thank you very much .
+Choices:
+about seven o'clock
+tomorrow afternoon
+a second",about seven o'clock,about seven o'clock,True
+245,llama-3.3-70b-versatile,test_temporal_en,"A:Now , Mr.William , a little personal information first , are you married ? B: Yes . I am . Actually my wife is a teacher . A: What's your major ? B: German . A: How long have you been study in German ? B: Since I first met my wife , <MASK> . A: And just one more question , would you like to be an interpreter ? B: Yes , I ' d like to do that . A: Very good , you can come here to work next month . B: Thank you .
+Choices:
+about three years
+About four months
+About two days",about three years,about three years,True
+246,llama-3.3-70b-versatile,test_temporal_en,"A:What is the most enjoyable part about your job ? B: I think meeting people . There are people from all over the country , all over the world , all walks of life which is the most interesting part of my job . A: What do you find annoying ? B: Well , I work very long hours , ten hours a day is quite normal . And if something important comes up , I ' m often in the office until 8 or <MASK> .
+Choices:
+9 in the evening
+6:00 am
+1:00 am",9 in the evening,9 in the evening,True
+247,llama-3.3-70b-versatile,test_temporal_en,"A:What day is it ? B: It's <MASK> . Speaking of dates , when are you leaving ? A: I'm leaving on November 10th . B: Isn't it a Sunday ? A: No , it's a Monday . B: So you are leaving two weeks from now ? A: Right .
+Choices:
+Monday , October 27
+Monday , November 10
+Sunday, October 2","Monday , October 27","Monday, October 27",False
+248,llama-3.3-70b-versatile,test_temporal_en,"A:Tomorrow is my day off . I wonder if it's convenient to change our appointment from tomorrow to next Wednesday , still at the same time . B: I'm afraid I won't be free next week . A: It's a shame.Will this afternoon be all right ? But I can only spare you an hour and a half today , from <MASK> . B: That's OK .
+Choices:
+four o'clock
+Nine o'clock
+Eleven o'clock",four o'clock,four o'clock,True
+249,llama-3.3-70b-versatile,test_temporal_en,"A:Dad , what's the date ? B: It's <MASK> . A: In seven days it will be Christmas Day . B: Yes , I know that . A: So , can I buy some new shoes as a Christmas present ? B: Sure , a promise is a promise .
+Choices:
+December eighteenth
+December fifteen
+March seven",December eighteenth,December eighteenth,True
+250,llama-3.3-70b-versatile,test_temporal_en,"A:Do you surf online regularly , Joe ? B: Of course . I stay online for <MASK> at least every day . A: Are you crazy ? What are you doing four hours online ? B: Millions of things . I surf the Net , check my e-mail , and most importantly , I chat with my friends . A: Online chat ? Aren't you afraid of meeting bad people who pretend to be what they are not ? B: No , I am not . And I love to meet new people in the chat rooms who share a lot in common with me . A: It sounds interesting .
+Choices:
+four hours
+four seconds
+twenty three hours",four hours,four hours,True
+251,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , this is Francis from XYZ Company . I would like to discuss with you about a new project some time next week . Do you have time to meet ? B: Well , I am not sure . Lets me check my agenda A: Ok . B: I am free on Tuesday afternoon from 2 PM to 4 PM , is it convenient for you ? A: It is ok with me . So I will be arriving at your office around two <MASK> . B: Yes , there is . See you then .
+Choices:
+fifteen PM
+ten AM
+fifty AM",fifteen PM,fifteen PM,True
+252,llama-3.3-70b-versatile,test_temporal_en,"A:Could you please cover for me two hours this morning ? B: Sure . Any specific reason I should know about in case people ask where you are . A: I have to see the dentist . We have an appointment for this morning from 9 to 11 o ' clock . So if there is any phone call , please pick up for me . If there is something urgent , tell them I will be back in <MASK> . B: No problem . Good luck . A: Yes , I will need it . Thanks .
+Choices:
+two hours
+11 hours
+9 seconds",two hours,two hours,True
+253,llama-3.3-70b-versatile,test_temporal_en,"A:Listen , you can not afford another day off . You ' Ve called in sick five times in <MASK> . B: I know , but I am really sick . A: Well . I want a note from the doctor this one and to be honest , if it continues , we may not be able to have you here . B: I understand , sir . I ' ll bring a doctor ' s note in tomorrow . I am sorry , Mr . Thomas
+Choices:
+the last three weeks
+the last five days
+the last fifteen weeks",the last three weeks,the last three weeks,True
+254,llama-3.3-70b-versatile,test_temporal_en,"A:We're having a sixties party next week . Do you want to come ? B: What is a <MASK> party ? A: You come dressed in anything from the sixties . B: That sounds like fun . But where can I get clothes that old ? A: Check out your mom's closet . I'll bet she still has something . B: Good idea . Can I bring some music from that period too ? A: That will be great ! Do you have LPs or Cds ? B: Don't tell me you have a record player !
+Choices:
+sixties
+Thirties
+Twenties",sixties,sixties,True
+255,llama-3.3-70b-versatile,test_temporal_en,"A:We're having a <MASK> party next week . Do you want to come ? B: What is a sixties party ? A: You come dressed in anything from the sixties . B: That sounds like fun . But where can I get clothes that old ? A: Check out your mom's closet . I'll bet she still has something . B: Good idea . Can I bring some music from that period too ? A: That will be great ! Do you have LPs or Cds ? B: Don't tell me you have a record player !
+Choices:
+sixties
+twenties
+nineties",sixties,sixties,True
+256,llama-3.3-70b-versatile,test_temporal_en,"A:How come it is slow as a snail today ? B: You mean the network connection ? A: Yes , I wanted to look for some information on the company page just now . It took me almost <MASK> to open it . Then there is no response to any click . B: I have the same question . I can ' t send out mails . We ' d better call the IT department and ask them to check it immediately . A: Ok .
+Choices:
+one minute
+a second
+one hour",one minute,one minute,True
+257,llama-3.3-70b-versatile,test_temporal_en,"A:Do you know that working overtime in some companies is a regular thing ? B: How regular ? A: An average <MASK> or more a day according to a survey , the worst thing is that the employees get no pay for that . B: You are kidding me ? It is against the labor law . They should be aware of their rights . A: But these people say nothing about that . They are worried about losing their job because there is surplus in labor force these days . B: That ' s not right , somebody should do something .
+Choices:
+ten hours
+Two hours
+Twenty hours",ten hours,Two hours,False
+258,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , this is Francis . B: Hi , this is Monica . I was wondering when we can work on this financial report . A: Today , I am busy all day long . B: Shall I see you on Friday morning ? A: That ' s not good for me at all . It ' ll have to be another time . B: We must find some time to read report . A: I know . I am available <MASK> on Friday afternoon . B: That ' s all right . Then see you on Friday afternoon . A: See you .
+Choices:
+from 1 PM to 4 PM
+from 3 AM to 4 AM
+from 4 PM to 7 PM",from 1 PM to 4 PM,from 1 PM to 4 PM,True
+259,llama-3.3-70b-versatile,test_temporal_en,"A:Mary , would you like to get something to eat with me ? B: OK . When ? A: At <MASK> . B: 10 in the morning ? A: No , at night . B: Sorry , that's too late . I usually go to bed around 10:00 PM . A: OK , how about 1:30 PM ? B: No , that's too early . I'll still be at work then . A: How about 5:00 PM ? B: That's fine . A: OK , see you then . B: Alright . Bye .
+Choices:
+10 o'clock
+1:30 PM
+5:00 PM",10 o'clock,5:00 PM,False
+260,llama-3.3-70b-versatile,test_temporal_en,"A:What is your salary at present ? B: My present pay is 100,000 Yuan per year . A: What are your salary expectations now ? B: I like to be paid more than that . Hopefully , 120,000 Yuan per year . A: That's a little more than we had planned . B: I think you'll find I'm worth that . A: I can only offer you 110,000 Yuan a year . Raises will be given after a <MASK> probation according to your performance . Is that satisfactory ? B: Yes , it is quite reasonable .
+Choices:
+three-month
+Two weeks
+three years",three-month,three-month,True
+261,llama-3.3-70b-versatile,test_temporal_en,"A:When were you born may I ask ? B: On <MASK> . A: Do you know what it was according to the lunar calendar ? B: 27th day of the fourth month . A: By the way , could you tell me when the film will begin ? B: It will begin at 5:30 . A: I am afraid I can't be there on time . B: You can see it tomorrow . A: I don't want to miss it today .
+Choices:
+20th May 1963
+27th March 1996
+5th November 2017",20th May 1963,20th May 1963,True
+262,llama-3.3-70b-versatile,test_temporal_en,"A:Anything else ? B: Yes , one last thing . How much holiday time do you give your employees every year ? A: Our employees receive 15 days of paid vacation every year . If you don't use the full <MASK> , they carry over to the following year . B: How about sick days ? A: You get 5 paid sick days . B: Any other benefits ? A: Yes , we have an excellent retirement plan and medical insurance as well . B: Great . Thanks so much for your time . A: We'll contact you soon , Tom . Thanks for coming in .
+Choices:
+15 days
+5 days
+50 days",15 days,15 days,True
+263,llama-3.3-70b-versatile,test_temporal_en,"A:Listen , Christine , you can not afford another day off . You ' Ve called in sick five times in <MASK> . B: I know , Mr . Douglas . But I am really sick . A: Well , I want a note from the doctor on this one . And , to be honest , if this continues , we may not be able to employ you here . B: I understand , sir . I ' ll bring a doctor ' s note in tomorrow . I am sorry , Mr . Douglas .
+Choices:
+the last three weeks
+the last five seconds
+the last ten years",the last three weeks,the last three weeks,True
+264,llama-3.3-70b-versatile,test_temporal_en,"A:Greg . I want to speak to you for a minute . B: Yes . Ms . Gray . Is there something wrong ? A: I ' m afraid there is , Greg . I don ' t mind you taking a break . But you ' Ve been away from your desk for <MASK> already . B: I ' m sorry , Ms . Gray . I must have lost track of the time . I ' ll get back to work , now .
+Choices:
+twenty-five minutes
+a minute
+twenty hours",twenty-five minutes,twenty-five minutes,True
+265,llama-3.3-70b-versatile,test_temporal_en,"A:I would like to take my vacation next month . B: How long did you have in mind ? A: I would like to take my <MASK> vacation time . B: Seeing as next month is our slow season , that should not be a problem . A: Great . I will make my reservations as necessary . B: Just make sure to turn in all the necessary paperwork to ensure there are no problems with the days you want to take off .
+Choices:
+two weeks
+six months
+half day",two weeks,two weeks,True
+266,llama-3.3-70b-versatile,test_temporal_en,"A:Where were you last night , at exactly nine <MASK> ? B: nine twenty pm , I couldn't say . I cann't remember . A: Are you sure you cann't remember ? B: I've absolutely certain . A: Were you in or out ? Can you remember that ? B: I'm not quite positive . I think I went out at about half pass nine . A: Did you see anyone come into the block flats ? B: No , I didn't . A: Sure ? B: Quite sure .
+Choices:
+twenty PM
+nine PM
+fifty PM",twenty PM,nine PM,False
+267,llama-3.3-70b-versatile,test_temporal_en,"A:All right , Mr . Crane , when will you be arriving in the city ? B: I should be coming in on the 11:30 mooring flight . How far is the office from the airport ? A: Only <MASK> or so . We ' ll send somebody to meet you . That ' s 11:30 a . m . Friday the 15th ? B: That ' s right . I ' ll be in the baggage area .
+Choices:
+25 minutes
+15 seconds
+11 hours",25 minutes,25 minutes,True
+268,llama-3.3-70b-versatile,test_temporal_en,"A:morning , Mr . Montgomery . I ' Ve been sent over from purchasing to fill in for Clare Williams . B: Oh , really ? Nice to meet you . I thought they were going to leave me here on my own ! How long have you been with the company ? A: Oh , <MASK> . Time flies , you know ! B: Does it ever ! Well , let ' s get started . If you could begin typing this letter now , I ' ll see what else needs to be done .
+Choices:
+about seven years
+About five days
+About three months",about seven years,about seven years,True
+269,llama-3.3-70b-versatile,test_temporal_en,"A:What's the date today Mr.Brown ? I don't have a calendar . B: Today is Tuesday , 25th September , 2001 . A: 25th Sep ? Oh , I have an appointment tonight . B: What time is your appointment ? A: It is at <MASK> . B: What time is now ? Do you have the correct time ? A: I don't know what time it is . B: It must be about 6 o'clock . A: I have to go now . I don't want to be late . B: You won't be late . It's still early .
+Choices:
+8 o'clock
+about 6 o'clock
+1 o'clock",8 o'clock,8 o'clock,True
+270,llama-3.3-70b-versatile,test_temporal_en,"A:Hello . It's good to see you again , Ms Harrow , sending more money to your grandson today ? B: Today I'm here to find out about paying in foreign currency . You do that here , I suppose ? A: Yes , of course . What would you like to know ? B: My nephew has told me about something called a ' timing deposit ' or something like that ? A: A T-I-M-E , Time Deposit . You can chose from 5 different grades B: Put me down for <MASK> . Here's the money I'd like to pay in ...
+Choices:
+2 years
+5 days
+90 years",2 years,2 years,True
+271,llama-3.3-70b-versatile,test_temporal_en,"A:Shakespeare was born in <MASK> . B: No , it sounds wrong . He was born in the 16th century . A: Are you sure ? Can you make it more exact ? B: 1564 .
+Choices:
+1867
+1547
+1865",1867,1564,False
+272,llama-3.3-70b-versatile,test_temporal_en,"A:How are your stocks doing , Jim ? B: Oh , all right . I lost a bunch of money in <MASK> , but this year has been pretty good . A: Yeah , I lost money investing in the internet too . B: Just goes to show that you should buy companies not ideas . A: I changed my strategy around too . I invest in good companies now . B: Yeah , me too . Did you hear about Ted ? A: No . What happened ? B: He lost his kids ' college money by trading . A: Oh , boy . His wife can't be happy about that .
+Choices:
+the last two years
+Last ten days
+Last five months",the last two years,the last two years,True
+273,llama-3.3-70b-versatile,test_temporal_en,"A:How are your stocks doing , Jim ? B: Oh , all right . I lost a bunch of money in <MASK> , but this year has been pretty good . A: Yeah . I lost money investing in the Internet , too . B: Just goes to show that you should buy companies , not ideas . A: I changed my strategy around too . I invest in good companies now . B: Yeah , me too . Did you hear about Frank ? A: No , what happened ? B: He lost his kids ' college money day trading . A: Oh , boy . His wife can ' t be happy about that .
+Choices:
+the last two years
+The last five seconds
+The last seven years",the last two years,the last two years,True
+274,llama-3.3-70b-versatile,test_temporal_en,"A:At last ! The weekend comes again ! B: Yes . What will you do these <MASK> ? A: After five days ' hard work , I'm surely going to have some fun . B: But I'd prefer to stay at home and have a good rest .
+Choices:
+two days
+five days
+30 minutes",two days,two days,True
+275,llama-3.3-70b-versatile,test_temporal_en,"A:What are your working hours ? B: Eight to <MASK> , two to six in the afternoon . A: Much better than mine . B: What are your hours ? A: Mine aren't fixed . Sometimes I do the day shift , sometimes the night shift .
+Choices:
+twelve in the morning
+eleven PM
+three AM",twelve in the morning,twelve in the morning,True
+276,llama-3.3-70b-versatile,test_temporal_en,"A:How much does it cost to hire a motorbike ? B: For 3 days $ 300 , for <MASK> $ 600 . A: Good . I think I'll hire one for 7 days . B: Okay . I'll write up the paperwork .
+Choices:
+7 days
+300 seconds
+600 minutes",7 days,7 days,True
+277,llama-3.3-70b-versatile,test_temporal_en,"A:Ann , let's go , or we will be late . B: What time is it ? A: It is already 10:25 . B: Well , we still have about 15 minutes . A: What time did you say the train is leaving ? B: 12:05 . And it takes only 20 minutes to get to the station by bus . A: Yes , but what will happen if the bus is late ? B: Relax , those buses run <MASK> , so we have plenty of time . A: ( still on the bus . ) What time is it ? B: It is a quarter to twelve . A: Oh dear , we will miss our train .
+Choices:
+every 10 minutes
+every 15 hours
+every 12 seconds",every 10 minutes,every 10 minutes,True
+278,llama-3.3-70b-versatile,test_temporal_en,"A:Ann , let's go , or we will be late . B: What time is it ? A: It is already 10:25 . B: Well , we still have about 15 minutes . A: What time did you say the train is leaving ? B: 12:05 . And it takes only <MASK> to get to the station by bus . A: Yes , but what will happen if the bus is late ? B: Relax , those buses run every 10 minutes , so we have plenty of time . A: ( still on the bus . ) What time is it ? B: It is a quarter to twelve . A: Oh dear , we will miss our train .
+Choices:
+20 minutes
+12 hours
+10 seconds",20 minutes,20 minutes,True
+279,llama-3.3-70b-versatile,test_temporal_en,"A:Ann , let's go , or we will be late . B: What time is it ? A: It is already 10:25 . B: Well , we still have <MASK> . A: What time did you say the train is leaving ? B: 12:05 . And it takes only 20 minutes to get to the station by bus . A: Yes , but what will happen if the bus is late ? B: Relax , those buses run every 10 minutes , so we have plenty of time . A: ( still on the bus . ) What time is it ? B: It is a quarter to twelve . A: Oh dear , we will miss our train .
+Choices:
+about 15 minutes
+about 20 hours
+about 12 seconds",about 15 minutes,about 15 minutes,True
+280,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me . What's the time difference between Beijing and San Francisco ? B: <MASK> . Beijing is 16 hours ahead . A: Are we losing or gaining a day on the way to America ? B: We are gaining a day . A: So does it mean we're arriving on the same day ? B: That's right .
+Choices:
+16 hours
+16 minutes
+a day",16 hours,16 hours,True
+281,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me , driver , you have kept us waiting for 15 minutes . Can't we start the tour right now ? B: I am sorry , sir , there are still <MASK> remaining ... OK , it's time . We will take a roll call before starting the fantasy sightseeing . A: Finally . How long does the tour last ? B: For about 3 hours . Enjoy your trip .
+Choices:
+5 minutes
+3 hours
+15 seconds",5 minutes,5 minutes,True
+282,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me , driver , you have kept us waiting for <MASK> . Can't we start the tour right now ? B: I am sorry , sir , there are still 5 minutes remaining ... OK , it's time . We will take a roll call before starting the fantasy sightseeing . A: Finally . How long does the tour last ? B: For about 3 hours . Enjoy your trip .
+Choices:
+15 minutes
+3 hours
+5 seconds",15 minutes,15 minutes,True
+283,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me , sir , since my train leaves at 16:00 . Have you a <MASK> tour ? B: You are lucky , sir . We are about to set out . It's a tour to the White House . A: Well , I have just missed the place . How long does the tour take ? B: 2 hours . You won't get late for your train . A: I hope so .
+Choices:
+3 - hour
+16 seconds
+Five minutes",3 - hour,2 hours,False
+284,llama-3.3-70b-versatile,test_temporal_en,"A:Is there anything I can do for you ? B: Yes , I joined your group of bus tour this morning . You promised the journey will <MASK> and we will visit 15 sightseeing spots . A: Yes , sir . We promised that . B: But have 2 - hour journey . A: Really ? I am sorry , sir . We will look into this matter . Would you please wait a moment here ?
+Choices:
+last 3 hours
+last 15 days
+last 1 week",last 3 hours,last 3 hours,True
+285,llama-3.3-70b-versatile,test_temporal_en,"A:Is there anything I can do for you ? B: I want to have a trip to Sydney . A: Sure . How long is your vacation ? B: <MASK> A: Well , how do you like this one ? You will stay there for 17 days . B: It's good . By the way , what kind of clothes do I have to bring with me ? A: It's summer in Sydney so you have to bring your summer wear .
+Choices:
+3 weeks
+3 days
+Four months",3 weeks,3 weeks,True
+286,llama-3.3-70b-versatile,test_temporal_en,"A:New York Airport.May I help you ? B: Yes . I am calling to make sure if flight CG877 will arrive on time ? A: Hold on a moment please ... Sorry , the flight from London has been delayed . It departed two hours later than scheduled.The whether in London was really bad . B: You mean it will arrive <MASK> than usual ? A: So far we could only deduce this way.If you want further information , would you please call us 1 hour later ? B: OK , thank you .
+Choices:
+two hours later
+1 hour later
+Five minutes later",two hours later,two hours later,True
+287,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me , what's the time difference between Tokyo and London ? B: 8 hours . Tokyo is 8 hours earlier than London . A: It's <MASK> more or one day less from Tokyo to London ? B: One day more . A: It means that we will arrive on the same day . B: Yes .
+Choices:
+one day
+8 hours
+one year",one day,one day,True
+288,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me , what's the time difference between Tokyo and London ? B: 8 hours . Tokyo is <MASK> earlier than London . A: It's one day more or one day less from Tokyo to London ? B: One day more . A: It means that we will arrive on the same day . B: Yes .
+Choices:
+8 hours
+8 minutes
+one day",8 hours,8 hours,True
+289,llama-3.3-70b-versatile,test_temporal_en,"A:Excuse me , what's the time difference between Tokyo and London ? B: <MASK> . Tokyo is 8 hours earlier than London . A: It's one day more or one day less from Tokyo to London ? B: One day more . A: It means that we will arrive on the same day . B: Yes .
+Choices:
+8 hours
+one day
+8 minutes",8 hours,8 hours,True
+290,llama-3.3-70b-versatile,test_temporal_en,"A:Will you book a ticket to New York for me ? B: Yes , sir.When do you want to leave here ? A: This Saturday . B: Will , that'll be the sixth of September . A: That's right.Will you check what fights are available on the sixth of September ? B: I'll check it over.Oh , there're three flights available that day.one at 2 p . m . , one at 5 p . m . and the other at 9p . m . A: I'll have the <MASK> one.What time do I check in ? B: 4 o'clock . A: Thank you .
+Choices:
+5 o'clock
+9 p.m
+1 p.m",5 o'clock,5 p.m,False
+291,llama-3.3-70b-versatile,test_temporal_en,"A:Will you book a ticket to New York for me ? B: Yes , sir.When do you want to leave here ? A: This Saturday . B: Will , that'll be the sixth of September . A: That's right.Will you check what fights are available on <MASK> ? B: I'll check it over.Oh , there're three flights available that day.one at 2 p . m . , one at 5 p . m . and the other at 9p . m . A: I'll have the 5 o'clock one.What time do I check in ? B: 4 o'clock . A: Thank you .
+Choices:
+the sixth of September
+the sixth of March
+the fifth of November",the sixth of September,the sixth of September,True
+292,llama-3.3-70b-versatile,test_temporal_en,"A:Will you book a ticket to New York for me ? B: Yes , sir.When do you want to leave here ? A: This Saturday . B: Will , that'll be <MASK> . A: That's right.Will you check what fights are available on the sixth of September ? B: I'll check it over.Oh , there're three flights available that day.one at 2 p . m . , one at 5 p . m . and the other at 9p . m . A: I'll have the 5 o'clock one.What time do I check in ? B: 4 o'clock . A: Thank you .
+Choices:
+the sixth of September
+The seventh of October
+The twenty of November",the sixth of September,the sixth of September,True
+293,llama-3.3-70b-versatile,test_temporal_en,"A:Can you book me a double room for <MASK> ? B: Well , we won't be able to guarantee you a room for February 22 , but we can book you on February 23.Is that OK ? A: I guess so .
+Choices:
+February 22
+March 30
+December 12",February 22,February 22,True
+294,llama-3.3-70b-versatile,test_temporal_en,"A:Well , we've been waiting for our baggage for <MASK> . B: What kind of bag is it ? A: It's blue , Samsonite bag . B: What is your room number and your name , please ? A: This is room eleven-seven and my name is Terry Chen . B: Well , let me check.We delivered four bags to room 1106 , you friend's room about an hour ago . A: My friend's room ? Oh , I see.Thanks a lot . B: You're quite welcome .
+Choices:
+about one hour
+1106 seconds
+eleven-seven hours",about one hour,about one hour,True
+295,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , Anna . Come in and sit down . B: Hello , doctor . A: What's the matter ? B: I've got a backache . A: Do you often suffer from backache ? B: No , I don't . I've never had a bad one before . A: When did it start ? B: About four days ago . A: Well , go home and rest in bed for <MASK> , then you'll feel better . B: Can you give me some medicine ? It's very painful . A: Yes , I'll give you some pills . Take one a time and three times a day , and come back in three days . If you don't feel ...
+Choices:
+two days
+four years
+three minutes",two days,two days,True
+296,llama-3.3-70b-versatile,test_temporal_en,"A:Hello , Anna . Come in and sit down . B: Hello , doctor . A: What's the matter ? B: I've got a backache . A: Do you often suffer from backache ? B: No , I don't . I've never had a bad one before . A: When did it start ? B: <MASK> . A: Well , go home and rest in bed for two days , then you'll feel better . B: Can you give me some medicine ? It's very painful . A: Yes , I'll give you some pills . Take one a time and three times a day , and come back in three days . If you don't feel ...
+Choices:
+About four days ago
+two years ago
+3 seconds ago",About four days ago,About four days ago,True
+297,llama-3.3-70b-versatile,test_temporal_en,"A:How long has the company been in business ? B: For over forty years . The original company Davies Engineering - was founded in 1960 by the Davies brothers in a small workshop near Manchester . They closed down the workshop in <MASK> and opened up a new factory in Leeds . A: When did it become CABS ? B: In 1997 - when it was bought by a German company . They set up two more business in the UK . A: What does CABS stand for ? B: International Air Braking Systems .
+Choices:
+1980
+1640
+2025",1980,1980,True
+298,llama-3.3-70b-versatile,test_temporal_en,"A:How long has the company been in business ? B: For over forty years . The original company Davies Engineering - was founded in <MASK> by the Davies brothers in a small workshop near Manchester . They closed down the workshop in 1980 and opened up a new factory in Leeds . A: When did it become CABS ? B: In 1997 - when it was bought by a German company . They set up two more business in the UK . A: What does CABS stand for ? B: International Air Braking Systems .
+Choices:
+1960
+1997
+2020",1960,1960,True
+299,llama-3.3-70b-versatile,test_temporal_en,"A:Today I want to invite you to talk about insurance you ' re interested in . B: Thank you . I wonder whether I can enjoy the life insurance and health insurance . A: Of course . A <MASK> paid vacation a year , a five-day workweek . B: Good . Anything else ? A: Yes , all the insurance will be linked with your work . We will issue an insurance policy .
+Choices:
+two-week
+five-month
+three-hour",two-week,two-week,True
